@@ -1,0 +1,6 @@
+# Caches de bytecode Python, generes par tools/export.py
+__pycache__/
+*.py[cod]
+
+# Fichiers systeme
+.DS_Store
