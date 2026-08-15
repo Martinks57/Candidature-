@@ -1,0 +1,651 @@
+﻿Bloc,Jour,Theme,Italien,Francais,Esempio (IT),Exemple (FR)
+Bloc 1 - Socle de terrain,1,Verbes d'action essentiels I (déplacement du patient),arrivare,arriver,Arriviamo sul posto tra due minuti.,Nous arrivons sur place dans deux minutes.
+Bloc 1 - Socle de terrain,1,Verbes d'action essentiels I (déplacement du patient),entrare,entrer,Permette che entriamo in casa?,Vous permettez que nous entrions dans la maison ?
+Bloc 1 - Socle de terrain,1,Verbes d'action essentiels I (déplacement du patient),uscire,sortir,Usciamo dal palazzo con la barella.,Nous sortons de l'immeuble avec le brancard.
+Bloc 1 - Socle de terrain,1,Verbes d'action essentiels I (déplacement du patient),salire,monter,Deve salire in ambulanza con noi.,Vous devez monter dans l'ambulance avec nous.
+Bloc 1 - Socle de terrain,1,Verbes d'action essentiels I (déplacement du patient),scendere,descendre,Scendiamo le scale con la sedia portantina.,Nous descendons les escaliers avec la chaise de transport.
+Bloc 1 - Socle de terrain,1,Verbes d'action essentiels I (déplacement du patient),sedersi,s'asseoir,"Si sieda qui, per favore.","Asseyez-vous ici, s'il vous plaît."
+Bloc 1 - Socle de terrain,1,Verbes d'action essentiels I (déplacement du patient),sdraiarsi,s'allonger,"Si sdrai sulla barella, la aiuto io.","Allongez-vous sur le brancard, je vous aide."
+Bloc 1 - Socle de terrain,1,Verbes d'action essentiels I (déplacement du patient),alzarsi,se lever,"Non si alzi da solo, aspetti noi.","Ne vous levez pas seul, attendez-nous."
+Bloc 1 - Socle de terrain,1,Verbes d'action essentiels I (déplacement du patient),camminare,marcher,Riesce a camminare fino all'ambulanza?,Arrivez-vous à marcher jusqu'à l'ambulance ?
+Bloc 1 - Socle de terrain,1,Verbes d'action essentiels I (déplacement du patient),respirare,respirer,"Respiri profondamente, con calma.","Respirez profondément, calmement."
+Bloc 1 - Socle de terrain,2,Verbes d'action II (manutention et brancardage),sollevare,soulever,Solleviamo il paziente al mio tre.,Nous soulevons le patient à mon trois.
+Bloc 1 - Socle de terrain,2,Verbes d'action II (manutention et brancardage),spostare,déplacer,Spostiamo il tavolino per passare con la barella.,Déplaçons la petite table pour passer avec le brancard.
+Bloc 1 - Socle de terrain,2,Verbes d'action II (manutention et brancardage),girare,"tourner, retourner",Giriamo il paziente sul fianco sinistro.,Nous tournons le patient sur le flanc gauche.
+Bloc 1 - Socle de terrain,2,Verbes d'action II (manutention et brancardage),tenere,tenir,Tenga premuto qui sulla ferita.,Maintenez la pression ici sur la plaie.
+Bloc 1 - Socle de terrain,2,Verbes d'action II (manutention et brancardage),lasciare,"lâcher, laisser",Non lasci la presa finché non dico io.,Ne lâchez pas prise tant que je ne le dis pas.
+Bloc 1 - Socle de terrain,2,Verbes d'action II (manutention et brancardage),spingere,pousser,Spingi la barella verso l'ambulanza.,Pousse le brancard vers l'ambulance.
+Bloc 1 - Socle de terrain,2,Verbes d'action II (manutention et brancardage),tirare,tirer,Tira la cinghia per bloccare la barella.,Tire la sangle pour bloquer le brancard.
+Bloc 1 - Socle de terrain,2,Verbes d'action II (manutention et brancardage),appoggiare,"poser, appuyer",Appoggi la testa sul cuscino.,Posez la tête sur le coussin.
+Bloc 1 - Socle de terrain,2,Verbes d'action II (manutention et brancardage),bloccare,"bloquer, immobiliser",Blocchiamo le ruote prima di caricare.,Nous bloquons les roues avant de charger.
+Bloc 1 - Socle de terrain,2,Verbes d'action II (manutention et brancardage),caricare,charger,Carichiamo il paziente e partiamo.,Nous chargeons le patient et nous partons.
+Bloc 1 - Socle de terrain,3,L'impératif de terrain (forme de courtoisie *Lei*),Mi scusi,Excusez-moi,"Mi scusi, è Lei che ha chiamato il 144?","Excusez-moi, c'est vous qui avez appelé le 144 ?"
+Bloc 1 - Socle de terrain,3,L'impératif de terrain (forme de courtoisie *Lei*),Per favore,S'il vous plaît,Si sieda qui per favore.,Asseyez-vous ici s'il vous plaît.
+Bloc 1 - Socle de terrain,3,L'impératif de terrain (forme de courtoisie *Lei*),Mi segua,Suivez-moi,"Mi segua con lo sguardo, senza girare la testa.","Suivez-moi du regard, sans tourner la tête."
+Bloc 1 - Socle de terrain,3,L'impératif de terrain (forme de courtoisie *Lei*),Mi guardi,Regardez-moi,Mi guardi negli occhi e mi dica come si chiama.,Regardez-moi dans les yeux et dites-moi votre nom.
+Bloc 1 - Socle de terrain,3,L'impératif de terrain (forme de courtoisie *Lei*),Mi dica,Dites-moi,Mi dica esattamente dove sente male.,Dites-moi exactement où vous avez mal.
+Bloc 1 - Socle de terrain,3,L'impératif de terrain (forme de courtoisie *Lei*),Stia fermo,Ne bougez pas,"Stia fermo, le metto il collare.","Ne bougez pas, je vous mets le collier."
+Bloc 1 - Socle de terrain,3,L'impératif de terrain (forme de courtoisie *Lei*),Non si muova,Ne bougez pas,"Non si muova, sospettiamo una lesione alla schiena.","Ne bougez pas, nous suspectons une lésion au dos."
+Bloc 1 - Socle de terrain,3,L'impératif de terrain (forme de courtoisie *Lei*),Faccia piano,Allez-y doucement,Faccia piano quando si gira.,Allez-y doucement quand vous vous retournez.
+Bloc 1 - Socle de terrain,3,L'impératif de terrain (forme de courtoisie *Lei*),Respiri,Respirez,"Respiri normalmente, non trattenga il fiato.","Respirez normalement, ne retenez pas votre souffle."
+Bloc 1 - Socle de terrain,3,L'impératif de terrain (forme de courtoisie *Lei*),Mi stringa la mano,Serrez-moi la main,Mi stringa la mano più forte che può.,Serrez-moi la main aussi fort que vous pouvez.
+Bloc 1 - Socle de terrain,4,Connecteurs logiques I (cause et conséquence),perché,parce que / pourquoi,Ha chiamato perché il dolore non passava.,Il a appelé parce que la douleur ne passait pas.
+Bloc 1 - Socle de terrain,4,Connecteurs logiques I (cause et conséquence),quindi,donc,"È diabetico, quindi controlliamo la glicemia.","Il est diabétique, donc nous contrôlons la glycémie."
+Bloc 1 - Socle de terrain,4,Connecteurs logiques I (cause et conséquence),però,"mais, pourtant","Respira bene, però è molto pallido.","Il respire bien, mais il est très pâle."
+Bloc 1 - Socle de terrain,4,Connecteurs logiques I (cause et conséquence),invece,"en revanche, par contre","Il polso è regolare, la pressione invece è bassa.","Le pouls est régulier, la tension en revanche est basse."
+Bloc 1 - Socle de terrain,4,Connecteurs logiques I (cause et conséquence),anche,aussi,Anche il braccio sinistro le fa male?,Le bras gauche vous fait mal aussi ?
+Bloc 1 - Socle de terrain,4,Connecteurs logiques I (cause et conséquence),inoltre,de plus,Inoltre il paziente prende anticoagulanti.,"De plus, le patient prend des anticoagulants."
+Bloc 1 - Socle de terrain,4,Connecteurs logiques I (cause et conséquence),allora,alors,Allora procediamo con l'ossigeno.,Alors nous procédons avec l'oxygène.
+Bloc 1 - Socle de terrain,4,Connecteurs logiques I (cause et conséquence),siccome,"comme, puisque","Siccome è cardiopatico, facciamo subito un ECG.","Comme il est cardiaque, nous faisons tout de suite un ECG."
+Bloc 1 - Socle de terrain,4,Connecteurs logiques I (cause et conséquence),cioè,c'est-à-dire,"Ha una dispnea, cioè fatica a respirare.","Il a une dyspnée, c'est-à-dire qu'il peine à respirer."
+Bloc 1 - Socle de terrain,4,Connecteurs logiques I (cause et conséquence),oppure,ou bien,Preferisce sedersi oppure restare sdraiato?,Préférez-vous vous asseoir ou bien rester allongé ?
+Bloc 1 - Socle de terrain,5,Connecteurs logiques II (chronologie de l'événement),mentre,pendant que,È caduto mentre scendeva le scale.,Il est tombé pendant qu'il descendait les escaliers.
+Bloc 1 - Socle de terrain,5,Connecteurs logiques II (chronologie de l'événement),appena,dès que,"Appena arriviamo, avvisiamo la centrale.","Dès que nous arrivons, nous prévenons la centrale."
+Bloc 1 - Socle de terrain,5,Connecteurs logiques II (chronologie de l'événement),finché,jusqu'à ce que,Tenga premuto finché non le dico di lasciare.,Maintenez la pression jusqu'à ce que je vous dise de lâcher.
+Bloc 1 - Socle de terrain,5,Connecteurs logiques II (chronologie de l'événement),prima di,avant de,"Prima di muoverla, le mettiamo il collare.","Avant de vous bouger, nous vous mettons le collier."
+Bloc 1 - Socle de terrain,5,Connecteurs logiques II (chronologie de l'événement),dopo,après,Dopo la caduta ha perso conoscenza?,"Après la chute, a-t-il perdu connaissance ?"
+Bloc 1 - Socle de terrain,5,Connecteurs logiques II (chronologie de l'événement),da quando,depuis quand,Da quando ha questo dolore?,Depuis quand avez-vous cette douleur ?
+Bloc 1 - Socle de terrain,5,Connecteurs logiques II (chronologie de l'événement),ogni volta che,chaque fois que,Ogni volta che respira profondamente il dolore aumenta?,"Chaque fois que vous respirez profondément, la douleur augmente ?"
+Bloc 1 - Socle de terrain,5,Connecteurs logiques II (chronologie de l'événement),improvvisamente,soudainement,Il dolore è iniziato improvvisamente.,La douleur a commencé soudainement.
+Bloc 1 - Socle de terrain,5,Connecteurs logiques II (chronologie de l'événement),poco fa,il y a peu,Ha vomitato poco fa.,Il a vomi il y a peu.
+Bloc 1 - Socle de terrain,5,Connecteurs logiques II (chronologie de l'événement),da allora,depuis lors,È caduto ieri e da allora non cammina più.,Il est tombé hier et depuis lors il ne marche plus.
+Bloc 1 - Socle de terrain,6,Orientation et espace I (positions relatives),davanti,devant,L'autoambulanza è davanti al portone.,L'ambulance est devant la porte d'entrée.
+Bloc 1 - Socle de terrain,6,Orientation et espace I (positions relatives),dietro,derrière,"Il paziente è dietro la casa, in giardino.","Le patient est derrière la maison, dans le jardin."
+Bloc 1 - Socle de terrain,6,Orientation et espace I (positions relatives),sopra,"au-dessus, sur",La bombola è sopra la barella.,La bouteille est au-dessus du brancard.
+Bloc 1 - Socle de terrain,6,Orientation et espace I (positions relatives),sotto,"sous, en dessous",Il materiale di riserva è sotto la barella.,Le matériel de réserve est sous le brancard.
+Bloc 1 - Socle de terrain,6,Orientation et espace I (positions relatives),accanto a,à côté de,Si metta accanto alla testa del paziente.,Place-toi à côté de la tête du patient.
+Bloc 1 - Socle de terrain,6,Orientation et espace I (positions relatives),in mezzo a,au milieu de,Il ferito è in mezzo alla strada.,Le blessé est au milieu de la route.
+Bloc 1 - Socle de terrain,6,Orientation et espace I (positions relatives),a destra,à droite,"Il dolore è a destra, sotto le costole.","La douleur est à droite, sous les côtes."
+Bloc 1 - Socle de terrain,6,Orientation et espace I (positions relatives),a sinistra,à gauche,Gira a sinistra dopo il semaforo.,Tourne à gauche après le feu.
+Bloc 1 - Socle de terrain,6,Orientation et espace I (positions relatives),dritto,tout droit,Vada dritto fino in fondo al corridoio.,Allez tout droit jusqu'au bout du couloir.
+Bloc 1 - Socle de terrain,6,Orientation et espace I (positions relatives),in fondo,au fond,Il bagno è in fondo al corridoio.,La salle de bain est au fond du couloir.
+Bloc 1 - Socle de terrain,7,Orientation et espace II (accès au patient dans le bâtiment),il piano,l'étage,Il paziente è al terzo piano senza ascensore.,Le patient est au troisième étage sans ascenseur.
+Bloc 1 - Socle de terrain,7,Orientation et espace II (accès au patient dans le bâtiment),l'ascensore,l'ascenseur,L'ascensore è troppo stretto per la barella.,L'ascenseur est trop étroit pour le brancard.
+Bloc 1 - Socle de terrain,7,Orientation et espace II (accès au patient dans le bâtiment),le scale,les escaliers,Facciamo le scale con la sedia portantina.,Nous prenons les escaliers avec la chaise de transport.
+Bloc 1 - Socle de terrain,7,Orientation et espace II (accès au patient dans le bâtiment),il pianerottolo,le palier,Lo stabilizziamo sul pianerottolo.,Nous le stabilisons sur le palier.
+Bloc 1 - Socle de terrain,7,Orientation et espace II (accès au patient dans le bâtiment),il corridoio,le couloir,La camera è la seconda a destra nel corridoio.,La chambre est la deuxième à droite dans le couloir.
+Bloc 1 - Socle de terrain,7,Orientation et espace II (accès au patient dans le bâtiment),il portone,la porte d'entrée de l'immeuble,"Ci apra il portone, per favore.","Ouvrez-nous la porte d'entrée, s'il vous plaît."
+Bloc 1 - Socle de terrain,7,Orientation et espace II (accès au patient dans le bâtiment),il campanello,la sonnette,Ho suonato il campanello ma non risponde nessuno.,J'ai sonné mais personne ne répond.
+Bloc 1 - Socle de terrain,7,Orientation et espace II (accès au patient dans le bâtiment),il cortile,la cour,Posteggiamo l'autoambulanza nel cortile.,Nous garons l'ambulance dans la cour.
+Bloc 1 - Socle de terrain,7,Orientation et espace II (accès au patient dans le bâtiment),il posteggio,la place de parc (helvétisme),Non c'è posteggio davanti allo stabile.,Il n'y a pas de place de parc devant l'immeuble.
+Bloc 1 - Socle de terrain,7,Orientation et espace II (accès au patient dans le bâtiment),lo stabile,l'immeuble,Lo stabile ha il codice sul citofono.,L'immeuble a un code sur l'interphone.
+Bloc 1 - Socle de terrain,8,Le temps et la durée,"adesso, ora",maintenant,Come si sente adesso?,Comment vous sentez-vous maintenant ?
+Bloc 1 - Socle de terrain,8,Le temps et la durée,subito,tout de suite,Partiamo subito verso il Pronto Soccorso.,Nous partons tout de suite vers les urgences.
+Bloc 1 - Socle de terrain,8,Le temps et la durée,tra poco,dans un instant,Tra poco le misuro di nuovo la pressione.,Dans un instant je reprends votre tension.
+Bloc 1 - Socle de terrain,8,Le temps et la durée,da quanto tempo,depuis combien de temps,Da quanto tempo ha questi sintomi?,Depuis combien de temps avez-vous ces symptômes ?
+Bloc 1 - Socle de terrain,8,Le temps et la durée,fa (due ore fa),il y a (deux heures),Il dolore è iniziato due ore fa.,La douleur a commencé il y a deux heures.
+Bloc 1 - Socle de terrain,8,Le temps et la durée,stamattina,ce matin,Stamattina si è sentito male alzandosi.,Ce matin il s'est senti mal en se levant.
+Bloc 1 - Socle de terrain,8,Le temps et la durée,stanotte,cette nuit,Stanotte non è riuscito a dormire per la tosse.,Cette nuit il n'a pas pu dormir à cause de la toux.
+Bloc 1 - Socle de terrain,8,Le temps et la durée,ieri sera,hier soir,Ieri sera ha vomitato tre volte.,Hier soir il a vomi trois fois.
+Bloc 1 - Socle de terrain,8,Le temps et la durée,da giorni,depuis des jours,Ha la febbre da tre giorni.,Il a de la fièvre depuis trois jours.
+Bloc 1 - Socle de terrain,8,Le temps et la durée,ancora,"encore, toujours",Ha ancora male al petto?,Avez-vous encore mal à la poitrine ?
+Bloc 1 - Socle de terrain,9,Adjectifs fréquents I (état clinique),grave,grave,Il paziente è in condizioni gravi.,Le patient est dans un état grave.
+Bloc 1 - Socle de terrain,9,Adjectifs fréquents I (état clinique),lieve,léger,Si tratta di un trauma lieve.,Il s'agit d'un traumatisme léger.
+Bloc 1 - Socle de terrain,9,Adjectifs fréquents I (état clinique),forte,"fort, intense",Ha un dolore molto forte al torace.,Il a une douleur très forte au thorax.
+Bloc 1 - Socle de terrain,9,Adjectifs fréquents I (état clinique),debole,faible,Il polso è debole e filiforme.,Le pouls est faible et filant.
+Bloc 1 - Socle de terrain,9,Adjectifs fréquents I (état clinique),freddo,froid,Ha le mani fredde e sudate.,Il a les mains froides et moites.
+Bloc 1 - Socle de terrain,9,Adjectifs fréquents I (état clinique),caldo,chaud,"La fronte è calda, ha la febbre.","Le front est chaud, il a de la fièvre."
+Bloc 1 - Socle de terrain,9,Adjectifs fréquents I (état clinique),duro,dur,L'addome è duro alla palpazione.,L'abdomen est dur à la palpation.
+Bloc 1 - Socle de terrain,9,Adjectifs fréquents I (état clinique),molle,"souple, mou",L'addome è molle e trattabile.,L'abdomen est souple et dépressible.
+Bloc 1 - Socle de terrain,9,Adjectifs fréquents I (état clinique),gonfio,enflé,La caviglia destra è gonfia.,La cheville droite est enflée.
+Bloc 1 - Socle de terrain,9,Adjectifs fréquents I (état clinique),rigido,raide,Ha la nuca rigida.,Il a la nuque raide.
+Bloc 1 - Socle de terrain,10,Adjectifs fréquents II (aspect et comportement),pallido,pâle,Il paziente è pallido e sudato.,Le patient est pâle et en sueur.
+Bloc 1 - Socle de terrain,10,Adjectifs fréquents II (aspect et comportement),sudato,en sueur,"È sudato freddo, sospettiamo uno shock.","Il a des sueurs froides, nous suspectons un choc."
+Bloc 1 - Socle de terrain,10,Adjectifs fréquents II (aspect et comportement),cianotico,cyanosé,Ha le labbra cianotiche.,Il a les lèvres cyanosées.
+Bloc 1 - Socle de terrain,10,Adjectifs fréquents II (aspect et comportement),confuso,confus,È confuso e non sa che giorno è.,Il est confus et ne sait pas quel jour on est.
+Bloc 1 - Socle de terrain,10,Adjectifs fréquents II (aspect et comportement),agitato,agité,Il paziente è agitato e non collabora.,Le patient est agité et ne coopère pas.
+Bloc 1 - Socle de terrain,10,Adjectifs fréquents II (aspect et comportement),tranquillo,calme,"Stia tranquillo, siamo qui per aiutarla.","Restez calme, nous sommes là pour vous aider."
+Bloc 1 - Socle de terrain,10,Adjectifs fréquents II (aspect et comportement),cosciente,conscient,Il paziente è cosciente e orientato.,Le patient est conscient et orienté.
+Bloc 1 - Socle de terrain,10,Adjectifs fréquents II (aspect et comportement),incosciente,inconscient,L'abbiamo trovato incosciente sul pavimento.,Nous l'avons trouvé inconscient sur le sol.
+Bloc 1 - Socle de terrain,10,Adjectifs fréquents II (aspect et comportement),sonnolento,somnolent,È sonnolento ma risvegliabile.,Il est somnolent mais réveillable.
+Bloc 1 - Socle de terrain,10,Adjectifs fréquents II (aspect et comportement),collaborante,coopérant,Il paziente è collaborante e risponde a tutte le domande.,Le patient est coopérant et répond à toutes les questions.
+Bloc 1 - Socle de terrain,11,"Quantité, intensité, fréquence",molto,"beaucoup, très",Ha perso molto sangue.,Il a perdu beaucoup de sang.
+Bloc 1 - Socle de terrain,11,"Quantité, intensité, fréquence",poco,peu,Ha bevuto poco da ieri.,Il a peu bu depuis hier.
+Bloc 1 - Socle de terrain,11,"Quantité, intensité, fréquence",abbastanza,assez,Respira abbastanza bene con l'ossigeno.,Il respire assez bien avec l'oxygène.
+Bloc 1 - Socle de terrain,11,"Quantité, intensité, fréquence",troppo,trop,La pressione è troppo bassa.,La tension est trop basse.
+Bloc 1 - Socle de terrain,11,"Quantité, intensité, fréquence",un po',un peu,Sento un po' di nausea.,Je ressens un peu de nausée.
+Bloc 1 - Socle de terrain,11,"Quantité, intensité, fréquence",spesso,souvent,Le capita spesso di avere le vertigini?,Vous arrive-t-il souvent d'avoir des vertiges ?
+Bloc 1 - Socle de terrain,11,"Quantité, intensité, fréquence",raramente,rarement,Raramente ha crisi così forti.,Il a rarement des crises aussi fortes.
+Bloc 1 - Socle de terrain,11,"Quantité, intensité, fréquence",sempre,toujours,Prende sempre le sue medicine la mattina?,Prenez-vous toujours vos médicaments le matin ?
+Bloc 1 - Socle de terrain,11,"Quantité, intensité, fréquence",mai,jamais,Non ha mai avuto un infarto?,Vous n'avez jamais eu d'infarctus ?
+Bloc 1 - Socle de terrain,11,"Quantité, intensité, fréquence",di solito,d'habitude,Di solito la pressione quanto le fa?,"D'habitude, votre tension est à combien ?"
+Bloc 1 - Socle de terrain,12,Les interrogatifs,chi,qui,Chi ha chiamato il 144?,Qui a appelé le 144 ?
+Bloc 1 - Socle de terrain,12,Les interrogatifs,che cosa,"quoi, que",Che cosa è successo esattamente?,Que s'est-il passé exactement ?
+Bloc 1 - Socle de terrain,12,Les interrogatifs,quando,quand,Quando sono iniziati i sintomi?,Quand les symptômes ont-ils commencé ?
+Bloc 1 - Socle de terrain,12,Les interrogatifs,dove,où,Dove sente il dolore?,Où ressentez-vous la douleur ?
+Bloc 1 - Socle de terrain,12,Les interrogatifs,come,comment,"Come si chiama, signora?","Comment vous appelez-vous, madame ?"
+Bloc 1 - Socle de terrain,12,Les interrogatifs,quanto,combien,"Quanto pesa, più o meno?","Combien pesez-vous, à peu près ?"
+Bloc 1 - Socle de terrain,12,Les interrogatifs,quale,quel,Quale braccio non riesce a muovere?,Quel bras n'arrivez-vous pas à bouger ?
+Bloc 1 - Socle de terrain,12,Les interrogatifs,da quanto,depuis combien de temps,Da quanto è sdraiato per terra?,Depuis combien de temps est-il allongé par terre ?
+Bloc 1 - Socle de terrain,12,Les interrogatifs,Quanti anni ha?,Quel âge avez-vous ?,Quanti anni ha il paziente?,Quel âge a le patient ?
+Bloc 1 - Socle de terrain,12,Les interrogatifs,È mai successo prima?,Est-ce déjà arrivé ?,Le è mai successo prima?,Cela vous est-il déjà arrivé ?
+Bloc 1 - Socle de terrain,13,Politesse et forme de courtoisie,Lei,vous (vouvoiement),Lei ha allergie a qualche medicamento?,Avez-vous des allergies à un médicament ?
+Bloc 1 - Socle de terrain,13,Politesse et forme de courtoisie,"il signore, la signora","monsieur, madame","Signora, mi sente?","Madame, vous m'entendez ?"
+Bloc 1 - Socle de terrain,13,Politesse et forme de courtoisie,prego,je vous en prie,"Prego, si accomodi sulla barella.","Je vous en prie, installez-vous sur le brancard."
+Bloc 1 - Socle de terrain,13,Politesse et forme de courtoisie,grazie mille,merci beaucoup,Grazie mille per la collaborazione.,Merci beaucoup pour votre coopération.
+Bloc 1 - Socle de terrain,13,Politesse et forme de courtoisie,Mi permetta,Permettez-moi,Mi permetta di guardarle la gamba.,Permettez-moi de regarder votre jambe.
+Bloc 1 - Socle de terrain,13,Politesse et forme de courtoisie,Le dispiace se...,Cela vous dérange si...,Le dispiace se le apro la camicia?,Cela vous dérange si j'ouvre votre chemise ?
+Bloc 1 - Socle de terrain,13,Politesse et forme de courtoisie,Posso...?,Puis-je... ?,Posso misurarle la pressione?,Puis-je prendre votre tension ?
+Bloc 1 - Socle de terrain,13,Politesse et forme de courtoisie,Va bene così,C'est bien comme ça,"Va bene così, non si sforzi.","C'est bien comme ça, ne forcez pas."
+Bloc 1 - Socle de terrain,13,Politesse et forme de courtoisie,Non si preoccupi,Ne vous inquiétez pas,"Non si preoccupi, ci pensiamo noi.","Ne vous inquiétez pas, on s'en occupe."
+Bloc 1 - Socle de terrain,13,Politesse et forme de courtoisie,Scusi il disturbo,Désolé du dérangement,"Scusi il disturbo, devo farle ancora due domande.","Désolé du dérangement, je dois encore vous poser deux questions."
+Bloc 1 - Socle de terrain,14,Verbes modaux et structures de service,potere,pouvoir,Può muovere le dita del piede?,Pouvez-vous bouger les orteils ?
+Bloc 1 - Socle de terrain,14,Verbes modaux et structures de service,dovere,devoir,Deve venire con noi in ospedale.,Vous devez venir avec nous à l'hôpital.
+Bloc 1 - Socle de terrain,14,Verbes modaux et structures de service,volere,vouloir,Vuole che avvisiamo qualcuno della famiglia?,Voulez-vous que nous prévenions quelqu'un de la famille ?
+Bloc 1 - Socle de terrain,14,Verbes modaux et structures de service,riuscire a,"arriver à, parvenir à",Riesce a respirare meglio adesso?,Arrivez-vous à mieux respirer maintenant ?
+Bloc 1 - Socle de terrain,14,Verbes modaux et structures de service,farcela,y arriver,Ce la fa a stare seduto da solo?,Arrivez-vous à rester assis tout seul ?
+Bloc 1 - Socle de terrain,14,Verbes modaux et structures de service,avere bisogno di,avoir besoin de,Ha bisogno di aiuto per alzarsi?,Avez-vous besoin d'aide pour vous lever ?
+Bloc 1 - Socle de terrain,14,Verbes modaux et structures de service,bisogna,il faut,Bisogna portarlo subito in Pronto Soccorso.,Il faut l'emmener tout de suite aux urgences.
+Bloc 1 - Socle de terrain,14,Verbes modaux et structures de service,è necessario,il est nécessaire,È necessario mettere una via venosa.,Il est nécessaire de poser une voie veineuse.
+Bloc 1 - Socle de terrain,14,Verbes modaux et structures de service,provare a,essayer de,Provi a stringere le mie dita.,Essayez de serrer mes doigts.
+Bloc 1 - Socle de terrain,14,Verbes modaux et structures de service,smettere di,arrêter de,Ha smesso di parlare all'improvviso.,Il a arrêté de parler d'un coup.
+Bloc 1 - Socle de terrain,15,Verbes pronominaux de terrain,sentirsi,se sentir,Come si sente in questo momento?,Comment vous sentez-vous en ce moment ?
+Bloc 1 - Socle de terrain,15,Verbes pronominaux de terrain,farsi male,se faire mal,Si è fatta male alla testa cadendo?,Vous vous êtes fait mal à la tête en tombant ?
+Bloc 1 - Socle de terrain,15,Verbes pronominaux de terrain,muoversi,bouger,"Non si muova, arriviamo noi.","Ne bougez pas, nous venons à vous."
+Bloc 1 - Socle de terrain,15,Verbes pronominaux de terrain,svegliarsi,se réveiller,Si è svegliato da solo dopo la crisi?,S'est-il réveillé tout seul après la crise ?
+Bloc 1 - Socle de terrain,15,Verbes pronominaux de terrain,addormentarsi,s'endormir,Si è addormentato e non si è più svegliato.,Il s'est endormi et ne s'est plus réveillé.
+Bloc 1 - Socle de terrain,15,Verbes pronominaux de terrain,svenire,s'évanouir,È svenuta in cucina davanti al marito.,Elle s'est évanouie dans la cuisine devant son mari.
+Bloc 1 - Socle de terrain,15,Verbes pronominaux de terrain,lamentarsi,se plaindre,Si lamenta di un dolore alla schiena.,Il se plaint d'une douleur au dos.
+Bloc 1 - Socle de terrain,15,Verbes pronominaux de terrain,calmarsi,se calmer,"Si calmi, adesso respiriamo insieme.","Calmez-vous, maintenant nous respirons ensemble."
+Bloc 1 - Socle de terrain,15,Verbes pronominaux de terrain,girarsi,se retourner,"Si giri sul fianco destro, la aiuto io.","Retournez-vous sur le flanc droit, je vous aide."
+Bloc 1 - Socle de terrain,15,Verbes pronominaux de terrain,spogliarsi,se déshabiller,Deve spogliarsi solo fino alla vita.,Vous devez vous déshabiller seulement jusqu'à la taille.
+Bloc 1 - Socle de terrain,16,Raconter l'événement (passé composé de terrain),è successo,c'est arrivé,Che cosa è successo prima del malore?,Que s'est-il passé avant le malaise ?
+Bloc 1 - Socle de terrain,16,Raconter l'événement (passé composé de terrain),è caduto,il est tombé,È caduto dalla scala da circa due metri.,Il est tombé de l'échelle d'environ deux mètres.
+Bloc 1 - Socle de terrain,16,Raconter l'événement (passé composé de terrain),ha battuto la testa,il s'est cogné la tête,Ha battuto la testa contro il termosifone?,S'est-il cogné la tête contre le radiateur ?
+Bloc 1 - Socle de terrain,16,Raconter l'événement (passé composé de terrain),ha perso conoscenza,il a perdu connaissance,Ha perso conoscenza per qualche secondo.,Il a perdu connaissance pendant quelques secondes.
+Bloc 1 - Socle de terrain,16,Raconter l'événement (passé composé de terrain),si è sentito male,il s'est senti mal,Si è sentito male mentre camminava.,Il s'est senti mal pendant qu'il marchait.
+Bloc 1 - Socle de terrain,16,Raconter l'événement (passé composé de terrain),ha vomitato,il a vomi,Ha vomitato due volte dopo la caduta.,Il a vomi deux fois après la chute.
+Bloc 1 - Socle de terrain,16,Raconter l'événement (passé composé de terrain),ha avuto una crisi,il a fait une crise,Ha avuto una crisi convulsiva di due minuti.,Il a fait une crise convulsive de deux minutes.
+Bloc 1 - Socle de terrain,16,Raconter l'événement (passé composé de terrain),è scivolato,il a glissé,È scivolato sul pavimento bagnato.,Il a glissé sur le sol mouillé.
+Bloc 1 - Socle de terrain,16,Raconter l'événement (passé composé de terrain),si è tagliato,il s'est coupé,Si è tagliato la mano con un coltello.,Il s'est coupé la main avec un couteau.
+Bloc 1 - Socle de terrain,16,Raconter l'événement (passé composé de terrain),l'abbiamo trovato,nous l'avons trouvé,L'abbiamo trovato per terra in bagno.,Nous l'avons trouvé par terre dans la salle de bain.
+Bloc 1 - Socle de terrain,17,Négation et restriction,non,ne... pas,Non riesco a sentire il polso radiale.,Je n'arrive pas à sentir le pouls radial.
+Bloc 1 - Socle de terrain,17,Négation et restriction,mai,jamais,Non ha mai avuto problemi di cuore.,Il n'a jamais eu de problèmes cardiaques.
+Bloc 1 - Socle de terrain,17,Négation et restriction,"niente, nulla",rien,Non ha mangiato niente da ieri sera.,Il n'a rien mangé depuis hier soir.
+Bloc 1 - Socle de terrain,17,Négation et restriction,nessuno,personne,Non c'era nessuno in casa con lui.,Il n'y avait personne à la maison avec lui.
+Bloc 1 - Socle de terrain,17,Négation et restriction,"neanche, nemmeno",même pas,Non riesce neanche a stare in piedi.,Il n'arrive même pas à tenir debout.
+Bloc 1 - Socle de terrain,17,Négation et restriction,non... più,ne... plus,Non risponde più alle domande.,Il ne répond plus aux questions.
+Bloc 1 - Socle de terrain,17,Négation et restriction,non... ancora,pas encore,Non ha ancora preso le medicine di oggi.,Il n'a pas encore pris ses médicaments d'aujourd'hui.
+Bloc 1 - Socle de terrain,17,Négation et restriction,senza,sans,È uscito senza il bastone ed è caduto.,Il est sorti sans sa canne et il est tombé.
+Bloc 1 - Socle de terrain,17,Négation et restriction,"solo, soltanto",seulement,Sente dolore solo quando respira.,Il ressent la douleur seulement quand il respire.
+Bloc 1 - Socle de terrain,17,Négation et restriction,tranne,sauf,Muove tutto tranne il braccio sinistro.,Il bouge tout sauf le bras gauche.
+Bloc 1 - Socle de terrain,18,"Nombres, mesures et unités",il numero civico,le numéro de rue,Mi dica il numero civico esatto.,Donnez-moi le numéro de rue exact.
+Bloc 1 - Socle de terrain,18,"Nombres, mesures et unités",il peso,le poids,"Quanto pesa il bambino, circa?","Combien pèse l'enfant, environ ?"
+Bloc 1 - Socle de terrain,18,"Nombres, mesures et unités",l'altezza,la taille,Che altezza ha il paziente?,Quelle taille fait le patient ?
+Bloc 1 - Socle de terrain,18,"Nombres, mesures et unités",i chili,les kilos,Pesa circa ottanta chili.,Il pèse environ quatre-vingts kilos.
+Bloc 1 - Socle de terrain,18,"Nombres, mesures et unités",i centimetri,les centimètres,La ferita è lunga circa cinque centimetri.,La plaie mesure environ cinq centimètres.
+Bloc 1 - Socle de terrain,18,"Nombres, mesures et unités",i millilitri,les millilitres,Ha perso circa duecento millilitri di sangue.,Il a perdu environ deux cents millilitres de sang.
+Bloc 1 - Socle de terrain,18,"Nombres, mesures et unités",i milligrammi,les milligrammes,Prepara quattro milligrammi endovena.,Prépare quatre milligrammes en intraveineuse.
+Bloc 1 - Socle de terrain,18,"Nombres, mesures et unités",le gocce,les gouttes,Prende venti gocce la sera.,Il prend vingt gouttes le soir.
+Bloc 1 - Socle de terrain,18,"Nombres, mesures et unités",la metà,la moitié,Ha bevuto la metà della bottiglia.,Il a bu la moitié de la bouteille.
+Bloc 1 - Socle de terrain,18,"Nombres, mesures et unités",il doppio,le double,La dose è il doppio di quella abituale.,La dose est le double de celle habituelle.
+Bloc 1 - Socle de terrain,19,Téléphone et communication,chiamare,appeler,Chi ha chiamato la centrale 144?,Qui a appelé la centrale 144 ?
+Bloc 1 - Socle de terrain,19,Téléphone et communication,richiamare,rappeler,La centrale ci richiama tra poco.,La centrale nous rappelle dans un instant.
+Bloc 1 - Socle de terrain,19,Téléphone et communication,avvisare,prévenir,Avvisiamo il Pronto Soccorso del nostro arrivo.,Nous prévenons les urgences de notre arrivée.
+Bloc 1 - Socle de terrain,19,Téléphone et communication,il natel,le portable (helvétisme),Ha il natel con sé per avvisare la famiglia?,Avez-vous votre portable sur vous pour prévenir la famille ?
+Bloc 1 - Socle de terrain,19,Téléphone et communication,il numero di telefono,le numéro de téléphone,Mi lascia un numero di telefono di un familiare?,Vous me laissez le numéro d'un proche ?
+Bloc 1 - Socle de terrain,19,Téléphone et communication,rispondere,répondre,Non risponde al telefono da stamattina.,Il ne répond plus au téléphone depuis ce matin.
+Bloc 1 - Socle de terrain,19,Téléphone et communication,la linea,la ligne,"La linea è disturbata, ripeta per favore.","La ligne est mauvaise, répétez s'il vous plaît."
+Bloc 1 - Socle de terrain,19,Téléphone et communication,il messaggio,le message,Le lascio un messaggio con l'ospedale di destinazione.,Je vous laisse un message avec l'hôpital de destination.
+Bloc 1 - Socle de terrain,19,Téléphone et communication,mettere in vivavoce,mettre sur haut-parleur,"Metta il telefono in vivavoce, per favore.","Mettez le téléphone sur haut-parleur, s'il vous plaît."
+Bloc 1 - Socle de terrain,19,Téléphone et communication,il citofono,l'interphone,Risponda al citofono e ci apra.,Répondez à l'interphone et ouvrez-nous.
+Bloc 1 - Socle de terrain,20,Famille et entourage du patient,la moglie,l'épouse,La moglie viene con noi in ambulanza.,L'épouse vient avec nous dans l'ambulance.
+Bloc 1 - Socle de terrain,20,Famille et entourage du patient,il marito,le mari,Il marito ha chiamato il 144 alle otto.,Le mari a appelé le 144 à huit heures.
+Bloc 1 - Socle de terrain,20,Famille et entourage du patient,"il figlio, la figlia","le fils, la fille",La figlia ha le chiavi di casa.,La fille a les clés de la maison.
+Bloc 1 - Socle de terrain,20,Famille et entourage du patient,i genitori,les parents,Avvisate i genitori del bambino.,Prévenez les parents de l'enfant.
+Bloc 1 - Socle de terrain,20,Famille et entourage du patient,il vicino di casa,le voisin,Il vicino di casa ha sentito un tonfo.,Le voisin a entendu un bruit sourd.
+Bloc 1 - Socle de terrain,20,Famille et entourage du patient,"il badante, la badante",l'aide à domicile,La badante è con lei tutti i giorni.,L'aide à domicile est avec elle tous les jours.
+Bloc 1 - Socle de terrain,20,Famille et entourage du patient,il medico di famiglia,le médecin traitant,Chi è il suo medico di famiglia?,Qui est votre médecin traitant ?
+Bloc 1 - Socle de terrain,20,Famille et entourage du patient,il curatore,le curateur (représentant légal),Chi è il curatore del paziente?,Qui est le curateur du patient ?
+Bloc 1 - Socle de terrain,20,Famille et entourage du patient,la persona di riferimento,la personne de référence,Ci dia il contatto della persona di riferimento.,Donnez-nous le contact de la personne de référence.
+Bloc 1 - Socle de terrain,20,Famille et entourage du patient,il testimone,le témoin,C'è un testimone dell'incidente?,Y a-t-il un témoin de l'accident ?
+Bloc 1 - Socle de terrain,21,Vie courante et logement,la casa per anziani,"l'EMS, la maison de retraite",Il paziente vive in casa per anziani da due anni.,Le patient vit en EMS depuis deux ans.
+Bloc 1 - Socle de terrain,21,Vie courante et logement,l'appartamento,l'appartement,L'appartamento è al piano terra.,L'appartement est au rez-de-chaussée.
+Bloc 1 - Socle de terrain,21,Vie courante et logement,la chiave,la clé,Ha la chiave per chiudere la porta?,Avez-vous la clé pour fermer la porte ?
+Bloc 1 - Socle de terrain,21,Vie courante et logement,la cucina,la cuisine,"L'abbiamo trovato in cucina, seduto per terra.","Nous l'avons trouvé dans la cuisine, assis par terre."
+Bloc 1 - Socle de terrain,21,Vie courante et logement,la camera da letto,la chambre à coucher,Il paziente è nella camera da letto.,Le patient est dans la chambre à coucher.
+Bloc 1 - Socle de terrain,21,Vie courante et logement,il bagno,la salle de bain,È caduta in bagno uscendo dalla doccia.,Elle est tombée dans la salle de bain en sortant de la douche.
+Bloc 1 - Socle de terrain,21,Vie courante et logement,il letto,le lit,Lo spostiamo dal letto alla barella.,Nous le transférons du lit au brancard.
+Bloc 1 - Socle de terrain,21,Vie courante et logement,la poltrona,le fauteuil,Passa tutta la giornata in poltrona.,Il passe toute la journée dans le fauteuil.
+Bloc 1 - Socle de terrain,21,Vie courante et logement,il pavimento,le sol,Era sdraiato sul pavimento da diverse ore.,Il était allongé sur le sol depuis plusieurs heures.
+Bloc 1 - Socle de terrain,21,Vie courante et logement,accendere le luci,allumer les lumières,"Accenda tutte le luci, per favore.","Allumez toutes les lumières, s'il vous plaît."
+Bloc 1 - Socle de terrain,22,"Rue, circulation, environnement d'intervention",la strada cantonale,la route cantonale,L'incidente è sulla strada cantonale.,L'accident est sur la route cantonale.
+Bloc 1 - Socle de terrain,22,"Rue, circulation, environnement d'intervention",l'incrocio,le carrefour,Lo scontro è avvenuto all'incrocio.,La collision a eu lieu au carrefour.
+Bloc 1 - Socle de terrain,22,"Rue, circulation, environnement d'intervention",il marciapiede,le trottoir,È caduta sul marciapiede davanti al negozio.,Elle est tombée sur le trottoir devant le magasin.
+Bloc 1 - Socle de terrain,22,"Rue, circulation, environnement d'intervention",il semaforo,le feu de signalisation,Giri a destra dopo il semaforo.,Tournez à droite après le feu.
+Bloc 1 - Socle de terrain,22,"Rue, circulation, environnement d'intervention",la rotonda,le giratoire,Prenda la seconda uscita della rotonda.,Prenez la deuxième sortie du giratoire.
+Bloc 1 - Socle de terrain,22,"Rue, circulation, environnement d'intervention",l'autostrada,l'autoroute,"L'intervento è in autostrada, corsia di sorpasso.","L'intervention est sur l'autoroute, voie de dépassement."
+Bloc 1 - Socle de terrain,22,"Rue, circulation, environnement d'intervention",la galleria,le tunnel,L'incidente è dentro la galleria.,L'accident est à l'intérieur du tunnel.
+Bloc 1 - Socle de terrain,22,"Rue, circulation, environnement d'intervention",il veicolo,le véhicule,Il veicolo si è ribaltato nel fossato.,Le véhicule s'est renversé dans le fossé.
+Bloc 1 - Socle de terrain,22,"Rue, circulation, environnement d'intervention",il pedone,le piéton,Il pedone è stato investito sulle strisce.,Le piéton a été renversé sur le passage clouté.
+Bloc 1 - Socle de terrain,22,"Rue, circulation, environnement d'intervention",la corsia di emergenza,la bande d'arrêt d'urgence,Ci fermiamo sulla corsia di emergenza.,Nous nous arrêtons sur la bande d'arrêt d'urgence.
+Bloc 1 - Socle de terrain,23,Rassurer et expliquer au patient,Stia tranquillo,Restez calme,"Stia tranquillo, la portiamo in ospedale.","Restez calme, nous vous emmenons à l'hôpital."
+Bloc 1 - Socle de terrain,23,Rassurer et expliquer au patient,La aiutiamo noi,Nous vous aidons,"La aiutiamo noi, non faccia sforzi.","Nous vous aidons, ne faites pas d'efforts."
+Bloc 1 - Socle de terrain,23,Rassurer et expliquer au patient,Ci pensiamo noi,On s'en occupe,"Ci pensiamo noi alla porta, lei si concentri sul respiro.","On s'occupe de la porte, vous concentrez-vous sur votre respiration."
+Bloc 1 - Socle de terrain,23,Rassurer et expliquer au patient,Non sembra grave,Cela ne semble pas grave,Per ora non sembra niente di grave.,Pour l'instant cela ne semble rien de grave.
+Bloc 1 - Socle de terrain,23,Rassurer et expliquer au patient,Le spiego,Je vous explique,Le spiego cosa facciamo adesso.,Je vous explique ce que nous faisons maintenant.
+Bloc 1 - Socle de terrain,23,Rassurer et expliquer au patient,Sarà solo un momento,Ce ne sera qu'un instant,"Sarà solo un momento, poi finiamo.","Ce ne sera qu'un instant, puis nous aurons fini."
+Bloc 1 - Socle de terrain,23,Rassurer et expliquer au patient,Può fare un po' male,Cela peut faire un peu mal,"Può fare un po' male, ma passa subito.","Cela peut faire un peu mal, mais ça passe tout de suite."
+Bloc 1 - Socle de terrain,23,Rassurer et expliquer au patient,Respiri con me,Respirez avec moi,"Respiri con me: dentro e fuori, piano.","Respirez avec moi : inspirez, expirez, doucement."
+Bloc 1 - Socle de terrain,23,Rassurer et expliquer au patient,Siamo quasi arrivati,Nous sommes presque arrivés,Siamo quasi arrivati al Pronto Soccorso.,Nous sommes presque arrivés aux urgences.
+Bloc 1 - Socle de terrain,23,Rassurer et expliquer au patient,È in buone mani,Vous êtes entre de bonnes mains,"È in buone mani, la lasciamo ai colleghi.","Vous êtes entre de bonnes mains, nous vous confions aux collègues."
+Bloc 1 - Socle de terrain,24,"Consentement, refus, autonomie du patient",il consenso,le consentement,Ci serve il suo consenso per il trasporto.,Nous avons besoin de votre consentement pour le transport.
+Bloc 1 - Socle de terrain,24,"Consentement, refus, autonomie du patient",acconsentire,consentir,Acconsente a essere trasportato in ospedale?,Consentez-vous à être transporté à l'hôpital ?
+Bloc 1 - Socle de terrain,24,"Consentement, refus, autonomie du patient",rifiutare,refuser,Il paziente rifiuta il trasporto.,Le patient refuse le transport.
+Bloc 1 - Socle de terrain,24,"Consentement, refus, autonomie du patient",firmare,signer,Deve firmare qui il rifiuto di cura.,Vous devez signer ici le refus de soins.
+Bloc 1 - Socle de terrain,24,"Consentement, refus, autonomie du patient",il rifiuto di cura,le refus de soins,Compiliamo il modulo di rifiuto di cura.,Nous remplissons le formulaire de refus de soins.
+Bloc 1 - Socle de terrain,24,"Consentement, refus, autonomie du patient",il formulario,le formulaire (helvétisme),Le faccio firmare il formulario.,Je vous fais signer le formulaire.
+Bloc 1 - Socle de terrain,24,"Consentement, refus, autonomie du patient",le direttive anticipate,les directives anticipées,Il paziente ha delle direttive anticipate?,Le patient a-t-il des directives anticipées ?
+Bloc 1 - Socle de terrain,24,"Consentement, refus, autonomie du patient",la capacità di discernimento,la capacité de discernement,Valutiamo la capacità di discernimento del paziente.,Nous évaluons la capacité de discernement du patient.
+Bloc 1 - Socle de terrain,24,"Consentement, refus, autonomie du patient",informare,informer,L'abbiamo informata dei rischi del rifiuto.,Nous l'avons informée des risques du refus.
+Bloc 1 - Socle de terrain,24,"Consentement, refus, autonomie du patient",la responsabilità,la responsabilité,"Se rifiuta, la responsabilità è sua.","Si vous refusez, la responsabilité vous incombe."
+Bloc 1 - Socle de terrain,25,Expressions idiomatiques et faux-amis à surveiller,avere fretta,être pressé,"Non abbia fretta, si alzi piano.","Ne soyez pas pressé, levez-vous doucement."
+Bloc 1 - Socle de terrain,25,Expressions idiomatiques et faux-amis à surveiller,dare una mano,donner un coup de main,Mi dai una mano a caricare la barella?,Tu me donnes un coup de main pour charger le brancard ?
+Bloc 1 - Socle de terrain,25,Expressions idiomatiques et faux-amis à surveiller,fare in fretta,faire vite,"Facciamo in fretta, il paziente è instabile.","Faisons vite, le patient est instable."
+Bloc 1 - Socle de terrain,25,Expressions idiomatiques et faux-amis à surveiller,stare male,se sentir mal (≠ être méchant),Sta male da stamattina.,Il se sent mal depuis ce matin.
+Bloc 1 - Socle de terrain,25,Expressions idiomatiques et faux-amis à surveiller,essere salvo,être sain et sauf,È uscito salvo dall'incidente.,Il est sorti sain et sauf de l'accident.
+Bloc 1 - Socle de terrain,25,Expressions idiomatiques et faux-amis à surveiller,il colpo di sonno,le coup de fatigue au volant,Ha avuto un colpo di sonno alla guida.,Il a eu un coup de fatigue au volant.
+Bloc 1 - Socle de terrain,25,Expressions idiomatiques et faux-amis à surveiller,prendere freddo,attraper froid,Ha preso freddo aspettando fuori.,Il a attrapé froid en attendant dehors.
+Bloc 1 - Socle de terrain,25,Expressions idiomatiques et faux-amis à surveiller,un attimo,un instant,"Un attimo, controllo la saturazione.","Un instant, je contrôle la saturation."
+Bloc 1 - Socle de terrain,25,Expressions idiomatiques et faux-amis à surveiller,per terra,par terre,È rimasto per terra tutta la notte.,Il est resté par terre toute la nuit.
+Bloc 1 - Socle de terrain,25,Expressions idiomatiques et faux-amis à surveiller,di corsa,"en vitesse, en courant",Sono sceso di corsa quando ho sentito il tonfo.,Je suis descendu en courant quand j'ai entendu le bruit sourd.
+Bloc 2 - Bilan medical,26,A : Vie aeree (voies aériennes) I,le vie aeree,les voies aériennes,Le vie aeree sono libere e pervie.,Les voies aériennes sont libres et perméables.
+Bloc 2 - Bilan medical,26,A : Vie aeree (voies aériennes) I,pervio,"perméable, libre","La via aerea è pervia, il paziente parla.","La voie aérienne est libre, le patient parle."
+Bloc 2 - Bilan medical,26,A : Vie aeree (voies aériennes) I,ostruito,obstrué,Le vie aeree sono parzialmente ostruite.,Les voies aériennes sont partiellement obstruées.
+Bloc 2 - Bilan medical,26,A : Vie aeree (voies aériennes) I,l'iperestensione del capo,l'hyperextension de la tête,Eseguo l'iperestensione del capo.,J'effectue l'hyperextension de la tête.
+Bloc 2 - Bilan medical,26,A : Vie aeree (voies aériennes) I,il sollevamento del mento,l'élévation du menton,Mantengo il sollevamento del mento.,Je maintiens l'élévation du menton.
+Bloc 2 - Bilan medical,26,A : Vie aeree (voies aériennes) I,la sublussazione della mandibola,la subluxation de la mâchoire,Nel trauma uso la sublussazione della mandibola.,En traumatologie j'utilise la subluxation de la mâchoire.
+Bloc 2 - Bilan medical,26,A : Vie aeree (voies aériennes) I,il corpo estraneo,le corps étranger,Vedo un corpo estraneo in bocca.,Je vois un corps étranger dans la bouche.
+Bloc 2 - Bilan medical,26,A : Vie aeree (voies aériennes) I,la protesi dentaria,la prothèse dentaire,Tolgo la protesi dentaria mobile.,Je retire la prothèse dentaire mobile.
+Bloc 2 - Bilan medical,26,A : Vie aeree (voies aériennes) I,russare,ronfler (respiration stertoreuse),"Il paziente russa, la lingua ostruisce la via aerea.","Le patient ronfle, la langue obstrue la voie aérienne."
+Bloc 2 - Bilan medical,26,A : Vie aeree (voies aériennes) I,il gorgoglio,le gargouillement,Sento un gorgoglio: aspiro subito.,J'entends un gargouillement : j'aspire immédiatement.
+Bloc 2 - Bilan medical,27,A : Vie aeree II (obstruction et aspiration),soffocare,étouffer,Il bambino sta soffocando con un pezzo di mela.,L'enfant s'étouffe avec un morceau de pomme.
+Bloc 2 - Bilan medical,27,A : Vie aeree II (obstruction et aspiration),la disostruzione,la désobstruction,Procedo con le manovre di disostruzione.,Je procède aux manœuvres de désobstruction.
+Bloc 2 - Bilan medical,27,A : Vie aeree II (obstruction et aspiration),le pacche interscapolari,les claques dans le dos,Do cinque pacche interscapolari.,Je donne cinq claques interscapulaires.
+Bloc 2 - Bilan medical,27,A : Vie aeree II (obstruction et aspiration),la manovra di Heimlich,la manœuvre de Heimlich,Eseguo la manovra di Heimlich.,J'effectue la manœuvre de Heimlich.
+Bloc 2 - Bilan medical,27,A : Vie aeree II (obstruction et aspiration),aspirare,aspirer,Aspiro le secrezioni dal cavo orale.,J'aspire les sécrétions de la cavité buccale.
+Bloc 2 - Bilan medical,27,A : Vie aeree II (obstruction et aspiration),l'aspiratore,l'aspirateur de mucosités,"Passami l'aspiratore, per favore.","Passe-moi l'aspirateur, s'il te plaît."
+Bloc 2 - Bilan medical,27,A : Vie aeree II (obstruction et aspiration),le secrezioni,les sécrétions,Ha molte secrezioni nelle vie aeree.,Il a beaucoup de sécrétions dans les voies aériennes.
+Bloc 2 - Bilan medical,27,A : Vie aeree II (obstruction et aspiration),la cannula orofaringea,la canule oropharyngée,Inserisco una cannula orofaringea misura tre.,J'insère une canule oropharyngée taille trois.
+Bloc 2 - Bilan medical,27,A : Vie aeree II (obstruction et aspiration),il riflesso faringeo,le réflexe pharyngé,"Ha ancora il riflesso faringeo, tolgo la cannula.","Il a encore le réflexe pharyngé, je retire la canule."
+Bloc 2 - Bilan medical,27,A : Vie aeree II (obstruction et aspiration),la posizione laterale di sicurezza,la position latérale de sécurité,Lo metto in posizione laterale di sicurezza.,Je le mets en position latérale de sécurité.
+Bloc 2 - Bilan medical,28,B : Respirazione I (mécanique ventilatoire),il respiro,la respiration,Il respiro è superficiale e frequente.,La respiration est superficielle et rapide.
+Bloc 2 - Bilan medical,28,B : Respirazione I (mécanique ventilatoire),la frequenza respiratoria,la fréquence respiratoire,Frequenza respiratoria ventotto al minuto.,Fréquence respiratoire vingt-huit par minute.
+Bloc 2 - Bilan medical,28,B : Respirazione I (mécanique ventilatoire),la dispnea,la dyspnée,Il paziente presenta dispnea a riposo.,Le patient présente une dyspnée au repos.
+Bloc 2 - Bilan medical,28,B : Respirazione I (mécanique ventilatoire),l'affanno,l'essoufflement,Ha l'affanno anche da seduto.,Il est essoufflé même assis.
+Bloc 2 - Bilan medical,28,B : Respirazione I (mécanique ventilatoire),tachipnoico,tachypnéique,Il paziente è tachipnoico e sudato.,Le patient est tachypnéique et en sueur.
+Bloc 2 - Bilan medical,28,B : Respirazione I (mécanique ventilatoire),l'espansione toracica,l'ampliation thoracique,L'espansione toracica è simmetrica.,L'ampliation thoracique est symétrique.
+Bloc 2 - Bilan medical,28,B : Respirazione I (mécanique ventilatoire),superficiale,superficiel,Il respiro è superficiale.,La respiration est superficielle.
+Bloc 2 - Bilan medical,28,B : Respirazione I (mécanique ventilatoire),profondo,profond,Faccia un respiro profondo.,Prenez une respiration profonde.
+Bloc 2 - Bilan medical,28,B : Respirazione I (mécanique ventilatoire),il tiraggio,le tirage,Si nota tiraggio intercostale.,On note un tirage intercostal.
+Bloc 2 - Bilan medical,28,B : Respirazione I (mécanique ventilatoire),la respirazione paradossa,la respiration paradoxale,Presenta respirazione paradossa a destra.,Il présente une respiration paradoxale à droite.
+Bloc 2 - Bilan medical,29,B : Respirazione II (auscultation et oxygène),auscultare,ausculter,Ausculto i campi polmonari.,J'ausculte les champs pulmonaires.
+Bloc 2 - Bilan medical,29,B : Respirazione II (auscultation et oxygène),il murmure vescicolare,le murmure vésiculaire,Murmure vescicolare presente bilateralmente.,Murmure vésiculaire présent des deux côtés.
+Bloc 2 - Bilan medical,29,B : Respirazione II (auscultation et oxygène),i sibili,les sibilances,Sento sibili espiratori diffusi.,J'entends des sibilances expiratoires diffuses.
+Bloc 2 - Bilan medical,29,B : Respirazione II (auscultation et oxygène),i rantoli,les râles,"Rantoli alle basi, sospetto edema polmonare.","Râles aux bases, je suspecte un œdème pulmonaire."
+Bloc 2 - Bilan medical,29,B : Respirazione II (auscultation et oxygène),il fischio,le sifflement,Ha un fischio quando espira.,Il a un sifflement quand il expire.
+Bloc 2 - Bilan medical,29,B : Respirazione II (auscultation et oxygène),la saturazione,la saturation,Saturazione ottantotto per cento in aria ambiente.,Saturation quatre-vingt-huit pour cent à l'air ambiant.
+Bloc 2 - Bilan medical,29,B : Respirazione II (auscultation et oxygène),l'ossigeno,l'oxygène,Somministro ossigeno a dieci litri al minuto.,J'administre de l'oxygène à dix litres par minute.
+Bloc 2 - Bilan medical,29,B : Respirazione II (auscultation et oxygène),la maschera con reservoir,le masque à haute concentration,Metto la maschera con reservoir.,Je mets le masque à haute concentration.
+Bloc 2 - Bilan medical,29,B : Respirazione II (auscultation et oxygène),gli occhialini nasali,les lunettes à oxygène,Passiamo agli occhialini nasali a due litri.,Nous passons aux lunettes à oxygène à deux litres.
+Bloc 2 - Bilan medical,29,B : Respirazione II (auscultation et oxygène),ventilare,ventiler,Ventilo con pallone e maschera.,Je ventile au ballon et masque.
+Bloc 2 - Bilan medical,30,"C : Circolazione I (pouls, tension, perfusion)",il polso,le pouls,Il polso radiale è presente e regolare.,Le pouls radial est présent et régulier.
+Bloc 2 - Bilan medical,30,"C : Circolazione I (pouls, tension, perfusion)",il polso carotideo,le pouls carotidien,Cerco il polso carotideo per dieci secondi.,Je cherche le pouls carotidien pendant dix secondes.
+Bloc 2 - Bilan medical,30,"C : Circolazione I (pouls, tension, perfusion)",la frequenza cardiaca,la fréquence cardiaque,Frequenza cardiaca centoventi al minuto.,Fréquence cardiaque cent vingt par minute.
+Bloc 2 - Bilan medical,30,"C : Circolazione I (pouls, tension, perfusion)",tachicardico,tachycarde,Il paziente è tachicardico e ipoteso.,Le patient est tachycarde et hypotendu.
+Bloc 2 - Bilan medical,30,"C : Circolazione I (pouls, tension, perfusion)",bradicardico,bradycarde,È bradicardico a quaranta battiti.,Il est bradycarde à quarante battements.
+Bloc 2 - Bilan medical,30,"C : Circolazione I (pouls, tension, perfusion)",la pressione arteriosa,la tension artérielle,Pressione arteriosa novanta su sessanta.,Tension artérielle quatre-vingt-dix sur soixante.
+Bloc 2 - Bilan medical,30,"C : Circolazione I (pouls, tension, perfusion)",ipoteso,hypotendu,"Il paziente è ipoteso, alziamo le gambe.","Le patient est hypotendu, nous surélevons les jambes."
+Bloc 2 - Bilan medical,30,"C : Circolazione I (pouls, tension, perfusion)",il tempo di riempimento capillare,le temps de recoloration cutanée,Riempimento capillare superiore a tre secondi.,Recoloration cutanée supérieure à trois secondes.
+Bloc 2 - Bilan medical,30,"C : Circolazione I (pouls, tension, perfusion)",la cute,la peau,"La cute è fredda, pallida e sudata.","La peau est froide, pâle et moite."
+Bloc 2 - Bilan medical,30,"C : Circolazione I (pouls, tension, perfusion)",lo shock,le choc,Sospettiamo uno shock ipovolemico.,Nous suspectons un choc hypovolémique.
+Bloc 2 - Bilan medical,31,C : Circolazione II (hémorragies),l'emorragia,l'hémorragie,Emorragia importante alla coscia destra.,Hémorragie importante à la cuisse droite.
+Bloc 2 - Bilan medical,31,C : Circolazione II (hémorragies),il sanguinamento,le saignement,Il sanguinamento è arterioso e pulsante.,Le saignement est artériel et pulsatile.
+Bloc 2 - Bilan medical,31,C : Circolazione II (hémorragies),comprimere,comprimer,Comprimo direttamente sulla ferita.,Je comprime directement sur la plaie.
+Bloc 2 - Bilan medical,31,C : Circolazione II (hémorragies),la compressione diretta,la compression directe,La compressione diretta non basta.,La compression directe ne suffit pas.
+Bloc 2 - Bilan medical,31,C : Circolazione II (hémorragies),il laccio emostatico,le garrot,Applico il laccio emostatico sopra la ferita.,J'applique le garrot au-dessus de la plaie.
+Bloc 2 - Bilan medical,31,C : Circolazione II (hémorragies),la medicazione compressiva,le pansement compressif,Metto una medicazione compressiva.,Je pose un pansement compressif.
+Bloc 2 - Bilan medical,31,C : Circolazione II (hémorragies),la garza sterile,la compresse stérile,Passami altre garze sterili.,Passe-moi d'autres compresses stériles.
+Bloc 2 - Bilan medical,31,C : Circolazione II (hémorragies),il coagulo,le caillot,"Non togliere la garza, rovini il coagulo.","N'enlève pas la compresse, tu abîmes le caillot."
+Bloc 2 - Bilan medical,31,C : Circolazione II (hémorragies),l'epistassi,"l'épistaxis, le saignement de nez",Epistassi in paziente anticoagulato.,Épistaxis chez un patient sous anticoagulants.
+Bloc 2 - Bilan medical,31,C : Circolazione II (hémorragies),il sangue,le sang,Ha perso molto sangue prima del nostro arrivo.,Il a perdu beaucoup de sang avant notre arrivée.
+Bloc 2 - Bilan medical,32,"D : Disabilità neurologica I (conscience, pupilles)",lo stato di coscienza,l'état de conscience,Valuto lo stato di coscienza con la scala AVPU.,J'évalue l'état de conscience avec l'échelle AVPU.
+Bloc 2 - Bilan medical,32,"D : Disabilità neurologica I (conscience, pupilles)",la scala di Glasgow,le score de Glasgow,Glasgow tredici: apre gli occhi allo stimolo verbale.,Glasgow treize : il ouvre les yeux à la stimulation verbale.
+Bloc 2 - Bilan medical,32,"D : Disabilità neurologica I (conscience, pupilles)",vigile,"vigile, éveillé",Il paziente è vigile e orientato.,Le patient est vigile et orienté.
+Bloc 2 - Bilan medical,32,"D : Disabilità neurologica I (conscience, pupilles)",lo stimolo doloroso,le stimulus douloureux,Reagisce solo allo stimolo doloroso.,Il ne réagit qu'au stimulus douloureux.
+Bloc 2 - Bilan medical,32,"D : Disabilità neurologica I (conscience, pupilles)",non responsivo,non réactif,Il paziente è non responsivo.,Le patient est non réactif.
+Bloc 2 - Bilan medical,32,"D : Disabilità neurologica I (conscience, pupilles)",le pupille,les pupilles,Pupille isocoriche e reagenti alla luce.,Pupilles isocores et réactives à la lumière.
+Bloc 2 - Bilan medical,32,"D : Disabilità neurologica I (conscience, pupilles)",isocorico,isocore,"Pupille isocoriche, diametro tre millimetri.","Pupilles isocores, diamètre trois millimètres."
+Bloc 2 - Bilan medical,32,"D : Disabilità neurologica I (conscience, pupilles)",la midriasi,la mydriase,Midriasi bilaterale non reagente.,Mydriase bilatérale aréactive.
+Bloc 2 - Bilan medical,32,"D : Disabilità neurologica I (conscience, pupilles)",la miosi,le myosis,"Miosi serrata, sospetto intossicazione da oppiacei.","Myosis serré, je suspecte une intoxication aux opiacés."
+Bloc 2 - Bilan medical,32,"D : Disabilità neurologica I (conscience, pupilles)",orientato nel tempo e nello spazio,orienté dans le temps et l'espace,Il paziente è orientato nel tempo e nello spazio.,Le patient est orienté dans le temps et l'espace.
+Bloc 2 - Bilan medical,33,D : Disabilità neurologica II (AVC et convulsions),l'ictus,l'AVC,"Sospetto ictus, attiviamo il percorso ictus.","Suspicion d'AVC, nous activons la filière AVC."
+Bloc 2 - Bilan medical,33,D : Disabilità neurologica II (AVC et convulsions),la paresi,la parésie,Paresi del braccio destro da un'ora.,Parésie du bras droit depuis une heure.
+Bloc 2 - Bilan medical,33,D : Disabilità neurologica II (AVC et convulsions),l'emiplegia,l'hémiplégie,Emiplegia sinistra completa.,Hémiplégie gauche complète.
+Bloc 2 - Bilan medical,33,D : Disabilità neurologica II (AVC et convulsions),la bocca storta,la bouche déviée,Ha la bocca storta a sinistra.,Il a la bouche déviée à gauche.
+Bloc 2 - Bilan medical,33,D : Disabilità neurologica II (AVC et convulsions),l'afasia,l'aphasie,"Il paziente è afasico, non trova le parole.","Le patient est aphasique, il ne trouve pas ses mots."
+Bloc 2 - Bilan medical,33,D : Disabilità neurologica II (AVC et convulsions),la disartria,la dysarthrie,Parla con disartria evidente.,Il parle avec une dysarthrie évidente.
+Bloc 2 - Bilan medical,33,D : Disabilità neurologica II (AVC et convulsions),l'ora d'esordio,l'heure de début,L'ora d'esordio dei sintomi è le sette e trenta.,L'heure de début des symptômes est sept heures trente.
+Bloc 2 - Bilan medical,33,D : Disabilità neurologica II (AVC et convulsions),la crisi convulsiva,la crise convulsive,Ha avuto una crisi convulsiva generalizzata.,Il a fait une crise convulsive généralisée.
+Bloc 2 - Bilan medical,33,D : Disabilità neurologica II (AVC et convulsions),le convulsioni,les convulsions,Le convulsioni sono durate due minuti.,Les convulsions ont duré deux minutes.
+Bloc 2 - Bilan medical,33,D : Disabilità neurologica II (AVC et convulsions),la fase postcritica,la phase post-critique,"È in fase postcritica, confuso e sonnolento.","Il est en phase post-critique, confus et somnolent."
+Bloc 2 - Bilan medical,34,E : Esposizione e ambiente,l'esposizione,l'exposition (déshabillage),Procedo all'esposizione per valutare le lesioni.,Je procède à l'exposition pour évaluer les lésions.
+Bloc 2 - Bilan medical,34,E : Esposizione e ambiente,la temperatura corporea,la température corporelle,Temperatura corporea trentacinque gradi.,Température corporelle trente-cinq degrés.
+Bloc 2 - Bilan medical,34,E : Esposizione e ambiente,l'ipotermia,l'hypothermie,Sospetto ipotermia moderata.,Je suspecte une hypothermie modérée.
+Bloc 2 - Bilan medical,34,E : Esposizione e ambiente,la febbre,la fièvre,Ha la febbre alta da due giorni.,Il a une forte fièvre depuis deux jours.
+Bloc 2 - Bilan medical,34,E : Esposizione e ambiente,il colpo di calore,le coup de chaleur,Sospetto colpo di calore dopo il lavoro al sole.,Je suspecte un coup de chaleur après le travail au soleil.
+Bloc 2 - Bilan medical,34,E : Esposizione e ambiente,la coperta isotermica,la couverture de survie,Copro il paziente con la coperta isotermica.,Je couvre le patient avec la couverture de survie.
+Bloc 2 - Bilan medical,34,E : Esposizione e ambiente,l'ustione,la brûlure,Ustione di secondo grado all'avambraccio.,Brûlure du deuxième degré à l'avant-bras.
+Bloc 2 - Bilan medical,34,E : Esposizione e ambiente,l'ematoma,l'hématome,Ematoma esteso al fianco sinistro.,Hématome étendu au flanc gauche.
+Bloc 2 - Bilan medical,34,E : Esposizione e ambiente,l'escoriazione,l'écorchure,Escoriazioni diffuse alle ginocchia.,Écorchures diffuses aux genoux.
+Bloc 2 - Bilan medical,34,E : Esposizione e ambiente,la ferita lacerocontusa,la plaie contuse,Ferita lacerocontusa al cuoio capelluto.,Plaie contuse au cuir chevelu.
+Bloc 2 - Bilan medical,35,SAMPLER · S : Segni e sintomi,i segni,les signes,I segni clinici indicano una crisi asmatica.,Les signes cliniques indiquent une crise d'asthme.
+Bloc 2 - Bilan medical,35,SAMPLER · S : Segni e sintomi,i sintomi,les symptômes,Da quando ha questi sintomi?,Depuis quand avez-vous ces symptômes ?
+Bloc 2 - Bilan medical,35,SAMPLER · S : Segni e sintomi,il dolore,la douleur,Dove sente il dolore esattamente?,Où ressentez-vous la douleur exactement ?
+Bloc 2 - Bilan medical,35,SAMPLER · S : Segni e sintomi,il malore,le malaise,Ha avuto un malore in strada.,Il a eu un malaise dans la rue.
+Bloc 2 - Bilan medical,35,SAMPLER · S : Segni e sintomi,il disturbo,"le trouble, la gêne",Che disturbo sente di preciso?,Quelle gêne ressentez-vous précisément ?
+Bloc 2 - Bilan medical,35,SAMPLER · S : Segni e sintomi,accusare (un dolore),se plaindre de,Il paziente accusa dolore retrosternale.,Le patient se plaint d'une douleur rétrosternale.
+Bloc 2 - Bilan medical,35,SAMPLER · S : Segni e sintomi,presentare,présenter,Presenta nausea e sudorazione fredda.,Il présente des nausées et des sueurs froides.
+Bloc 2 - Bilan medical,35,SAMPLER · S : Segni e sintomi,riferire,"rapporter, indiquer",La paziente riferisce vertigini da ieri.,La patiente rapporte des vertiges depuis hier.
+Bloc 2 - Bilan medical,35,SAMPLER · S : Segni e sintomi,peggiorare,empirer,I sintomi sono peggiorati nell'ultima ora.,Les symptômes ont empiré durant la dernière heure.
+Bloc 2 - Bilan medical,35,SAMPLER · S : Segni e sintomi,migliorare,s'améliorer,Il dolore è migliorato dopo la nitroglicerina.,La douleur s'est améliorée après la nitroglycérine.
+Bloc 2 - Bilan medical,36,SAMPLER · A : Allergie,l'allergia,l'allergie,Ha allergie note a medicamenti?,Avez-vous des allergies connues à des médicaments ?
+Bloc 2 - Bilan medical,36,SAMPLER · A : Allergie,allergico,allergique,È allergico alla penicillina.,Il est allergique à la pénicilline.
+Bloc 2 - Bilan medical,36,SAMPLER · A : Allergie,la reazione allergica,la réaction allergique,Presenta una reazione allergica dopo la puntura.,Il présente une réaction allergique après la piqûre.
+Bloc 2 - Bilan medical,36,SAMPLER · A : Allergie,l'anafilassi,l'anaphylaxie,Sospetto shock anafilattico.,Je suspecte un choc anaphylactique.
+Bloc 2 - Bilan medical,36,SAMPLER · A : Allergie,l'orticaria,l'urticaire,Ha orticaria diffusa al tronco.,Il a de l'urticaire diffuse sur le tronc.
+Bloc 2 - Bilan medical,36,SAMPLER · A : Allergie,il prurito,"le prurit, les démangeaisons",Riferisce prurito intenso alla gola.,Il rapporte un prurit intense à la gorge.
+Bloc 2 - Bilan medical,36,SAMPLER · A : Allergie,il gonfiore,le gonflement,Ha gonfiore alle labbra e alla lingua.,Il a un gonflement des lèvres et de la langue.
+Bloc 2 - Bilan medical,36,SAMPLER · A : Allergie,la puntura d'insetto,la piqûre d'insecte,È stato punto da una vespa dieci minuti fa.,Il a été piqué par une guêpe il y a dix minutes.
+Bloc 2 - Bilan medical,36,SAMPLER · A : Allergie,l'autoiniettore,l'auto-injecteur,Ha già usato il suo autoiniettore di adrenalina?,Avez-vous déjà utilisé votre auto-injecteur d'adrénaline ?
+Bloc 2 - Bilan medical,36,SAMPLER · A : Allergie,l'intolleranza,l'intolérance,È solo un'intolleranza o una vera allergia?,Est-ce seulement une intolérance ou une vraie allergie ?
+Bloc 2 - Bilan medical,37,SAMPLER · M : Medicamenti,il medicamento,le médicament (usage suisse),Che medicamenti prende regolarmente?,Quels médicaments prenez-vous régulièrement ?
+Bloc 2 - Bilan medical,37,SAMPLER · M : Medicamenti,la terapia abituale,le traitement habituel,Mi porta la lista della terapia abituale?,Pouvez-vous m'apporter la liste du traitement habituel ?
+Bloc 2 - Bilan medical,37,SAMPLER · M : Medicamenti,l'anticoagulante,l'anticoagulant,"Prende un anticoagulante, attenzione al sanguinamento.","Il prend un anticoagulant, attention au saignement."
+Bloc 2 - Bilan medical,37,SAMPLER · M : Medicamenti,l'antiaggregante,l'antiagrégant,È in terapia con antiaggreganti.,Il est sous traitement antiagrégant.
+Bloc 2 - Bilan medical,37,SAMPLER · M : Medicamenti,l'antipertensivo,l'antihypertenseur,Prende due antipertensivi la mattina.,Il prend deux antihypertenseurs le matin.
+Bloc 2 - Bilan medical,37,SAMPLER · M : Medicamenti,l'insulina,l'insuline,Si è fatto l'insulina ma non ha mangiato.,Il a fait son insuline mais n'a pas mangé.
+Bloc 2 - Bilan medical,37,SAMPLER · M : Medicamenti,l'antidolorifico,l'antalgique,Ha già preso un antidolorifico stamattina?,Avez-vous déjà pris un antalgique ce matin ?
+Bloc 2 - Bilan medical,37,SAMPLER · M : Medicamenti,il broncodilatatore,le bronchodilatateur,Ha usato il broncodilatatore tre volte.,Il a utilisé le bronchodilatateur trois fois.
+Bloc 2 - Bilan medical,37,SAMPLER · M : Medicamenti,la scatola dei medicamenti,la boîte à médicaments,Portiamo la scatola dei medicamenti in ospedale.,Nous emportons la boîte à médicaments à l'hôpital.
+Bloc 2 - Bilan medical,37,SAMPLER · M : Medicamenti,la posologia,la posologie,Qual è la posologia esatta?,Quelle est la posologie exacte ?
+Bloc 2 - Bilan medical,38,SAMPLER · P : Patologie pregresse,le patologie pregresse,les antécédents médicaux,Quali patologie pregresse ha il paziente?,Quels antécédents médicaux a le patient ?
+Bloc 2 - Bilan medical,38,SAMPLER · P : Patologie pregresse,l'anamnesi,l'anamnèse,Raccolgo l'anamnesi dai familiari.,Je recueille l'anamnèse auprès des proches.
+Bloc 2 - Bilan medical,38,SAMPLER · P : Patologie pregresse,il diabete,le diabète,È diabetico insulinodipendente.,Il est diabétique insulinodépendant.
+Bloc 2 - Bilan medical,38,SAMPLER · P : Patologie pregresse,l'ipertensione,l'hypertension,Soffre di ipertensione da vent'anni.,Il souffre d'hypertension depuis vingt ans.
+Bloc 2 - Bilan medical,38,SAMPLER · P : Patologie pregresse,l'infarto,l'infarctus,Ha avuto un infarto due anni fa.,Il a eu un infarctus il y a deux ans.
+Bloc 2 - Bilan medical,38,SAMPLER · P : Patologie pregresse,l'insufficienza cardiaca,l'insuffisance cardiaque,È seguito per insufficienza cardiaca.,Il est suivi pour insuffisance cardiaque.
+Bloc 2 - Bilan medical,38,SAMPLER · P : Patologie pregresse,la broncopneumopatia cronica,la BPCO,È portatore di broncopneumopatia cronica con ossigeno a domicilio.,Il est porteur d'une BPCO avec oxygène à domicile.
+Bloc 2 - Bilan medical,38,SAMPLER · P : Patologie pregresse,l'epilessia,l'épilepsie,"È epilettico, l'ultima crisi un mese fa.","Il est épileptique, dernière crise il y a un mois."
+Bloc 2 - Bilan medical,38,SAMPLER · P : Patologie pregresse,il tumore,la tumeur,È in cura per un tumore al polmone.,Il est traité pour une tumeur au poumon.
+Bloc 2 - Bilan medical,38,SAMPLER · P : Patologie pregresse,l'intervento chirurgico,l'intervention chirurgicale,Ha subito un intervento chirurgico la settimana scorsa.,Il a subi une intervention chirurgicale la semaine dernière.
+Bloc 2 - Bilan medical,39,SAMPLER · L : L'ultimo pasto,l'ultimo pasto,le dernier repas,Quando ha fatto l'ultimo pasto?,Quand avez-vous pris votre dernier repas ?
+Bloc 2 - Bilan medical,39,SAMPLER · L : L'ultimo pasto,mangiare,manger,Ha mangiato qualcosa stamattina?,Avez-vous mangé quelque chose ce matin ?
+Bloc 2 - Bilan medical,39,SAMPLER · L : L'ultimo pasto,bere,boire,Ha bevuto alcolici oggi?,Avez-vous bu de l'alcool aujourd'hui ?
+Bloc 2 - Bilan medical,39,SAMPLER · L : L'ultimo pasto,il digiuno,le jeûne,È a digiuno dalle otto di ieri sera.,Il est à jeun depuis huit heures hier soir.
+Bloc 2 - Bilan medical,39,SAMPLER · L : L'ultimo pasto,la colazione,le petit-déjeuner,Ha saltato la colazione.,Il a sauté le petit-déjeuner.
+Bloc 2 - Bilan medical,39,SAMPLER · L : L'ultimo pasto,il pranzo,le déjeuner,Ha vomitato subito dopo pranzo.,Il a vomi juste après le déjeuner.
+Bloc 2 - Bilan medical,39,SAMPLER · L : L'ultimo pasto,la cena,le dîner,Non ha cenato ieri sera.,Il n'a pas dîné hier soir.
+Bloc 2 - Bilan medical,39,SAMPLER · L : L'ultimo pasto,l'appetito,l'appétit,Non ha appetito da tre giorni.,Il n'a pas d'appétit depuis trois jours.
+Bloc 2 - Bilan medical,39,SAMPLER · L : L'ultimo pasto,la disidratazione,la déshydratation,Segni di disidratazione: mucose secche.,Signes de déshydratation : muqueuses sèches.
+Bloc 2 - Bilan medical,39,SAMPLER · L : L'ultimo pasto,il vomito,le vomissement,Il vomito contiene tracce di sangue.,Le vomissement contient des traces de sang.
+Bloc 2 - Bilan medical,40,SAMPLER · E et R : Eventi e fattori di rischio,gli eventi precedenti,les événements précédents,Mi racconti gli eventi precedenti al malore.,Racontez-moi les événements précédant le malaise.
+Bloc 2 - Bilan medical,40,SAMPLER · E et R : Eventi e fattori di rischio,la dinamica,"la cinématique, le déroulement",Qual è la dinamica dell'incidente?,Quelle est la cinématique de l'accident ?
+Bloc 2 - Bilan medical,40,SAMPLER · E et R : Eventi e fattori di rischio,lo sforzo,l'effort,Il dolore è comparso sotto sforzo.,La douleur est apparue à l'effort.
+Bloc 2 - Bilan medical,40,SAMPLER · E et R : Eventi e fattori di rischio,il riposo,le repos,Il dolore compare anche a riposo.,La douleur apparaît aussi au repos.
+Bloc 2 - Bilan medical,40,SAMPLER · E et R : Eventi e fattori di rischio,i fattori di rischio,les facteurs de risque,Quali fattori di rischio cardiovascolare ha?,Quels facteurs de risque cardiovasculaire a-t-il ?
+Bloc 2 - Bilan medical,40,SAMPLER · E et R : Eventi e fattori di rischio,il fumo,le tabac,Fuma un pacchetto al giorno?,Fumez-vous un paquet par jour ?
+Bloc 2 - Bilan medical,40,SAMPLER · E et R : Eventi e fattori di rischio,l'alcol,l'alcool,Ha bevuto alcol prima dell'incidente?,Avez-vous bu de l'alcool avant l'accident ?
+Bloc 2 - Bilan medical,40,SAMPLER · E et R : Eventi e fattori di rischio,le sostanze stupefacenti,les stupéfiants,Ha assunto sostanze stupefacenti?,Avez-vous consommé des stupéfiants ?
+Bloc 2 - Bilan medical,40,SAMPLER · E et R : Eventi e fattori di rischio,la familiarità,les antécédents familiaux,C'è familiarità per infarto?,Y a-t-il des antécédents familiaux d'infarctus ?
+Bloc 2 - Bilan medical,40,SAMPLER · E et R : Eventi e fattori di rischio,la gravidanza,la grossesse,C'è possibilità di una gravidanza in corso?,Y a-t-il une possibilité de grossesse en cours ?
+Bloc 2 - Bilan medical,41,OPQRST : l'analyse de la douleur,l'insorgenza,"le début, la survenue",Qual è stata l'insorgenza del dolore?,Comment la douleur est-elle survenue ?
+Bloc 2 - Bilan medical,41,OPQRST : l'analyse de la douleur,provocare,provoquer,Che cosa provoca il dolore?,Qu'est-ce qui provoque la douleur ?
+Bloc 2 - Bilan medical,41,OPQRST : l'analyse de la douleur,alleviare,soulager,Che cosa allevia il dolore?,Qu'est-ce qui soulage la douleur ?
+Bloc 2 - Bilan medical,41,OPQRST : l'analyse de la douleur,la qualità del dolore,la qualité de la douleur,Mi descriva la qualità del dolore.,Décrivez-moi la qualité de la douleur.
+Bloc 2 - Bilan medical,41,OPQRST : l'analyse de la douleur,oppressivo,oppressant,"Il dolore è oppressivo, come un peso.","La douleur est oppressante, comme un poids."
+Bloc 2 - Bilan medical,41,OPQRST : l'analyse de la douleur,trafittivo,en coup de poignard,Il dolore è trafittivo e localizzato.,La douleur est en coup de poignard et localisée.
+Bloc 2 - Bilan medical,41,OPQRST : l'analyse de la douleur,crampiforme,à type de crampe,Ha un dolore crampiforme all'addome.,Il a une douleur à type de crampe à l'abdomen.
+Bloc 2 - Bilan medical,41,OPQRST : l'analyse de la douleur,l'irradiazione,l'irradiation,Il dolore si irradia al braccio sinistro.,La douleur irradie vers le bras gauche.
+Bloc 2 - Bilan medical,41,OPQRST : l'analyse de la douleur,la scala del dolore,l'échelle de la douleur,"Da zero a dieci, quanto è forte il dolore?","De zéro à dix, quelle est l'intensité de la douleur ?"
+Bloc 2 - Bilan medical,41,OPQRST : l'analyse de la douleur,continuo o intermittente,continu ou intermittent,Il dolore è continuo o intermittente?,La douleur est-elle continue ou intermittente ?
+Bloc 2 - Bilan medical,42,Anatomie I : tête et cou,"il capo, la testa",la tête,Ha ricevuto un trauma al capo.,Il a reçu un traumatisme crânien.
+Bloc 2 - Bilan medical,42,Anatomie I : tête et cou,il cuoio capelluto,le cuir chevelu,Ferita al cuoio capelluto che sanguina.,Plaie du cuir chevelu qui saigne.
+Bloc 2 - Bilan medical,42,Anatomie I : tête et cou,la fronte,le front,Ematoma sulla fronte.,Hématome sur le front.
+Bloc 2 - Bilan medical,42,Anatomie I : tête et cou,l'occhio,l'œil,Non apre l'occhio destro.,Il n'ouvre pas l'œil droit.
+Bloc 2 - Bilan medical,42,Anatomie I : tête et cou,l'orecchio,l'oreille,Perdita di liquido dall'orecchio.,Écoulement de liquide par l'oreille.
+Bloc 2 - Bilan medical,42,Anatomie I : tête et cou,il naso,le nez,Sangue dal naso dopo il colpo.,Saignement de nez après le coup.
+Bloc 2 - Bilan medical,42,Anatomie I : tête et cou,la bocca,la bouche,"Mi apra la bocca, per favore.","Ouvrez la bouche, s'il vous plaît."
+Bloc 2 - Bilan medical,42,Anatomie I : tête et cou,la lingua,la langue,Si è morso la lingua durante la crisi.,Il s'est mordu la langue pendant la crise.
+Bloc 2 - Bilan medical,42,Anatomie I : tête et cou,il collo,le cou,Sente dolore al collo?,Ressentez-vous une douleur au cou ?
+Bloc 2 - Bilan medical,42,Anatomie I : tête et cou,la nuca,la nuque,Dolore alla nuca alla palpazione.,Douleur à la nuque à la palpation.
+Bloc 2 - Bilan medical,43,Anatomie II : thorax et abdomen,il torace,le thorax,"Torace stabile, senza deformità.","Thorax stable, sans déformation."
+Bloc 2 - Bilan medical,43,Anatomie II : thorax et abdomen,lo sterno,le sternum,Dolore retrosternale da mezz'ora.,Douleur rétrosternale depuis une demi-heure.
+Bloc 2 - Bilan medical,43,Anatomie II : thorax et abdomen,le costole,les côtes,Sospetta frattura di due costole.,Fracture suspectée de deux côtes.
+Bloc 2 - Bilan medical,43,Anatomie II : thorax et abdomen,la clavicola,la clavicule,Deformità della clavicola destra.,Déformation de la clavicule droite.
+Bloc 2 - Bilan medical,43,Anatomie II : thorax et abdomen,l'addome,l'abdomen,Addome dolente alla palpazione profonda.,Abdomen douloureux à la palpation profonde.
+Bloc 2 - Bilan medical,43,Anatomie II : thorax et abdomen,il quadrante,le quadrant,Dolore al quadrante inferiore destro.,Douleur au quadrant inférieur droit.
+Bloc 2 - Bilan medical,43,Anatomie II : thorax et abdomen,l'epigastrio,l'épigastre,Bruciore in epigastrio da ieri.,Brûlure épigastrique depuis hier.
+Bloc 2 - Bilan medical,43,Anatomie II : thorax et abdomen,il fianco,le flanc,Colpo violento al fianco sinistro.,Coup violent au flanc gauche.
+Bloc 2 - Bilan medical,43,Anatomie II : thorax et abdomen,il bacino,le bassin,"Bacino instabile, non mobilizzare.","Bassin instable, ne pas mobiliser."
+Bloc 2 - Bilan medical,43,Anatomie II : thorax et abdomen,la schiena,le dos,Dolore alla schiena dopo la caduta.,Douleur au dos après la chute.
+Bloc 2 - Bilan medical,44,Anatomie III : les membres,la spalla,l'épaule,Sospetta lussazione di spalla.,Luxation d'épaule suspectée.
+Bloc 2 - Bilan medical,44,Anatomie III : les membres,il braccio,le bras,Non riesce a sollevare il braccio.,Il n'arrive pas à lever le bras.
+Bloc 2 - Bilan medical,44,Anatomie III : les membres,il gomito,le coude,Il gomito è gonfio e deformato.,Le coude est enflé et déformé.
+Bloc 2 - Bilan medical,44,Anatomie III : les membres,il polso (articolazione),le poignet,Frattura di polso dopo caduta sulla mano.,Fracture du poignet après chute sur la main.
+Bloc 2 - Bilan medical,44,Anatomie III : les membres,la mano,la main,Mi stringa la mano.,Serrez-moi la main.
+Bloc 2 - Bilan medical,44,Anatomie III : les membres,l'anca,la hanche,"Sospetta frattura di femore, gamba extraruotata.","Fracture du fémur suspectée, jambe en rotation externe."
+Bloc 2 - Bilan medical,44,Anatomie III : les membres,la coscia,la cuisse,Ferita profonda alla coscia.,Plaie profonde à la cuisse.
+Bloc 2 - Bilan medical,44,Anatomie III : les membres,il ginocchio,le genou,Il ginocchio è bloccato in flessione.,Le genou est bloqué en flexion.
+Bloc 2 - Bilan medical,44,Anatomie III : les membres,la caviglia,la cheville,La caviglia è gonfia e dolente.,La cheville est enflée et douloureuse.
+Bloc 2 - Bilan medical,44,Anatomie III : les membres,il piede,le pied,Muove le dita del piede normalmente.,Il bouge les orteils normalement.
+Bloc 2 - Bilan medical,45,Symptômes généraux,la nausea,la nausée,Riferisce nausea da un'ora.,Il rapporte des nausées depuis une heure.
+Bloc 2 - Bilan medical,45,Symptômes généraux,le vertigini,les vertiges,Ha le vertigini quando si alza.,Il a des vertiges quand il se lève.
+Bloc 2 - Bilan medical,45,Symptômes généraux,la stanchezza,la fatigue,Stanchezza intensa da tre giorni.,Fatigue intense depuis trois jours.
+Bloc 2 - Bilan medical,45,Symptômes généraux,la debolezza,la faiblesse,Debolezza generalizzata agli arti.,Faiblesse généralisée des membres.
+Bloc 2 - Bilan medical,45,Symptômes généraux,i brividi,les frissons,Ha brividi e febbre alta.,Il a des frissons et une forte fièvre.
+Bloc 2 - Bilan medical,45,Symptômes généraux,la sudorazione,la transpiration,Sudorazione profusa e cute fredda.,Transpiration profuse et peau froide.
+Bloc 2 - Bilan medical,45,Symptômes généraux,il capogiro,l'étourdissement,Ha avuto un capogiro salendo le scale.,Il a eu un étourdissement en montant les escaliers.
+Bloc 2 - Bilan medical,45,Symptômes généraux,la sete,la soif,Ha molta sete da stamattina.,Il a très soif depuis ce matin.
+Bloc 2 - Bilan medical,45,Symptômes généraux,il formicolio,les fourmillements,Formicolio alla mano sinistra.,Fourmillements à la main gauche.
+Bloc 2 - Bilan medical,45,Symptômes généraux,il tremore,le tremblement,Tremore diffuso agli arti superiori.,Tremblement diffus des membres supérieurs.
+Bloc 2 - Bilan medical,46,Symptômes cardio-respiratoires,il dolore toracico,la douleur thoracique,Dolore toracico tipico da venti minuti.,Douleur thoracique typique depuis vingt minutes.
+Bloc 2 - Bilan medical,46,Symptômes cardio-respiratoires,il cardiopalmo,les palpitations,Riferisce cardiopalmo improvviso.,Il rapporte des palpitations soudaines.
+Bloc 2 - Bilan medical,46,Symptômes cardio-respiratoires,l'aritmia,l'arythmie,Il monitor mostra un'aritmia.,Le moniteur montre une arythmie.
+Bloc 2 - Bilan medical,46,Symptômes cardio-respiratoires,la fibrillazione atriale,la fibrillation auriculaire,È noto per fibrillazione atriale.,Il est connu pour une fibrillation auriculaire.
+Bloc 2 - Bilan medical,46,Symptômes cardio-respiratoires,l'edema,l'œdème,Edemi importanti alle caviglie.,Œdèmes importants aux chevilles.
+Bloc 2 - Bilan medical,46,Symptômes cardio-respiratoires,l'ortopnea,l'orthopnée,Dorme con tre cuscini per l'ortopnea.,Il dort avec trois oreillers à cause de l'orthopnée.
+Bloc 2 - Bilan medical,46,Symptômes cardio-respiratoires,la tosse,la toux,Tosse produttiva da una settimana.,Toux productive depuis une semaine.
+Bloc 2 - Bilan medical,46,Symptômes cardio-respiratoires,l'espettorato,l'expectoration,Espettorato schiumoso e rosato.,Expectoration mousseuse et rosée.
+Bloc 2 - Bilan medical,46,Symptômes cardio-respiratoires,l'emottisi,l'hémoptysie,Presenta emottisi da stamattina.,Il présente une hémoptysie depuis ce matin.
+Bloc 2 - Bilan medical,46,Symptômes cardio-respiratoires,l'arresto cardiaco,l'arrêt cardiaque,"Arresto cardiaco testimoniato, iniziamo la rianimazione.","Arrêt cardiaque témoigné, nous débutons la réanimation."
+Bloc 2 - Bilan medical,47,Symptômes neurologiques et psychiatriques,il mal di testa,le mal de tête,Mal di testa improvviso e violentissimo.,Mal de tête soudain et très violent.
+Bloc 2 - Bilan medical,47,Symptômes neurologiques et psychiatriques,la cefalea,la céphalée,Cefalea a esordio esplosivo.,Céphalée à début brutal.
+Bloc 2 - Bilan medical,47,Symptômes neurologiques et psychiatriques,la fotofobia,la photophobie,Riferisce fotofobia e rigidità nucale.,Il rapporte une photophobie et une raideur de nuque.
+Bloc 2 - Bilan medical,47,Symptômes neurologiques et psychiatriques,la perdita di coscienza,la perte de connaissance,Perdita di coscienza di breve durata.,Perte de connaissance de brève durée.
+Bloc 2 - Bilan medical,47,Symptômes neurologiques et psychiatriques,la sincope,la syncope,Sincope da ortostatismo.,Syncope orthostatique.
+Bloc 2 - Bilan medical,47,Symptômes neurologiques et psychiatriques,l'agitazione psicomotoria,l'agitation psychomotrice,Il paziente è in agitazione psicomotoria.,Le patient est en agitation psychomotrice.
+Bloc 2 - Bilan medical,47,Symptômes neurologiques et psychiatriques,l'ansia,l'anxiété,Crisi d'ansia con iperventilazione.,Crise d'angoisse avec hyperventilation.
+Bloc 2 - Bilan medical,47,Symptômes neurologiques et psychiatriques,l'allucinazione,l'hallucination,Riferisce allucinazioni visive.,Il rapporte des hallucinations visuelles.
+Bloc 2 - Bilan medical,47,Symptômes neurologiques et psychiatriques,i pensieri suicidari,les idées suicidaires,Ha pensieri suicidari in questo momento?,Avez-vous des idées suicidaires en ce moment ?
+Bloc 2 - Bilan medical,47,Symptômes neurologiques et psychiatriques,il ricovero a scopo di assistenza,le placement à des fins d'assistance,Valutiamo un ricovero a scopo di assistenza.,Nous évaluons un placement à des fins d'assistance.
+Bloc 2 - Bilan medical,48,Obstétrique et pédiatrie,la gravidanza,la grossesse,È alla trentaduesima settimana di gravidanza.,Elle est à la trente-deuxième semaine de grossesse.
+Bloc 2 - Bilan medical,48,Obstétrique et pédiatrie,le contrazioni,les contractions,Le contrazioni sono ogni tre minuti.,Les contractions sont toutes les trois minutes.
+Bloc 2 - Bilan medical,48,Obstétrique et pédiatrie,il parto,l'accouchement,"Il parto è imminente, prepariamo il kit.","L'accouchement est imminent, préparons le kit."
+Bloc 2 - Bilan medical,48,Obstétrique et pédiatrie,le acque rotte,la perte des eaux,Ha rotto le acque un'ora fa.,Elle a perdu les eaux il y a une heure.
+Bloc 2 - Bilan medical,48,Obstétrique et pédiatrie,il neonato,le nouveau-né,Il neonato piange e ha un buon tono.,Le nouveau-né pleure et a un bon tonus.
+Bloc 2 - Bilan medical,48,Obstétrique et pédiatrie,il lattante,le nourrisson,Il lattante ha tre mesi e la febbre alta.,Le nourrisson a trois mois et une forte fièvre.
+Bloc 2 - Bilan medical,48,Obstétrique et pédiatrie,il bambino,l'enfant,Il bambino ha battuto la testa cadendo dall'altalena.,L'enfant s'est cogné la tête en tombant de la balançoire.
+Bloc 2 - Bilan medical,48,Obstétrique et pédiatrie,la convulsione febbrile,la convulsion fébrile,Convulsione febbrile in bambino di due anni.,Convulsion fébrile chez un enfant de deux ans.
+Bloc 2 - Bilan medical,48,Obstétrique et pédiatrie,il pianto,les pleurs,Il pianto è vigoroso e consolabile.,Les pleurs sont vigoureux et consolables.
+Bloc 2 - Bilan medical,48,Obstétrique et pédiatrie,il pediatra,le pédiatre,Avvisiamo il pediatra di guardia.,Nous prévenons le pédiatre de garde.
+Bloc 2 - Bilan medical,49,Traumatologie et cinématique,il trauma cranico,le traumatisme crânien,Trauma cranico con perdita di coscienza.,Traumatisme crânien avec perte de connaissance.
+Bloc 2 - Bilan medical,49,Traumatologie et cinématique,la frattura esposta,la fracture ouverte,Frattura esposta di tibia.,Fracture ouverte du tibia.
+Bloc 2 - Bilan medical,49,Traumatologie et cinématique,la lussazione,la luxation,Lussazione di spalla anteriore.,Luxation antérieure de l'épaule.
+Bloc 2 - Bilan medical,49,Traumatologie et cinématique,la distorsione,l'entorse,Distorsione di caviglia in inversione.,Entorse de cheville en inversion.
+Bloc 2 - Bilan medical,49,Traumatologie et cinématique,la contusione,la contusion,Contusione toracica senza dispnea.,Contusion thoracique sans dyspnée.
+Bloc 2 - Bilan medical,49,Traumatologie et cinématique,lo scontro frontale,le choc frontal,Scontro frontale a settanta chilometri orari.,Choc frontal à soixante-dix kilomètres à l'heure.
+Bloc 2 - Bilan medical,49,Traumatologie et cinématique,il ribaltamento,le tonneau,Il veicolo ha fatto un ribaltamento.,Le véhicule a fait un tonneau.
+Bloc 2 - Bilan medical,49,Traumatologie et cinématique,l'incarceramento,l'incarcération,"Paziente incarcerato, richiediamo i pompieri.","Patient incarcéré, nous demandons les pompiers."
+Bloc 2 - Bilan medical,49,Traumatologie et cinématique,la caduta dall'alto,la chute de hauteur,Caduta dall'alto da quattro metri.,Chute de hauteur de quatre mètres.
+Bloc 2 - Bilan medical,49,Traumatologie et cinématique,la cintura di sicurezza,la ceinture de sécurité,Indossava la cintura di sicurezza.,Il portait la ceinture de sécurité.
+Bloc 2 - Bilan medical,50,Les questions rituelles au patient (synthèse du bloc),Come si chiama?,Comment vous appelez-vous ?,Come si chiama e che giorno è oggi?,Comment vous appelez-vous et quel jour sommes-nous ?
+Bloc 2 - Bilan medical,50,Les questions rituelles au patient (synthèse du bloc),Sa dov'è?,Savez-vous où vous êtes ?,Sa dov'è in questo momento?,Savez-vous où vous êtes en ce moment ?
+Bloc 2 - Bilan medical,50,Les questions rituelles au patient (synthèse du bloc),Che cosa è successo?,Que s'est-il passé ?,Mi racconti che cosa è successo.,Racontez-moi ce qui s'est passé.
+Bloc 2 - Bilan medical,50,Les questions rituelles au patient (synthèse du bloc),Le fa male qui?,Avez-vous mal ici ?,Le fa male qui quando premo?,Avez-vous mal ici quand j'appuie ?
+Bloc 2 - Bilan medical,50,Les questions rituelles au patient (synthèse du bloc),Mi sente?,Vous m'entendez ?,"Signore, mi sente? Apra gli occhi.","Monsieur, vous m'entendez ? Ouvrez les yeux."
+Bloc 2 - Bilan medical,50,Les questions rituelles au patient (synthèse du bloc),Riesce a muoversi?,Arrivez-vous à bouger ?,Riesce a muovere le gambe?,Arrivez-vous à bouger les jambes ?
+Bloc 2 - Bilan medical,50,Les questions rituelles au patient (synthèse du bloc),Ha battuto la testa?,Vous êtes-vous cogné la tête ?,Ha battuto la testa nella caduta?,Vous êtes-vous cogné la tête dans la chute ?
+Bloc 2 - Bilan medical,50,Les questions rituelles au patient (synthèse du bloc),Prende medicamenti?,Prenez-vous des médicaments ?,Prende medicamenti tutti i giorni?,Prenez-vous des médicaments tous les jours ?
+Bloc 2 - Bilan medical,50,Les questions rituelles au patient (synthèse du bloc),Le è già successo?,Cela vous est-il déjà arrivé ?,Le è già successo un episodio simile?,Un épisode similaire vous est-il déjà arrivé ?
+Bloc 2 - Bilan medical,50,Les questions rituelles au patient (synthèse du bloc),Vuole venire con noi?,Voulez-vous venir avec nous ?,Vuole venire con noi in ospedale?,Voulez-vous venir avec nous à l'hôpital ?
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,l'autoambulanza,l'ambulance (terme officiel suisse),L'autoambulanza è posteggiata davanti allo stabile.,L'ambulance est garée devant l'immeuble.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,il vano sanitario,la cellule sanitaire,Il materiale è nel vano sanitario.,Le matériel est dans la cellule sanitaire.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,la cabina di guida,la cabine de conduite,Il capo intervento sale in cabina di guida.,Le chef d'intervention monte en cabine de conduite.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,il portellone posteriore,le hayon arrière,Apri il portellone posteriore.,Ouvre le hayon arrière.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,i lampeggianti,les gyrophares,Accendo i lampeggianti e la sirena.,J'allume les gyrophares et la sirène.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,la sirena,la sirène,Spegni la sirena vicino all'ospedale.,Éteins la sirène à proximité de l'hôpital.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,la corsa urgente,la course urgente,Partiamo in corsa urgente verso Lugano.,Nous partons en course urgente vers Lugano.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,il segnale prioritario,les feux prioritaires,Usiamo il segnale prioritario solo se necessario.,Nous utilisons les feux prioritaires seulement si nécessaire.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,il gradino,le marchepied,Faccia attenzione al gradino.,Attention au marchepied.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,la rampa,la rampe,Estraiamo la rampa per caricare la sedia.,Nous sortons la rampe pour charger la chaise.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,il sollevatore elettrico,le hayon élévateur,La barella sale con il sollevatore elettrico.,Le brancard monte avec le hayon élévateur.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,l'armadietto,l'armoire de rangement,Le garze sono nell'armadietto superiore.,Les compresses sont dans l'armoire du haut.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,il controllo del turno,le contrôle de début de service,Facciamo il controllo del turno prima di partire.,Nous faisons le contrôle de service avant de partir.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,il rifornimento,le réapprovisionnement,Dopo l'intervento facciamo rifornimento di materiale.,Après l'intervention nous réapprovisionnons le matériel.
+"Bloc 3 - Materiel, radio 144, Ticino",51,L'autoambulanza et ses parties,la disinfezione,la désinfection,Procediamo alla disinfezione del vano sanitario.,Nous procédons à la désinfection de la cellule sanitaire.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,la barella,le brancard,Carichiamo la barella con le cinghie chiuse.,Nous chargeons le brancard avec les sangles fermées.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,la barella a cucchiaio,le brancard cuillère,Usiamo la barella a cucchiaio per il sospetto trauma.,Nous utilisons le brancard cuillère pour le traumatisme suspecté.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,la sedia portantina,la chaise de transport,Scendiamo dal terzo piano con la sedia portantina.,Nous descendons du troisième étage avec la chaise de transport.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,il telo portaferiti,le portoir souple,Spostiamo il paziente con il telo portaferiti.,Nous déplaçons le patient avec le portoir souple.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,il materassino a depressione,le matelas coquille,Immobilizzo con il materassino a depressione.,J'immobilise avec le matelas coquille.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,l'asse spinale,le plan dur,Posizioniamo il paziente sull'asse spinale.,Nous positionnons le patient sur le plan dur.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,il collare cervicale,le collier cervical,Metto un collare cervicale misura media.,Je pose un collier cervical taille moyenne.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,i fermacapo,les cales-tête,Fisso i fermacapo e le cinghie frontali.,Je fixe les cales-tête et les sangles frontales.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,il corsetto estricatore,le corset d'extraction (KED),Applichiamo il corsetto estricatore prima dell'estrazione.,Nous appliquons le corset d'extraction avant la désincarcération.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,la stecca,l'attelle,Immobilizzo l'avambraccio con una stecca.,J'immobilise l'avant-bras avec une attelle.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,la steccobenda a depressione,l'attelle à dépression,Uso una steccobenda a depressione per la gamba.,J'utilise une attelle à dépression pour la jambe.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,le cinghie,les sangles,Controlla che tutte le cinghie siano chiuse.,Vérifie que toutes les sangles sont fermées.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,la trazione,la traction,Applico una trazione delicata sull'arto.,J'applique une traction douce sur le membre.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,la rotazione in blocco,la bascule latérale (log roll),Facciamo una rotazione in blocco al mio comando.,Nous faisons une bascule latérale à mon commandement.
+"Bloc 3 - Materiel, radio 144, Ticino",52,Immobilisation et brancardage,il sollevamento in blocco,le relevage en bloc,"Sollevamento in blocco al tre: uno, due, tre.","Relevage en bloc à trois : un, deux, trois."
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,la bombola di ossigeno,la bouteille d'oxygène,Controlla la pressione della bombola di ossigeno.,Contrôle la pression de la bouteille d'oxygène.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,il riduttore di pressione,le détendeur,"Il riduttore di pressione perde, cambialo.","Le détendeur fuit, change-le."
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,il flussometro,le débitmètre,Regola il flussometro a quindici litri.,Règle le débitmètre à quinze litres.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,la maschera facciale,le masque facial,Applico una maschera facciale con reservoir.,J'applique un masque facial à réserve.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,il pallone autoespandibile,le ballon auto-remplisseur,Ventilo con il pallone autoespandibile.,Je ventile avec le ballon auto-remplisseur.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,la cannula di Guedel,la canule de Guedel,Inserisco una cannula di Guedel numero quattro.,J'insère une canule de Guedel numéro quatre.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,il presidio sovraglottico,le dispositif supraglottique,Posizioniamo un presidio sovraglottico.,Nous posons un dispositif supraglottique.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,il tubo endotracheale,la sonde d'intubation,Il medico prepara il tubo endotracheale.,Le médecin prépare la sonde d'intubation.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,il laringoscopio,le laryngoscope,Passami il laringoscopio con lama tre.,Passe-moi le laryngoscope avec lame trois.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,il capnografo,le capnographe,Colleghiamo il capnografo dopo l'intubazione.,Nous branchons le capnographe après l'intubation.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,il pulsossimetro,l'oxymètre de pouls,Metto il pulsossimetro al dito indice.,Je place l'oxymètre sur l'index.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,l'aerosol,"l'aérosol, la nébulisation",Prepariamo un aerosol con broncodilatatore.,Nous préparons un aérosol avec bronchodilatateur.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,il distanziatore,la chambre d'inhalation,Somministriamo lo spray con il distanziatore.,Nous administrons le spray avec la chambre d'inhalation.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,la CPAP,la CPAP,Iniziamo la CPAP per l'edema polmonare.,Nous débutons la CPAP pour l'œdème pulmonaire.
+"Bloc 3 - Materiel, radio 144, Ticino",53,Matériel respiratoire et oxygénothérapie,il sondino di aspirazione,la sonde d'aspiration,Passami un sondino di aspirazione rigido.,Passe-moi une sonde d'aspiration rigide.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",il monitor multiparametrico,le moniteur multiparamétrique,Collego il paziente al monitor multiparametrico.,Je branche le patient au moniteur multiparamétrique.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",il defibrillatore,le défibrillateur,"Il defibrillatore è carico, allontanatevi.","Le défibrillateur est chargé, écartez-vous."
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",il DAE,le DAE (défibrillateur automatisé externe),In azienda c'era un DAE già applicato.,"Dans l'entreprise, un DAE était déjà posé."
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",le placche,les électrodes de défibrillation,Attacco le placche sul torace nudo.,Je colle les électrodes sur le thorax nu.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",gli elettrodi,les électrodes ECG,Posiziono gli elettrodi per l'ECG.,Je positionne les électrodes pour l'ECG.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",l'ECG a dodici derivazioni,l'ECG douze dérivations,Eseguo un ECG a dodici derivazioni.,Je réalise un ECG douze dérivations.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",lo sfigmomanometro,le tensiomètre,Misuro la pressione con lo sfigmomanometro.,Je prends la tension avec le tensiomètre.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",il bracciale,le brassard,Metto il bracciale al braccio destro.,Je mets le brassard au bras droit.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",il fonendoscopio,le stéthoscope,Ausculto con il fonendoscopio.,J'ausculte avec le stéthoscope.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",l'agocannula,le cathéter veineux,Metto un'agocannula rosa al dorso della mano.,Je pose un cathéter rose au dos de la main.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",la via venosa periferica,la voie veineuse périphérique,Assicuro una via venosa periferica.,Je sécurise une voie veineuse périphérique.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",il deflussore,la tubulure de perfusion,Prepara il deflussore e la fisiologica.,Prépare la tubulure et le sérum physiologique.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",la fisiologica,le sérum physiologique,Infondo cinquecento millilitri di fisiologica.,Je perfuse cinq cents millilitres de sérum physiologique.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",il glucometro,le lecteur de glycémie,Con il glucometro misuro tre virgola due.,Au lecteur de glycémie je mesure trois virgule deux.
+"Bloc 3 - Materiel, radio 144, Ticino",54,"Circulation, monitorage et défibrillation",il laccio,le garrot de pose,"Stringi il laccio, cerco una vena.","Serre le garrot, je cherche une veine."
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,somministrare,administrer,Somministro ossigeno e nitrati.,J'administre de l'oxygène et des dérivés nitrés.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,la via endovenosa,la voie intraveineuse,Somministrazione per via endovenosa lenta.,Administration par voie intraveineuse lente.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,la via intramuscolare,la voie intramusculaire,Adrenalina per via intramuscolare nella coscia.,Adrénaline par voie intramusculaire dans la cuisse.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,la via sublinguale,la voie sublinguale,Nitroglicerina per via sublinguale.,Nitroglycérine par voie sublinguale.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,la via intranasale,la voie intranasale,Naloxone per via intranasale.,Naloxone par voie intranasale.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,la via intraossea,la voie intraosseuse,"Se non troviamo vene, andiamo in via intraossea.","Si nous ne trouvons pas de veine, nous passons en intraosseuse."
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,la dose,la dose,La dose è di mezzo milligrammo.,La dose est d'un demi-milligramme.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,la fiala,l'ampoule,Preparo una fiala di adrenalina.,Je prépare une ampoule d'adrénaline.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,la siringa,la seringue,Passami una siringa da dieci millilitri.,Passe-moi une seringue de dix millilitres.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,l'ago,l'aiguille,Elimino l'ago nel contenitore rigido.,J'élimine l'aiguille dans le conteneur rigide.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,l'adrenalina,l'adrénaline,Adrenalina un milligrammo endovena.,Adrénaline un milligramme en intraveineuse.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,il glucosio,le glucose,Somministro glucosio per l'ipoglicemia.,J'administre du glucose pour l'hypoglycémie.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,la morfina,la morphine,Titolazione di morfina per il dolore.,Titration de morphine pour la douleur.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,l'algoritmo,"l'algorithme, le protocole",Seguo l'algoritmo cantonale per il dolore toracico.,Je suis l'algorithme cantonal pour la douleur thoracique.
+"Bloc 3 - Materiel, radio 144, Ticino",55,Médicaments et voies d'administration,la prescrizione medica,la prescription médicale,Chiedo la prescrizione medica alla centrale.,Je demande la prescription médicale à la centrale.
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,la centrale operativa,la centrale d'engagement,"Centrale operativa, qui autoambulanza Lugano uno.","Centrale d'engagement, ici ambulance Lugano un."
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,Ticino Soccorso 144,Ticino Soccorso 144,Ticino Soccorso 144 ci ha allertati alle nove e dieci.,Ticino Soccorso 144 nous a alertés à neuf heures dix.
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,l'allarme,"l'alarme, l'alerte",L'allarme è arrivato tramite il numero 144.,L'alarme est arrivée par le numéro 144.
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,l'ingaggio,"l'engagement, la mission",Confermiamo l'ingaggio per un malore in strada.,Nous confirmons l'engagement pour un malaise sur la voie publique.
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,Ricevuto,Bien reçu,"Ricevuto centrale, siamo in partenza.","Bien reçu centrale, nous partons."
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,Passo,À vous,"Confermate l'indirizzo, passo.","Confirmez l'adresse, à vous."
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,Chiudo,Terminé,"Grazie centrale, chiudo.","Merci centrale, terminé."
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,In ascolto,À l'écoute,Autoambulanza due in ascolto.,Ambulance deux à l'écoute.
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,Ripeta per favore,Répétez s'il vous plaît,"Non ho capito, ripeta per favore.","Je n'ai pas compris, répétez s'il vous plaît."
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,Forte e chiaro,Cinq sur cinq,Vi ricevo forte e chiaro.,Je vous reçois cinq sur cinq.
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,la copertura radio,la couverture radio,Qui la copertura radio è scarsa.,Ici la couverture radio est mauvaise.
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,il canale,le canal,Passiamo sul canale di intervento.,Nous passons sur le canal d'intervention.
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,Polycom,Polycom (réseau radio suisse de sécurité),Comunichiamo via Polycom con i pompieri.,Nous communiquons par Polycom avec les pompiers.
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,l'alfabeto fonetico,l'alphabet phonétique,Le detto il nome con l'alfabeto fonetico.,Je vous dicte le nom avec l'alphabet phonétique.
+"Bloc 3 - Materiel, radio 144, Ticino",56,Radio 144 : procédure de communication,fare lo spelling,épeler,"Le faccio lo spelling: Alfa, Novembre, Delta.","Je vous l'épelle : Alfa, November, Delta."
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",lo stato del mezzo,le statut du véhicule,Aggiorno lo stato del mezzo sul terminale.,Je mets à jour le statut du véhicule sur le terminal.
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",in partenza,"en route, au départ",Autoambulanza uno in partenza.,Ambulance un en route.
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",sul posto,sur place,"Siamo sul posto, iniziamo la valutazione.","Nous sommes sur place, nous débutons l'évaluation."
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",al paziente,auprès du patient,"Siamo al paziente, ora vi aggiorno.","Nous sommes auprès du patient, je vous informe."
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",in trasporto,en transport,In trasporto verso l'Ospedale Civico.,En transport vers l'Ospedale Civico.
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",all'ospedale,à l'hôpital,"Arrivati all'ospedale, consegna in corso.","Arrivés à l'hôpital, transmission en cours."
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",libero,"disponible, libre",Mezzo libero e rientrante in sede.,Véhicule disponible et rentrant à la base.
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",occupato,occupé,Siamo occupati su un altro intervento.,Nous sommes occupés sur une autre intervention.
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",il codice di rientro,le degré d'urgence du retour,Rientriamo in codice due.,Nous rentrons en code deux.
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",l'urgenza vitale,l'urgence vitale,"Si tratta di un'urgenza vitale, chiedo rinforzi.","Il s'agit d'une urgence vitale, je demande des renforts."
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",il rinforzo,le renfort,Richiedo il rinforzo di un secondo mezzo.,Je demande le renfort d'un deuxième véhicule.
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",il medico d'urgenza,le médecin d'urgence,Chiedo l'invio del medico d'urgenza.,Je demande l'envoi du médecin d'urgence.
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",l'elisoccorso,l'hélicoptère de secours,Attivate l'elisoccorso della Rega.,Activez l'hélicoptère de secours de la Rega.
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",il punto d'incontro,le point de rendez-vous,Fissiamo un punto d'incontro con i pompieri.,Nous fixons un point de rendez-vous avec les pompiers.
+"Bloc 3 - Materiel, radio 144, Ticino",57,"Radio 144 : statuts, codes et renforts",l'annuncio,"l'annonce, le préavis",Faccio l'annuncio al Pronto Soccorso.,Je fais l'annonce aux urgences.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,la consegna,"la transmission, la passation",Faccio la consegna all'infermiere del triage.,Je fais la transmission à l'infirmier du triage.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,il preavviso,le préavis,Diamo il preavviso di arrivo tra dieci minuti.,Nous donnons le préavis d'arrivée dans dix minutes.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,il rapporto d'intervento,le rapport d'intervention,Compilo il rapporto d'intervento.,Je remplis le rapport d'intervention.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,il protocollo,le protocole,Firmo il protocollo e lo lascio in reparto.,Je signe le protocole et le laisse dans le service.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,Vi porto...,Je vous amène...,Vi porto un paziente di settantadue anni.,Je vous amène un patient de soixante-douze ans.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,l'anamnesi in breve,l'anamnèse en bref,"In breve: cardiopatico, diabetico, iperteso.","En bref : cardiaque, diabétique, hypertendu."
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,i parametri vitali,les paramètres vitaux,Parametri vitali all'arrivo: pressione centoquaranta su ottanta.,Paramètres vitaux à l'arrivée : tension cent quarante sur quatre-vingts.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,l'evoluzione,l'évolution,L'evoluzione durante il trasporto è stata stabile.,L'évolution pendant le transport a été stable.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,il trattamento eseguito,le traitement effectué,Trattamento eseguito: ossigeno e nitrati.,Traitement effectué : oxygène et dérivés nitrés.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,stabile,stable,Il paziente è rimasto stabile.,Le patient est resté stable.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,peggiorato,aggravé,È peggiorato durante il trasporto.,Il s'est aggravé pendant le transport.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,l'ipotesi diagnostica,l'hypothèse diagnostique,La nostra ipotesi diagnostica è una sindrome coronarica.,Notre hypothèse diagnostique est un syndrome coronarien.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,il triage,le triage,L'infermiere di triage assegna il codice.,L'infirmier de triage attribue le code.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,il letto d'osservazione,le lit d'observation,Lo portiamo nel letto d'osservazione due.,Nous l'installons au lit d'observation deux.
+"Bloc 3 - Materiel, radio 144, Ticino",58,La transmission et le passage de témoin,gli effetti personali,les effets personnels,Consegno gli effetti personali e i documenti.,Je remets les effets personnels et les documents.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,il Pronto Soccorso,les urgences hospitalières,Trasportiamo al Pronto Soccorso di Lugano.,Nous transportons aux urgences de Lugano.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,la FCTSA,la FCTSA (fédération cantonale des services d'ambulance),La FCTSA coordina i servizi autoambulanza del Cantone.,La FCTSA coordonne les services d'ambulance du canton.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,l'EOC,l'EOC (hôpitaux publics cantonaux),L'EOC gestisce gli ospedali pubblici del Ticino.,L'EOC gère les hôpitaux publics du Tessin.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,la Croce Verde,la Croce Verde (service d'ambulance),La Croce Verde di Lugano invia un secondo mezzo.,La Croce Verde de Lugano envoie un deuxième véhicule.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,la Rega,la Rega (garde aérienne suisse),La Rega arriva tra otto minuti.,La Rega arrive dans huit minutes.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,il soccorritore diplomato,l'ambulancier diplômé,Sono soccorritore diplomato SSS.,Je suis ambulancier diplômé ES.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,l'autista soccorritore,le chauffeur-secouriste,L'autista soccorritore guida in corsa urgente.,Le chauffeur-secouriste conduit en course urgente.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,il capo intervento,le chef d'intervention,Il capo intervento coordina sul posto.,Le chef d'intervention coordonne sur place.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,il servizio di picchetto,le service de piquet,Questa notte sono di picchetto.,Cette nuit je suis de piquet.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,la cassa malati,la caisse maladie,Mi dice qual è la sua cassa malati?,Pouvez-vous me dire quelle est votre caisse maladie ?
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,la tessera d'assicurato,la carte d'assuré,Cerchiamo la tessera d'assicurato nel portafoglio.,Nous cherchons la carte d'assuré dans le portefeuille.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,il medico di guardia,le médecin de garde,Chiamiamo il medico di guardia della regione.,Nous appelons le médecin de garde de la région.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,la casa per anziani,l'EMS,Veniamo chiamati da una casa per anziani.,Nous sommes appelés par un EMS.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,il servizio di cure a domicilio,les soins à domicile,Il servizio di cure a domicilio passa due volte al giorno.,Les soins à domicile passent deux fois par jour.
+"Bloc 3 - Materiel, radio 144, Ticino",59,Le système sanitaire tessinois et suisse,la polizia cantonale,la police cantonale,La polizia cantonale è già sul posto.,La police cantonale est déjà sur place.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",il 144,le 144 (numéro sanitaire suisse),In Svizzera si chiama il 144 per le emergenze sanitarie.,En Suisse on appelle le 144 pour les urgences sanitaires.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",il 117,le 117 (police),Per la polizia si compone il 117.,Pour la police on compose le 117.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",il 118,le 118 (pompiers),I pompieri si allertano con il 118.,Les pompiers s'alertent avec le 118.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",il 1414,le 1414 (Rega),La Rega si allerta al 1414.,La Rega s'alerte au 1414.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",l'ACR,l'ACR (arrêt cardio-respiratoire),Intervento per ACR in luogo pubblico.,Intervention pour ACR sur la voie publique.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",la RCP,la RCP (réanimation cardio-pulmonaire),Iniziamo subito la RCP.,Nous débutons immédiatement la RCP.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",il BLS-DAE,le BLS-AED,I presenti hanno eseguito il BLS-DAE prima del nostro arrivo.,Les témoins ont effectué le BLS-AED avant notre arrivée.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",l'ALS,l'ALS (soins avancés),Il medico prosegue con misure ALS.,Le médecin poursuit avec des mesures ALS.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",il posteggio,la place de parc (helvétisme),Trova un posteggio vicino all'entrata.,Trouve une place de parc près de l'entrée.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",il formulario,le formulaire (helvétisme),Firmi il formulario di rifiuto.,Signez le formulaire de refus.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",l'annuncio d'evento,l'annonce d'événement,Compilo l'annuncio d'evento per la centrale.,Je remplis l'annonce d'événement pour la centrale.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",il comparto,"le secteur, la zone d'intervention",Il nostro comparto d'intervento è il Luganese.,Notre secteur d'intervention est le Luganese.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",la sede,"la base, le local",Rientriamo in sede dopo la disinfezione.,Nous rentrons à la base après la désinfection.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",il turno,"le service, la garde",Il turno di notte inizia alle diciannove.,Le service de nuit commence à dix-neuf heures.
+"Bloc 3 - Materiel, radio 144, Ticino",60,"Sigles, helvétismes et synthèse",il debriefing,le débriefing,Facciamo un debriefing dopo l'intervento pesante.,Nous faisons un débriefing après l'intervention difficile.

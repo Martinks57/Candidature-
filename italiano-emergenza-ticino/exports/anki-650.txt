@@ -1,0 +1,653 @@
+#separator:tab
+#html:true
+#tags column:5
+arrivare	arriver	<i>Arriviamo sul posto tra due minuti.</i>	Nous arrivons sur place dans deux minutes.	italiano_urgenza bloc1 giorno01
+entrare	entrer	<i>Permette che entriamo in casa?</i>	Vous permettez que nous entrions dans la maison ?	italiano_urgenza bloc1 giorno01
+uscire	sortir	<i>Usciamo dal palazzo con la barella.</i>	Nous sortons de l'immeuble avec le brancard.	italiano_urgenza bloc1 giorno01
+salire	monter	<i>Deve salire in ambulanza con noi.</i>	Vous devez monter dans l'ambulance avec nous.	italiano_urgenza bloc1 giorno01
+scendere	descendre	<i>Scendiamo le scale con la sedia portantina.</i>	Nous descendons les escaliers avec la chaise de transport.	italiano_urgenza bloc1 giorno01
+sedersi	s'asseoir	<i>Si sieda qui, per favore.</i>	Asseyez-vous ici, s'il vous plaît.	italiano_urgenza bloc1 giorno01
+sdraiarsi	s'allonger	<i>Si sdrai sulla barella, la aiuto io.</i>	Allongez-vous sur le brancard, je vous aide.	italiano_urgenza bloc1 giorno01
+alzarsi	se lever	<i>Non si alzi da solo, aspetti noi.</i>	Ne vous levez pas seul, attendez-nous.	italiano_urgenza bloc1 giorno01
+camminare	marcher	<i>Riesce a camminare fino all'ambulanza?</i>	Arrivez-vous à marcher jusqu'à l'ambulance ?	italiano_urgenza bloc1 giorno01
+respirare	respirer	<i>Respiri profondamente, con calma.</i>	Respirez profondément, calmement.	italiano_urgenza bloc1 giorno01
+sollevare	soulever	<i>Solleviamo il paziente al mio tre.</i>	Nous soulevons le patient à mon trois.	italiano_urgenza bloc1 giorno02
+spostare	déplacer	<i>Spostiamo il tavolino per passare con la barella.</i>	Déplaçons la petite table pour passer avec le brancard.	italiano_urgenza bloc1 giorno02
+girare	tourner, retourner	<i>Giriamo il paziente sul fianco sinistro.</i>	Nous tournons le patient sur le flanc gauche.	italiano_urgenza bloc1 giorno02
+tenere	tenir	<i>Tenga premuto qui sulla ferita.</i>	Maintenez la pression ici sur la plaie.	italiano_urgenza bloc1 giorno02
+lasciare	lâcher, laisser	<i>Non lasci la presa finché non dico io.</i>	Ne lâchez pas prise tant que je ne le dis pas.	italiano_urgenza bloc1 giorno02
+spingere	pousser	<i>Spingi la barella verso l'ambulanza.</i>	Pousse le brancard vers l'ambulance.	italiano_urgenza bloc1 giorno02
+tirare	tirer	<i>Tira la cinghia per bloccare la barella.</i>	Tire la sangle pour bloquer le brancard.	italiano_urgenza bloc1 giorno02
+appoggiare	poser, appuyer	<i>Appoggi la testa sul cuscino.</i>	Posez la tête sur le coussin.	italiano_urgenza bloc1 giorno02
+bloccare	bloquer, immobiliser	<i>Blocchiamo le ruote prima di caricare.</i>	Nous bloquons les roues avant de charger.	italiano_urgenza bloc1 giorno02
+caricare	charger	<i>Carichiamo il paziente e partiamo.</i>	Nous chargeons le patient et nous partons.	italiano_urgenza bloc1 giorno02
+Mi scusi	Excusez-moi	<i>Mi scusi, è Lei che ha chiamato il 144?</i>	Excusez-moi, c'est vous qui avez appelé le 144 ?	italiano_urgenza bloc1 giorno03
+Per favore	S'il vous plaît	<i>Si sieda qui per favore.</i>	Asseyez-vous ici s'il vous plaît.	italiano_urgenza bloc1 giorno03
+Mi segua	Suivez-moi	<i>Mi segua con lo sguardo, senza girare la testa.</i>	Suivez-moi du regard, sans tourner la tête.	italiano_urgenza bloc1 giorno03
+Mi guardi	Regardez-moi	<i>Mi guardi negli occhi e mi dica come si chiama.</i>	Regardez-moi dans les yeux et dites-moi votre nom.	italiano_urgenza bloc1 giorno03
+Mi dica	Dites-moi	<i>Mi dica esattamente dove sente male.</i>	Dites-moi exactement où vous avez mal.	italiano_urgenza bloc1 giorno03
+Stia fermo	Ne bougez pas	<i>Stia fermo, le metto il collare.</i>	Ne bougez pas, je vous mets le collier.	italiano_urgenza bloc1 giorno03
+Non si muova	Ne bougez pas	<i>Non si muova, sospettiamo una lesione alla schiena.</i>	Ne bougez pas, nous suspectons une lésion au dos.	italiano_urgenza bloc1 giorno03
+Faccia piano	Allez-y doucement	<i>Faccia piano quando si gira.</i>	Allez-y doucement quand vous vous retournez.	italiano_urgenza bloc1 giorno03
+Respiri	Respirez	<i>Respiri normalmente, non trattenga il fiato.</i>	Respirez normalement, ne retenez pas votre souffle.	italiano_urgenza bloc1 giorno03
+Mi stringa la mano	Serrez-moi la main	<i>Mi stringa la mano più forte che può.</i>	Serrez-moi la main aussi fort que vous pouvez.	italiano_urgenza bloc1 giorno03
+perché	parce que / pourquoi	<i>Ha chiamato perché il dolore non passava.</i>	Il a appelé parce que la douleur ne passait pas.	italiano_urgenza bloc1 giorno04
+quindi	donc	<i>È diabetico, quindi controlliamo la glicemia.</i>	Il est diabétique, donc nous contrôlons la glycémie.	italiano_urgenza bloc1 giorno04
+però	mais, pourtant	<i>Respira bene, però è molto pallido.</i>	Il respire bien, mais il est très pâle.	italiano_urgenza bloc1 giorno04
+invece	en revanche, par contre	<i>Il polso è regolare, la pressione invece è bassa.</i>	Le pouls est régulier, la tension en revanche est basse.	italiano_urgenza bloc1 giorno04
+anche	aussi	<i>Anche il braccio sinistro le fa male?</i>	Le bras gauche vous fait mal aussi ?	italiano_urgenza bloc1 giorno04
+inoltre	de plus	<i>Inoltre il paziente prende anticoagulanti.</i>	De plus, le patient prend des anticoagulants.	italiano_urgenza bloc1 giorno04
+allora	alors	<i>Allora procediamo con l'ossigeno.</i>	Alors nous procédons avec l'oxygène.	italiano_urgenza bloc1 giorno04
+siccome	comme, puisque	<i>Siccome è cardiopatico, facciamo subito un ECG.</i>	Comme il est cardiaque, nous faisons tout de suite un ECG.	italiano_urgenza bloc1 giorno04
+cioè	c'est-à-dire	<i>Ha una dispnea, cioè fatica a respirare.</i>	Il a une dyspnée, c'est-à-dire qu'il peine à respirer.	italiano_urgenza bloc1 giorno04
+oppure	ou bien	<i>Preferisce sedersi oppure restare sdraiato?</i>	Préférez-vous vous asseoir ou bien rester allongé ?	italiano_urgenza bloc1 giorno04
+mentre	pendant que	<i>È caduto mentre scendeva le scale.</i>	Il est tombé pendant qu'il descendait les escaliers.	italiano_urgenza bloc1 giorno05
+appena	dès que	<i>Appena arriviamo, avvisiamo la centrale.</i>	Dès que nous arrivons, nous prévenons la centrale.	italiano_urgenza bloc1 giorno05
+finché	jusqu'à ce que	<i>Tenga premuto finché non le dico di lasciare.</i>	Maintenez la pression jusqu'à ce que je vous dise de lâcher.	italiano_urgenza bloc1 giorno05
+prima di	avant de	<i>Prima di muoverla, le mettiamo il collare.</i>	Avant de vous bouger, nous vous mettons le collier.	italiano_urgenza bloc1 giorno05
+dopo	après	<i>Dopo la caduta ha perso conoscenza?</i>	Après la chute, a-t-il perdu connaissance ?	italiano_urgenza bloc1 giorno05
+da quando	depuis quand	<i>Da quando ha questo dolore?</i>	Depuis quand avez-vous cette douleur ?	italiano_urgenza bloc1 giorno05
+ogni volta che	chaque fois que	<i>Ogni volta che respira profondamente il dolore aumenta?</i>	Chaque fois que vous respirez profondément, la douleur augmente ?	italiano_urgenza bloc1 giorno05
+improvvisamente	soudainement	<i>Il dolore è iniziato improvvisamente.</i>	La douleur a commencé soudainement.	italiano_urgenza bloc1 giorno05
+poco fa	il y a peu	<i>Ha vomitato poco fa.</i>	Il a vomi il y a peu.	italiano_urgenza bloc1 giorno05
+da allora	depuis lors	<i>È caduto ieri e da allora non cammina più.</i>	Il est tombé hier et depuis lors il ne marche plus.	italiano_urgenza bloc1 giorno05
+davanti	devant	<i>L'autoambulanza è davanti al portone.</i>	L'ambulance est devant la porte d'entrée.	italiano_urgenza bloc1 giorno06
+dietro	derrière	<i>Il paziente è dietro la casa, in giardino.</i>	Le patient est derrière la maison, dans le jardin.	italiano_urgenza bloc1 giorno06
+sopra	au-dessus, sur	<i>La bombola è sopra la barella.</i>	La bouteille est au-dessus du brancard.	italiano_urgenza bloc1 giorno06
+sotto	sous, en dessous	<i>Il materiale di riserva è sotto la barella.</i>	Le matériel de réserve est sous le brancard.	italiano_urgenza bloc1 giorno06
+accanto a	à côté de	<i>Si metta accanto alla testa del paziente.</i>	Place-toi à côté de la tête du patient.	italiano_urgenza bloc1 giorno06
+in mezzo a	au milieu de	<i>Il ferito è in mezzo alla strada.</i>	Le blessé est au milieu de la route.	italiano_urgenza bloc1 giorno06
+a destra	à droite	<i>Il dolore è a destra, sotto le costole.</i>	La douleur est à droite, sous les côtes.	italiano_urgenza bloc1 giorno06
+a sinistra	à gauche	<i>Gira a sinistra dopo il semaforo.</i>	Tourne à gauche après le feu.	italiano_urgenza bloc1 giorno06
+dritto	tout droit	<i>Vada dritto fino in fondo al corridoio.</i>	Allez tout droit jusqu'au bout du couloir.	italiano_urgenza bloc1 giorno06
+in fondo	au fond	<i>Il bagno è in fondo al corridoio.</i>	La salle de bain est au fond du couloir.	italiano_urgenza bloc1 giorno06
+il piano	l'étage	<i>Il paziente è al terzo piano senza ascensore.</i>	Le patient est au troisième étage sans ascenseur.	italiano_urgenza bloc1 giorno07
+l'ascensore	l'ascenseur	<i>L'ascensore è troppo stretto per la barella.</i>	L'ascenseur est trop étroit pour le brancard.	italiano_urgenza bloc1 giorno07
+le scale	les escaliers	<i>Facciamo le scale con la sedia portantina.</i>	Nous prenons les escaliers avec la chaise de transport.	italiano_urgenza bloc1 giorno07
+il pianerottolo	le palier	<i>Lo stabilizziamo sul pianerottolo.</i>	Nous le stabilisons sur le palier.	italiano_urgenza bloc1 giorno07
+il corridoio	le couloir	<i>La camera è la seconda a destra nel corridoio.</i>	La chambre est la deuxième à droite dans le couloir.	italiano_urgenza bloc1 giorno07
+il portone	la porte d'entrée de l'immeuble	<i>Ci apra il portone, per favore.</i>	Ouvrez-nous la porte d'entrée, s'il vous plaît.	italiano_urgenza bloc1 giorno07
+il campanello	la sonnette	<i>Ho suonato il campanello ma non risponde nessuno.</i>	J'ai sonné mais personne ne répond.	italiano_urgenza bloc1 giorno07
+il cortile	la cour	<i>Posteggiamo l'autoambulanza nel cortile.</i>	Nous garons l'ambulance dans la cour.	italiano_urgenza bloc1 giorno07
+il posteggio	la place de parc (helvétisme)	<i>Non c'è posteggio davanti allo stabile.</i>	Il n'y a pas de place de parc devant l'immeuble.	italiano_urgenza bloc1 giorno07
+lo stabile	l'immeuble	<i>Lo stabile ha il codice sul citofono.</i>	L'immeuble a un code sur l'interphone.	italiano_urgenza bloc1 giorno07
+adesso, ora	maintenant	<i>Come si sente adesso?</i>	Comment vous sentez-vous maintenant ?	italiano_urgenza bloc1 giorno08
+subito	tout de suite	<i>Partiamo subito verso il Pronto Soccorso.</i>	Nous partons tout de suite vers les urgences.	italiano_urgenza bloc1 giorno08
+tra poco	dans un instant	<i>Tra poco le misuro di nuovo la pressione.</i>	Dans un instant je reprends votre tension.	italiano_urgenza bloc1 giorno08
+da quanto tempo	depuis combien de temps	<i>Da quanto tempo ha questi sintomi?</i>	Depuis combien de temps avez-vous ces symptômes ?	italiano_urgenza bloc1 giorno08
+fa (due ore fa)	il y a (deux heures)	<i>Il dolore è iniziato due ore fa.</i>	La douleur a commencé il y a deux heures.	italiano_urgenza bloc1 giorno08
+stamattina	ce matin	<i>Stamattina si è sentito male alzandosi.</i>	Ce matin il s'est senti mal en se levant.	italiano_urgenza bloc1 giorno08
+stanotte	cette nuit	<i>Stanotte non è riuscito a dormire per la tosse.</i>	Cette nuit il n'a pas pu dormir à cause de la toux.	italiano_urgenza bloc1 giorno08
+ieri sera	hier soir	<i>Ieri sera ha vomitato tre volte.</i>	Hier soir il a vomi trois fois.	italiano_urgenza bloc1 giorno08
+da giorni	depuis des jours	<i>Ha la febbre da tre giorni.</i>	Il a de la fièvre depuis trois jours.	italiano_urgenza bloc1 giorno08
+ancora	encore, toujours	<i>Ha ancora male al petto?</i>	Avez-vous encore mal à la poitrine ?	italiano_urgenza bloc1 giorno08
+grave	grave	<i>Il paziente è in condizioni gravi.</i>	Le patient est dans un état grave.	italiano_urgenza bloc1 giorno09
+lieve	léger	<i>Si tratta di un trauma lieve.</i>	Il s'agit d'un traumatisme léger.	italiano_urgenza bloc1 giorno09
+forte	fort, intense	<i>Ha un dolore molto forte al torace.</i>	Il a une douleur très forte au thorax.	italiano_urgenza bloc1 giorno09
+debole	faible	<i>Il polso è debole e filiforme.</i>	Le pouls est faible et filant.	italiano_urgenza bloc1 giorno09
+freddo	froid	<i>Ha le mani fredde e sudate.</i>	Il a les mains froides et moites.	italiano_urgenza bloc1 giorno09
+caldo	chaud	<i>La fronte è calda, ha la febbre.</i>	Le front est chaud, il a de la fièvre.	italiano_urgenza bloc1 giorno09
+duro	dur	<i>L'addome è duro alla palpazione.</i>	L'abdomen est dur à la palpation.	italiano_urgenza bloc1 giorno09
+molle	souple, mou	<i>L'addome è molle e trattabile.</i>	L'abdomen est souple et dépressible.	italiano_urgenza bloc1 giorno09
+gonfio	enflé	<i>La caviglia destra è gonfia.</i>	La cheville droite est enflée.	italiano_urgenza bloc1 giorno09
+rigido	raide	<i>Ha la nuca rigida.</i>	Il a la nuque raide.	italiano_urgenza bloc1 giorno09
+pallido	pâle	<i>Il paziente è pallido e sudato.</i>	Le patient est pâle et en sueur.	italiano_urgenza bloc1 giorno10
+sudato	en sueur	<i>È sudato freddo, sospettiamo uno shock.</i>	Il a des sueurs froides, nous suspectons un choc.	italiano_urgenza bloc1 giorno10
+cianotico	cyanosé	<i>Ha le labbra cianotiche.</i>	Il a les lèvres cyanosées.	italiano_urgenza bloc1 giorno10
+confuso	confus	<i>È confuso e non sa che giorno è.</i>	Il est confus et ne sait pas quel jour on est.	italiano_urgenza bloc1 giorno10
+agitato	agité	<i>Il paziente è agitato e non collabora.</i>	Le patient est agité et ne coopère pas.	italiano_urgenza bloc1 giorno10
+tranquillo	calme	<i>Stia tranquillo, siamo qui per aiutarla.</i>	Restez calme, nous sommes là pour vous aider.	italiano_urgenza bloc1 giorno10
+cosciente	conscient	<i>Il paziente è cosciente e orientato.</i>	Le patient est conscient et orienté.	italiano_urgenza bloc1 giorno10
+incosciente	inconscient	<i>L'abbiamo trovato incosciente sul pavimento.</i>	Nous l'avons trouvé inconscient sur le sol.	italiano_urgenza bloc1 giorno10
+sonnolento	somnolent	<i>È sonnolento ma risvegliabile.</i>	Il est somnolent mais réveillable.	italiano_urgenza bloc1 giorno10
+collaborante	coopérant	<i>Il paziente è collaborante e risponde a tutte le domande.</i>	Le patient est coopérant et répond à toutes les questions.	italiano_urgenza bloc1 giorno10
+molto	beaucoup, très	<i>Ha perso molto sangue.</i>	Il a perdu beaucoup de sang.	italiano_urgenza bloc1 giorno11
+poco	peu	<i>Ha bevuto poco da ieri.</i>	Il a peu bu depuis hier.	italiano_urgenza bloc1 giorno11
+abbastanza	assez	<i>Respira abbastanza bene con l'ossigeno.</i>	Il respire assez bien avec l'oxygène.	italiano_urgenza bloc1 giorno11
+troppo	trop	<i>La pressione è troppo bassa.</i>	La tension est trop basse.	italiano_urgenza bloc1 giorno11
+un po'	un peu	<i>Sento un po' di nausea.</i>	Je ressens un peu de nausée.	italiano_urgenza bloc1 giorno11
+spesso	souvent	<i>Le capita spesso di avere le vertigini?</i>	Vous arrive-t-il souvent d'avoir des vertiges ?	italiano_urgenza bloc1 giorno11
+raramente	rarement	<i>Raramente ha crisi così forti.</i>	Il a rarement des crises aussi fortes.	italiano_urgenza bloc1 giorno11
+sempre	toujours	<i>Prende sempre le sue medicine la mattina?</i>	Prenez-vous toujours vos médicaments le matin ?	italiano_urgenza bloc1 giorno11
+mai	jamais	<i>Non ha mai avuto un infarto?</i>	Vous n'avez jamais eu d'infarctus ?	italiano_urgenza bloc1 giorno11
+di solito	d'habitude	<i>Di solito la pressione quanto le fa?</i>	D'habitude, votre tension est à combien ?	italiano_urgenza bloc1 giorno11
+chi	qui	<i>Chi ha chiamato il 144?</i>	Qui a appelé le 144 ?	italiano_urgenza bloc1 giorno12
+che cosa	quoi, que	<i>Che cosa è successo esattamente?</i>	Que s'est-il passé exactement ?	italiano_urgenza bloc1 giorno12
+quando	quand	<i>Quando sono iniziati i sintomi?</i>	Quand les symptômes ont-ils commencé ?	italiano_urgenza bloc1 giorno12
+dove	où	<i>Dove sente il dolore?</i>	Où ressentez-vous la douleur ?	italiano_urgenza bloc1 giorno12
+come	comment	<i>Come si chiama, signora?</i>	Comment vous appelez-vous, madame ?	italiano_urgenza bloc1 giorno12
+quanto	combien	<i>Quanto pesa, più o meno?</i>	Combien pesez-vous, à peu près ?	italiano_urgenza bloc1 giorno12
+quale	quel	<i>Quale braccio non riesce a muovere?</i>	Quel bras n'arrivez-vous pas à bouger ?	italiano_urgenza bloc1 giorno12
+da quanto	depuis combien de temps	<i>Da quanto è sdraiato per terra?</i>	Depuis combien de temps est-il allongé par terre ?	italiano_urgenza bloc1 giorno12
+Quanti anni ha?	Quel âge avez-vous ?	<i>Quanti anni ha il paziente?</i>	Quel âge a le patient ?	italiano_urgenza bloc1 giorno12
+È mai successo prima?	Est-ce déjà arrivé ?	<i>Le è mai successo prima?</i>	Cela vous est-il déjà arrivé ?	italiano_urgenza bloc1 giorno12
+Lei	vous (vouvoiement)	<i>Lei ha allergie a qualche medicamento?</i>	Avez-vous des allergies à un médicament ?	italiano_urgenza bloc1 giorno13
+il signore, la signora	monsieur, madame	<i>Signora, mi sente?</i>	Madame, vous m'entendez ?	italiano_urgenza bloc1 giorno13
+prego	je vous en prie	<i>Prego, si accomodi sulla barella.</i>	Je vous en prie, installez-vous sur le brancard.	italiano_urgenza bloc1 giorno13
+grazie mille	merci beaucoup	<i>Grazie mille per la collaborazione.</i>	Merci beaucoup pour votre coopération.	italiano_urgenza bloc1 giorno13
+Mi permetta	Permettez-moi	<i>Mi permetta di guardarle la gamba.</i>	Permettez-moi de regarder votre jambe.	italiano_urgenza bloc1 giorno13
+Le dispiace se...	Cela vous dérange si...	<i>Le dispiace se le apro la camicia?</i>	Cela vous dérange si j'ouvre votre chemise ?	italiano_urgenza bloc1 giorno13
+Posso...?	Puis-je... ?	<i>Posso misurarle la pressione?</i>	Puis-je prendre votre tension ?	italiano_urgenza bloc1 giorno13
+Va bene così	C'est bien comme ça	<i>Va bene così, non si sforzi.</i>	C'est bien comme ça, ne forcez pas.	italiano_urgenza bloc1 giorno13
+Non si preoccupi	Ne vous inquiétez pas	<i>Non si preoccupi, ci pensiamo noi.</i>	Ne vous inquiétez pas, on s'en occupe.	italiano_urgenza bloc1 giorno13
+Scusi il disturbo	Désolé du dérangement	<i>Scusi il disturbo, devo farle ancora due domande.</i>	Désolé du dérangement, je dois encore vous poser deux questions.	italiano_urgenza bloc1 giorno13
+potere	pouvoir	<i>Può muovere le dita del piede?</i>	Pouvez-vous bouger les orteils ?	italiano_urgenza bloc1 giorno14
+dovere	devoir	<i>Deve venire con noi in ospedale.</i>	Vous devez venir avec nous à l'hôpital.	italiano_urgenza bloc1 giorno14
+volere	vouloir	<i>Vuole che avvisiamo qualcuno della famiglia?</i>	Voulez-vous que nous prévenions quelqu'un de la famille ?	italiano_urgenza bloc1 giorno14
+riuscire a	arriver à, parvenir à	<i>Riesce a respirare meglio adesso?</i>	Arrivez-vous à mieux respirer maintenant ?	italiano_urgenza bloc1 giorno14
+farcela	y arriver	<i>Ce la fa a stare seduto da solo?</i>	Arrivez-vous à rester assis tout seul ?	italiano_urgenza bloc1 giorno14
+avere bisogno di	avoir besoin de	<i>Ha bisogno di aiuto per alzarsi?</i>	Avez-vous besoin d'aide pour vous lever ?	italiano_urgenza bloc1 giorno14
+bisogna	il faut	<i>Bisogna portarlo subito in Pronto Soccorso.</i>	Il faut l'emmener tout de suite aux urgences.	italiano_urgenza bloc1 giorno14
+è necessario	il est nécessaire	<i>È necessario mettere una via venosa.</i>	Il est nécessaire de poser une voie veineuse.	italiano_urgenza bloc1 giorno14
+provare a	essayer de	<i>Provi a stringere le mie dita.</i>	Essayez de serrer mes doigts.	italiano_urgenza bloc1 giorno14
+smettere di	arrêter de	<i>Ha smesso di parlare all'improvviso.</i>	Il a arrêté de parler d'un coup.	italiano_urgenza bloc1 giorno14
+sentirsi	se sentir	<i>Come si sente in questo momento?</i>	Comment vous sentez-vous en ce moment ?	italiano_urgenza bloc1 giorno15
+farsi male	se faire mal	<i>Si è fatta male alla testa cadendo?</i>	Vous vous êtes fait mal à la tête en tombant ?	italiano_urgenza bloc1 giorno15
+muoversi	bouger	<i>Non si muova, arriviamo noi.</i>	Ne bougez pas, nous venons à vous.	italiano_urgenza bloc1 giorno15
+svegliarsi	se réveiller	<i>Si è svegliato da solo dopo la crisi?</i>	S'est-il réveillé tout seul après la crise ?	italiano_urgenza bloc1 giorno15
+addormentarsi	s'endormir	<i>Si è addormentato e non si è più svegliato.</i>	Il s'est endormi et ne s'est plus réveillé.	italiano_urgenza bloc1 giorno15
+svenire	s'évanouir	<i>È svenuta in cucina davanti al marito.</i>	Elle s'est évanouie dans la cuisine devant son mari.	italiano_urgenza bloc1 giorno15
+lamentarsi	se plaindre	<i>Si lamenta di un dolore alla schiena.</i>	Il se plaint d'une douleur au dos.	italiano_urgenza bloc1 giorno15
+calmarsi	se calmer	<i>Si calmi, adesso respiriamo insieme.</i>	Calmez-vous, maintenant nous respirons ensemble.	italiano_urgenza bloc1 giorno15
+girarsi	se retourner	<i>Si giri sul fianco destro, la aiuto io.</i>	Retournez-vous sur le flanc droit, je vous aide.	italiano_urgenza bloc1 giorno15
+spogliarsi	se déshabiller	<i>Deve spogliarsi solo fino alla vita.</i>	Vous devez vous déshabiller seulement jusqu'à la taille.	italiano_urgenza bloc1 giorno15
+è successo	c'est arrivé	<i>Che cosa è successo prima del malore?</i>	Que s'est-il passé avant le malaise ?	italiano_urgenza bloc1 giorno16
+è caduto	il est tombé	<i>È caduto dalla scala da circa due metri.</i>	Il est tombé de l'échelle d'environ deux mètres.	italiano_urgenza bloc1 giorno16
+ha battuto la testa	il s'est cogné la tête	<i>Ha battuto la testa contro il termosifone?</i>	S'est-il cogné la tête contre le radiateur ?	italiano_urgenza bloc1 giorno16
+ha perso conoscenza	il a perdu connaissance	<i>Ha perso conoscenza per qualche secondo.</i>	Il a perdu connaissance pendant quelques secondes.	italiano_urgenza bloc1 giorno16
+si è sentito male	il s'est senti mal	<i>Si è sentito male mentre camminava.</i>	Il s'est senti mal pendant qu'il marchait.	italiano_urgenza bloc1 giorno16
+ha vomitato	il a vomi	<i>Ha vomitato due volte dopo la caduta.</i>	Il a vomi deux fois après la chute.	italiano_urgenza bloc1 giorno16
+ha avuto una crisi	il a fait une crise	<i>Ha avuto una crisi convulsiva di due minuti.</i>	Il a fait une crise convulsive de deux minutes.	italiano_urgenza bloc1 giorno16
+è scivolato	il a glissé	<i>È scivolato sul pavimento bagnato.</i>	Il a glissé sur le sol mouillé.	italiano_urgenza bloc1 giorno16
+si è tagliato	il s'est coupé	<i>Si è tagliato la mano con un coltello.</i>	Il s'est coupé la main avec un couteau.	italiano_urgenza bloc1 giorno16
+l'abbiamo trovato	nous l'avons trouvé	<i>L'abbiamo trovato per terra in bagno.</i>	Nous l'avons trouvé par terre dans la salle de bain.	italiano_urgenza bloc1 giorno16
+non	ne... pas	<i>Non riesco a sentire il polso radiale.</i>	Je n'arrive pas à sentir le pouls radial.	italiano_urgenza bloc1 giorno17
+mai	jamais	<i>Non ha mai avuto problemi di cuore.</i>	Il n'a jamais eu de problèmes cardiaques.	italiano_urgenza bloc1 giorno17
+niente, nulla	rien	<i>Non ha mangiato niente da ieri sera.</i>	Il n'a rien mangé depuis hier soir.	italiano_urgenza bloc1 giorno17
+nessuno	personne	<i>Non c'era nessuno in casa con lui.</i>	Il n'y avait personne à la maison avec lui.	italiano_urgenza bloc1 giorno17
+neanche, nemmeno	même pas	<i>Non riesce neanche a stare in piedi.</i>	Il n'arrive même pas à tenir debout.	italiano_urgenza bloc1 giorno17
+non... più	ne... plus	<i>Non risponde più alle domande.</i>	Il ne répond plus aux questions.	italiano_urgenza bloc1 giorno17
+non... ancora	pas encore	<i>Non ha ancora preso le medicine di oggi.</i>	Il n'a pas encore pris ses médicaments d'aujourd'hui.	italiano_urgenza bloc1 giorno17
+senza	sans	<i>È uscito senza il bastone ed è caduto.</i>	Il est sorti sans sa canne et il est tombé.	italiano_urgenza bloc1 giorno17
+solo, soltanto	seulement	<i>Sente dolore solo quando respira.</i>	Il ressent la douleur seulement quand il respire.	italiano_urgenza bloc1 giorno17
+tranne	sauf	<i>Muove tutto tranne il braccio sinistro.</i>	Il bouge tout sauf le bras gauche.	italiano_urgenza bloc1 giorno17
+il numero civico	le numéro de rue	<i>Mi dica il numero civico esatto.</i>	Donnez-moi le numéro de rue exact.	italiano_urgenza bloc1 giorno18
+il peso	le poids	<i>Quanto pesa il bambino, circa?</i>	Combien pèse l'enfant, environ ?	italiano_urgenza bloc1 giorno18
+l'altezza	la taille	<i>Che altezza ha il paziente?</i>	Quelle taille fait le patient ?	italiano_urgenza bloc1 giorno18
+i chili	les kilos	<i>Pesa circa ottanta chili.</i>	Il pèse environ quatre-vingts kilos.	italiano_urgenza bloc1 giorno18
+i centimetri	les centimètres	<i>La ferita è lunga circa cinque centimetri.</i>	La plaie mesure environ cinq centimètres.	italiano_urgenza bloc1 giorno18
+i millilitri	les millilitres	<i>Ha perso circa duecento millilitri di sangue.</i>	Il a perdu environ deux cents millilitres de sang.	italiano_urgenza bloc1 giorno18
+i milligrammi	les milligrammes	<i>Prepara quattro milligrammi endovena.</i>	Prépare quatre milligrammes en intraveineuse.	italiano_urgenza bloc1 giorno18
+le gocce	les gouttes	<i>Prende venti gocce la sera.</i>	Il prend vingt gouttes le soir.	italiano_urgenza bloc1 giorno18
+la metà	la moitié	<i>Ha bevuto la metà della bottiglia.</i>	Il a bu la moitié de la bouteille.	italiano_urgenza bloc1 giorno18
+il doppio	le double	<i>La dose è il doppio di quella abituale.</i>	La dose est le double de celle habituelle.	italiano_urgenza bloc1 giorno18
+chiamare	appeler	<i>Chi ha chiamato la centrale 144?</i>	Qui a appelé la centrale 144 ?	italiano_urgenza bloc1 giorno19
+richiamare	rappeler	<i>La centrale ci richiama tra poco.</i>	La centrale nous rappelle dans un instant.	italiano_urgenza bloc1 giorno19
+avvisare	prévenir	<i>Avvisiamo il Pronto Soccorso del nostro arrivo.</i>	Nous prévenons les urgences de notre arrivée.	italiano_urgenza bloc1 giorno19
+il natel	le portable (helvétisme)	<i>Ha il natel con sé per avvisare la famiglia?</i>	Avez-vous votre portable sur vous pour prévenir la famille ?	italiano_urgenza bloc1 giorno19
+il numero di telefono	le numéro de téléphone	<i>Mi lascia un numero di telefono di un familiare?</i>	Vous me laissez le numéro d'un proche ?	italiano_urgenza bloc1 giorno19
+rispondere	répondre	<i>Non risponde al telefono da stamattina.</i>	Il ne répond plus au téléphone depuis ce matin.	italiano_urgenza bloc1 giorno19
+la linea	la ligne	<i>La linea è disturbata, ripeta per favore.</i>	La ligne est mauvaise, répétez s'il vous plaît.	italiano_urgenza bloc1 giorno19
+il messaggio	le message	<i>Le lascio un messaggio con l'ospedale di destinazione.</i>	Je vous laisse un message avec l'hôpital de destination.	italiano_urgenza bloc1 giorno19
+mettere in vivavoce	mettre sur haut-parleur	<i>Metta il telefono in vivavoce, per favore.</i>	Mettez le téléphone sur haut-parleur, s'il vous plaît.	italiano_urgenza bloc1 giorno19
+il citofono	l'interphone	<i>Risponda al citofono e ci apra.</i>	Répondez à l'interphone et ouvrez-nous.	italiano_urgenza bloc1 giorno19
+la moglie	l'épouse	<i>La moglie viene con noi in ambulanza.</i>	L'épouse vient avec nous dans l'ambulance.	italiano_urgenza bloc1 giorno20
+il marito	le mari	<i>Il marito ha chiamato il 144 alle otto.</i>	Le mari a appelé le 144 à huit heures.	italiano_urgenza bloc1 giorno20
+il figlio, la figlia	le fils, la fille	<i>La figlia ha le chiavi di casa.</i>	La fille a les clés de la maison.	italiano_urgenza bloc1 giorno20
+i genitori	les parents	<i>Avvisate i genitori del bambino.</i>	Prévenez les parents de l'enfant.	italiano_urgenza bloc1 giorno20
+il vicino di casa	le voisin	<i>Il vicino di casa ha sentito un tonfo.</i>	Le voisin a entendu un bruit sourd.	italiano_urgenza bloc1 giorno20
+il badante, la badante	l'aide à domicile	<i>La badante è con lei tutti i giorni.</i>	L'aide à domicile est avec elle tous les jours.	italiano_urgenza bloc1 giorno20
+il medico di famiglia	le médecin traitant	<i>Chi è il suo medico di famiglia?</i>	Qui est votre médecin traitant ?	italiano_urgenza bloc1 giorno20
+il curatore	le curateur (représentant légal)	<i>Chi è il curatore del paziente?</i>	Qui est le curateur du patient ?	italiano_urgenza bloc1 giorno20
+la persona di riferimento	la personne de référence	<i>Ci dia il contatto della persona di riferimento.</i>	Donnez-nous le contact de la personne de référence.	italiano_urgenza bloc1 giorno20
+il testimone	le témoin	<i>C'è un testimone dell'incidente?</i>	Y a-t-il un témoin de l'accident ?	italiano_urgenza bloc1 giorno20
+la casa per anziani	l'EMS, la maison de retraite	<i>Il paziente vive in casa per anziani da due anni.</i>	Le patient vit en EMS depuis deux ans.	italiano_urgenza bloc1 giorno21
+l'appartamento	l'appartement	<i>L'appartamento è al piano terra.</i>	L'appartement est au rez-de-chaussée.	italiano_urgenza bloc1 giorno21
+la chiave	la clé	<i>Ha la chiave per chiudere la porta?</i>	Avez-vous la clé pour fermer la porte ?	italiano_urgenza bloc1 giorno21
+la cucina	la cuisine	<i>L'abbiamo trovato in cucina, seduto per terra.</i>	Nous l'avons trouvé dans la cuisine, assis par terre.	italiano_urgenza bloc1 giorno21
+la camera da letto	la chambre à coucher	<i>Il paziente è nella camera da letto.</i>	Le patient est dans la chambre à coucher.	italiano_urgenza bloc1 giorno21
+il bagno	la salle de bain	<i>È caduta in bagno uscendo dalla doccia.</i>	Elle est tombée dans la salle de bain en sortant de la douche.	italiano_urgenza bloc1 giorno21
+il letto	le lit	<i>Lo spostiamo dal letto alla barella.</i>	Nous le transférons du lit au brancard.	italiano_urgenza bloc1 giorno21
+la poltrona	le fauteuil	<i>Passa tutta la giornata in poltrona.</i>	Il passe toute la journée dans le fauteuil.	italiano_urgenza bloc1 giorno21
+il pavimento	le sol	<i>Era sdraiato sul pavimento da diverse ore.</i>	Il était allongé sur le sol depuis plusieurs heures.	italiano_urgenza bloc1 giorno21
+accendere le luci	allumer les lumières	<i>Accenda tutte le luci, per favore.</i>	Allumez toutes les lumières, s'il vous plaît.	italiano_urgenza bloc1 giorno21
+la strada cantonale	la route cantonale	<i>L'incidente è sulla strada cantonale.</i>	L'accident est sur la route cantonale.	italiano_urgenza bloc1 giorno22
+l'incrocio	le carrefour	<i>Lo scontro è avvenuto all'incrocio.</i>	La collision a eu lieu au carrefour.	italiano_urgenza bloc1 giorno22
+il marciapiede	le trottoir	<i>È caduta sul marciapiede davanti al negozio.</i>	Elle est tombée sur le trottoir devant le magasin.	italiano_urgenza bloc1 giorno22
+il semaforo	le feu de signalisation	<i>Giri a destra dopo il semaforo.</i>	Tournez à droite après le feu.	italiano_urgenza bloc1 giorno22
+la rotonda	le giratoire	<i>Prenda la seconda uscita della rotonda.</i>	Prenez la deuxième sortie du giratoire.	italiano_urgenza bloc1 giorno22
+l'autostrada	l'autoroute	<i>L'intervento è in autostrada, corsia di sorpasso.</i>	L'intervention est sur l'autoroute, voie de dépassement.	italiano_urgenza bloc1 giorno22
+la galleria	le tunnel	<i>L'incidente è dentro la galleria.</i>	L'accident est à l'intérieur du tunnel.	italiano_urgenza bloc1 giorno22
+il veicolo	le véhicule	<i>Il veicolo si è ribaltato nel fossato.</i>	Le véhicule s'est renversé dans le fossé.	italiano_urgenza bloc1 giorno22
+il pedone	le piéton	<i>Il pedone è stato investito sulle strisce.</i>	Le piéton a été renversé sur le passage clouté.	italiano_urgenza bloc1 giorno22
+la corsia di emergenza	la bande d'arrêt d'urgence	<i>Ci fermiamo sulla corsia di emergenza.</i>	Nous nous arrêtons sur la bande d'arrêt d'urgence.	italiano_urgenza bloc1 giorno22
+Stia tranquillo	Restez calme	<i>Stia tranquillo, la portiamo in ospedale.</i>	Restez calme, nous vous emmenons à l'hôpital.	italiano_urgenza bloc1 giorno23
+La aiutiamo noi	Nous vous aidons	<i>La aiutiamo noi, non faccia sforzi.</i>	Nous vous aidons, ne faites pas d'efforts.	italiano_urgenza bloc1 giorno23
+Ci pensiamo noi	On s'en occupe	<i>Ci pensiamo noi alla porta, lei si concentri sul respiro.</i>	On s'occupe de la porte, vous concentrez-vous sur votre respiration.	italiano_urgenza bloc1 giorno23
+Non sembra grave	Cela ne semble pas grave	<i>Per ora non sembra niente di grave.</i>	Pour l'instant cela ne semble rien de grave.	italiano_urgenza bloc1 giorno23
+Le spiego	Je vous explique	<i>Le spiego cosa facciamo adesso.</i>	Je vous explique ce que nous faisons maintenant.	italiano_urgenza bloc1 giorno23
+Sarà solo un momento	Ce ne sera qu'un instant	<i>Sarà solo un momento, poi finiamo.</i>	Ce ne sera qu'un instant, puis nous aurons fini.	italiano_urgenza bloc1 giorno23
+Può fare un po' male	Cela peut faire un peu mal	<i>Può fare un po' male, ma passa subito.</i>	Cela peut faire un peu mal, mais ça passe tout de suite.	italiano_urgenza bloc1 giorno23
+Respiri con me	Respirez avec moi	<i>Respiri con me: dentro e fuori, piano.</i>	Respirez avec moi : inspirez, expirez, doucement.	italiano_urgenza bloc1 giorno23
+Siamo quasi arrivati	Nous sommes presque arrivés	<i>Siamo quasi arrivati al Pronto Soccorso.</i>	Nous sommes presque arrivés aux urgences.	italiano_urgenza bloc1 giorno23
+È in buone mani	Vous êtes entre de bonnes mains	<i>È in buone mani, la lasciamo ai colleghi.</i>	Vous êtes entre de bonnes mains, nous vous confions aux collègues.	italiano_urgenza bloc1 giorno23
+il consenso	le consentement	<i>Ci serve il suo consenso per il trasporto.</i>	Nous avons besoin de votre consentement pour le transport.	italiano_urgenza bloc1 giorno24
+acconsentire	consentir	<i>Acconsente a essere trasportato in ospedale?</i>	Consentez-vous à être transporté à l'hôpital ?	italiano_urgenza bloc1 giorno24
+rifiutare	refuser	<i>Il paziente rifiuta il trasporto.</i>	Le patient refuse le transport.	italiano_urgenza bloc1 giorno24
+firmare	signer	<i>Deve firmare qui il rifiuto di cura.</i>	Vous devez signer ici le refus de soins.	italiano_urgenza bloc1 giorno24
+il rifiuto di cura	le refus de soins	<i>Compiliamo il modulo di rifiuto di cura.</i>	Nous remplissons le formulaire de refus de soins.	italiano_urgenza bloc1 giorno24
+il formulario	le formulaire (helvétisme)	<i>Le faccio firmare il formulario.</i>	Je vous fais signer le formulaire.	italiano_urgenza bloc1 giorno24
+le direttive anticipate	les directives anticipées	<i>Il paziente ha delle direttive anticipate?</i>	Le patient a-t-il des directives anticipées ?	italiano_urgenza bloc1 giorno24
+la capacità di discernimento	la capacité de discernement	<i>Valutiamo la capacità di discernimento del paziente.</i>	Nous évaluons la capacité de discernement du patient.	italiano_urgenza bloc1 giorno24
+informare	informer	<i>L'abbiamo informata dei rischi del rifiuto.</i>	Nous l'avons informée des risques du refus.	italiano_urgenza bloc1 giorno24
+la responsabilità	la responsabilité	<i>Se rifiuta, la responsabilità è sua.</i>	Si vous refusez, la responsabilité vous incombe.	italiano_urgenza bloc1 giorno24
+avere fretta	être pressé	<i>Non abbia fretta, si alzi piano.</i>	Ne soyez pas pressé, levez-vous doucement.	italiano_urgenza bloc1 giorno25
+dare una mano	donner un coup de main	<i>Mi dai una mano a caricare la barella?</i>	Tu me donnes un coup de main pour charger le brancard ?	italiano_urgenza bloc1 giorno25
+fare in fretta	faire vite	<i>Facciamo in fretta, il paziente è instabile.</i>	Faisons vite, le patient est instable.	italiano_urgenza bloc1 giorno25
+stare male	se sentir mal (≠ être méchant)	<i>Sta male da stamattina.</i>	Il se sent mal depuis ce matin.	italiano_urgenza bloc1 giorno25
+essere salvo	être sain et sauf	<i>È uscito salvo dall'incidente.</i>	Il est sorti sain et sauf de l'accident.	italiano_urgenza bloc1 giorno25
+il colpo di sonno	le coup de fatigue au volant	<i>Ha avuto un colpo di sonno alla guida.</i>	Il a eu un coup de fatigue au volant.	italiano_urgenza bloc1 giorno25
+prendere freddo	attraper froid	<i>Ha preso freddo aspettando fuori.</i>	Il a attrapé froid en attendant dehors.	italiano_urgenza bloc1 giorno25
+un attimo	un instant	<i>Un attimo, controllo la saturazione.</i>	Un instant, je contrôle la saturation.	italiano_urgenza bloc1 giorno25
+per terra	par terre	<i>È rimasto per terra tutta la notte.</i>	Il est resté par terre toute la nuit.	italiano_urgenza bloc1 giorno25
+di corsa	en vitesse, en courant	<i>Sono sceso di corsa quando ho sentito il tonfo.</i>	Je suis descendu en courant quand j'ai entendu le bruit sourd.	italiano_urgenza bloc1 giorno25
+le vie aeree	les voies aériennes	<i>Le vie aeree sono libere e pervie.</i>	Les voies aériennes sont libres et perméables.	italiano_urgenza bloc2 giorno26
+pervio	perméable, libre	<i>La via aerea è pervia, il paziente parla.</i>	La voie aérienne est libre, le patient parle.	italiano_urgenza bloc2 giorno26
+ostruito	obstrué	<i>Le vie aeree sono parzialmente ostruite.</i>	Les voies aériennes sont partiellement obstruées.	italiano_urgenza bloc2 giorno26
+l'iperestensione del capo	l'hyperextension de la tête	<i>Eseguo l'iperestensione del capo.</i>	J'effectue l'hyperextension de la tête.	italiano_urgenza bloc2 giorno26
+il sollevamento del mento	l'élévation du menton	<i>Mantengo il sollevamento del mento.</i>	Je maintiens l'élévation du menton.	italiano_urgenza bloc2 giorno26
+la sublussazione della mandibola	la subluxation de la mâchoire	<i>Nel trauma uso la sublussazione della mandibola.</i>	En traumatologie j'utilise la subluxation de la mâchoire.	italiano_urgenza bloc2 giorno26
+il corpo estraneo	le corps étranger	<i>Vedo un corpo estraneo in bocca.</i>	Je vois un corps étranger dans la bouche.	italiano_urgenza bloc2 giorno26
+la protesi dentaria	la prothèse dentaire	<i>Tolgo la protesi dentaria mobile.</i>	Je retire la prothèse dentaire mobile.	italiano_urgenza bloc2 giorno26
+russare	ronfler (respiration stertoreuse)	<i>Il paziente russa, la lingua ostruisce la via aerea.</i>	Le patient ronfle, la langue obstrue la voie aérienne.	italiano_urgenza bloc2 giorno26
+il gorgoglio	le gargouillement	<i>Sento un gorgoglio: aspiro subito.</i>	J'entends un gargouillement : j'aspire immédiatement.	italiano_urgenza bloc2 giorno26
+soffocare	étouffer	<i>Il bambino sta soffocando con un pezzo di mela.</i>	L'enfant s'étouffe avec un morceau de pomme.	italiano_urgenza bloc2 giorno27
+la disostruzione	la désobstruction	<i>Procedo con le manovre di disostruzione.</i>	Je procède aux manœuvres de désobstruction.	italiano_urgenza bloc2 giorno27
+le pacche interscapolari	les claques dans le dos	<i>Do cinque pacche interscapolari.</i>	Je donne cinq claques interscapulaires.	italiano_urgenza bloc2 giorno27
+la manovra di Heimlich	la manœuvre de Heimlich	<i>Eseguo la manovra di Heimlich.</i>	J'effectue la manœuvre de Heimlich.	italiano_urgenza bloc2 giorno27
+aspirare	aspirer	<i>Aspiro le secrezioni dal cavo orale.</i>	J'aspire les sécrétions de la cavité buccale.	italiano_urgenza bloc2 giorno27
+l'aspiratore	l'aspirateur de mucosités	<i>Passami l'aspiratore, per favore.</i>	Passe-moi l'aspirateur, s'il te plaît.	italiano_urgenza bloc2 giorno27
+le secrezioni	les sécrétions	<i>Ha molte secrezioni nelle vie aeree.</i>	Il a beaucoup de sécrétions dans les voies aériennes.	italiano_urgenza bloc2 giorno27
+la cannula orofaringea	la canule oropharyngée	<i>Inserisco una cannula orofaringea misura tre.</i>	J'insère une canule oropharyngée taille trois.	italiano_urgenza bloc2 giorno27
+il riflesso faringeo	le réflexe pharyngé	<i>Ha ancora il riflesso faringeo, tolgo la cannula.</i>	Il a encore le réflexe pharyngé, je retire la canule.	italiano_urgenza bloc2 giorno27
+la posizione laterale di sicurezza	la position latérale de sécurité	<i>Lo metto in posizione laterale di sicurezza.</i>	Je le mets en position latérale de sécurité.	italiano_urgenza bloc2 giorno27
+il respiro	la respiration	<i>Il respiro è superficiale e frequente.</i>	La respiration est superficielle et rapide.	italiano_urgenza bloc2 giorno28
+la frequenza respiratoria	la fréquence respiratoire	<i>Frequenza respiratoria ventotto al minuto.</i>	Fréquence respiratoire vingt-huit par minute.	italiano_urgenza bloc2 giorno28
+la dispnea	la dyspnée	<i>Il paziente presenta dispnea a riposo.</i>	Le patient présente une dyspnée au repos.	italiano_urgenza bloc2 giorno28
+l'affanno	l'essoufflement	<i>Ha l'affanno anche da seduto.</i>	Il est essoufflé même assis.	italiano_urgenza bloc2 giorno28
+tachipnoico	tachypnéique	<i>Il paziente è tachipnoico e sudato.</i>	Le patient est tachypnéique et en sueur.	italiano_urgenza bloc2 giorno28
+l'espansione toracica	l'ampliation thoracique	<i>L'espansione toracica è simmetrica.</i>	L'ampliation thoracique est symétrique.	italiano_urgenza bloc2 giorno28
+superficiale	superficiel	<i>Il respiro è superficiale.</i>	La respiration est superficielle.	italiano_urgenza bloc2 giorno28
+profondo	profond	<i>Faccia un respiro profondo.</i>	Prenez une respiration profonde.	italiano_urgenza bloc2 giorno28
+il tiraggio	le tirage	<i>Si nota tiraggio intercostale.</i>	On note un tirage intercostal.	italiano_urgenza bloc2 giorno28
+la respirazione paradossa	la respiration paradoxale	<i>Presenta respirazione paradossa a destra.</i>	Il présente une respiration paradoxale à droite.	italiano_urgenza bloc2 giorno28
+auscultare	ausculter	<i>Ausculto i campi polmonari.</i>	J'ausculte les champs pulmonaires.	italiano_urgenza bloc2 giorno29
+il murmure vescicolare	le murmure vésiculaire	<i>Murmure vescicolare presente bilateralmente.</i>	Murmure vésiculaire présent des deux côtés.	italiano_urgenza bloc2 giorno29
+i sibili	les sibilances	<i>Sento sibili espiratori diffusi.</i>	J'entends des sibilances expiratoires diffuses.	italiano_urgenza bloc2 giorno29
+i rantoli	les râles	<i>Rantoli alle basi, sospetto edema polmonare.</i>	Râles aux bases, je suspecte un œdème pulmonaire.	italiano_urgenza bloc2 giorno29
+il fischio	le sifflement	<i>Ha un fischio quando espira.</i>	Il a un sifflement quand il expire.	italiano_urgenza bloc2 giorno29
+la saturazione	la saturation	<i>Saturazione ottantotto per cento in aria ambiente.</i>	Saturation quatre-vingt-huit pour cent à l'air ambiant.	italiano_urgenza bloc2 giorno29
+l'ossigeno	l'oxygène	<i>Somministro ossigeno a dieci litri al minuto.</i>	J'administre de l'oxygène à dix litres par minute.	italiano_urgenza bloc2 giorno29
+la maschera con reservoir	le masque à haute concentration	<i>Metto la maschera con reservoir.</i>	Je mets le masque à haute concentration.	italiano_urgenza bloc2 giorno29
+gli occhialini nasali	les lunettes à oxygène	<i>Passiamo agli occhialini nasali a due litri.</i>	Nous passons aux lunettes à oxygène à deux litres.	italiano_urgenza bloc2 giorno29
+ventilare	ventiler	<i>Ventilo con pallone e maschera.</i>	Je ventile au ballon et masque.	italiano_urgenza bloc2 giorno29
+il polso	le pouls	<i>Il polso radiale è presente e regolare.</i>	Le pouls radial est présent et régulier.	italiano_urgenza bloc2 giorno30
+il polso carotideo	le pouls carotidien	<i>Cerco il polso carotideo per dieci secondi.</i>	Je cherche le pouls carotidien pendant dix secondes.	italiano_urgenza bloc2 giorno30
+la frequenza cardiaca	la fréquence cardiaque	<i>Frequenza cardiaca centoventi al minuto.</i>	Fréquence cardiaque cent vingt par minute.	italiano_urgenza bloc2 giorno30
+tachicardico	tachycarde	<i>Il paziente è tachicardico e ipoteso.</i>	Le patient est tachycarde et hypotendu.	italiano_urgenza bloc2 giorno30
+bradicardico	bradycarde	<i>È bradicardico a quaranta battiti.</i>	Il est bradycarde à quarante battements.	italiano_urgenza bloc2 giorno30
+la pressione arteriosa	la tension artérielle	<i>Pressione arteriosa novanta su sessanta.</i>	Tension artérielle quatre-vingt-dix sur soixante.	italiano_urgenza bloc2 giorno30
+ipoteso	hypotendu	<i>Il paziente è ipoteso, alziamo le gambe.</i>	Le patient est hypotendu, nous surélevons les jambes.	italiano_urgenza bloc2 giorno30
+il tempo di riempimento capillare	le temps de recoloration cutanée	<i>Riempimento capillare superiore a tre secondi.</i>	Recoloration cutanée supérieure à trois secondes.	italiano_urgenza bloc2 giorno30
+la cute	la peau	<i>La cute è fredda, pallida e sudata.</i>	La peau est froide, pâle et moite.	italiano_urgenza bloc2 giorno30
+lo shock	le choc	<i>Sospettiamo uno shock ipovolemico.</i>	Nous suspectons un choc hypovolémique.	italiano_urgenza bloc2 giorno30
+l'emorragia	l'hémorragie	<i>Emorragia importante alla coscia destra.</i>	Hémorragie importante à la cuisse droite.	italiano_urgenza bloc2 giorno31
+il sanguinamento	le saignement	<i>Il sanguinamento è arterioso e pulsante.</i>	Le saignement est artériel et pulsatile.	italiano_urgenza bloc2 giorno31
+comprimere	comprimer	<i>Comprimo direttamente sulla ferita.</i>	Je comprime directement sur la plaie.	italiano_urgenza bloc2 giorno31
+la compressione diretta	la compression directe	<i>La compressione diretta non basta.</i>	La compression directe ne suffit pas.	italiano_urgenza bloc2 giorno31
+il laccio emostatico	le garrot	<i>Applico il laccio emostatico sopra la ferita.</i>	J'applique le garrot au-dessus de la plaie.	italiano_urgenza bloc2 giorno31
+la medicazione compressiva	le pansement compressif	<i>Metto una medicazione compressiva.</i>	Je pose un pansement compressif.	italiano_urgenza bloc2 giorno31
+la garza sterile	la compresse stérile	<i>Passami altre garze sterili.</i>	Passe-moi d'autres compresses stériles.	italiano_urgenza bloc2 giorno31
+il coagulo	le caillot	<i>Non togliere la garza, rovini il coagulo.</i>	N'enlève pas la compresse, tu abîmes le caillot.	italiano_urgenza bloc2 giorno31
+l'epistassi	l'épistaxis, le saignement de nez	<i>Epistassi in paziente anticoagulato.</i>	Épistaxis chez un patient sous anticoagulants.	italiano_urgenza bloc2 giorno31
+il sangue	le sang	<i>Ha perso molto sangue prima del nostro arrivo.</i>	Il a perdu beaucoup de sang avant notre arrivée.	italiano_urgenza bloc2 giorno31
+lo stato di coscienza	l'état de conscience	<i>Valuto lo stato di coscienza con la scala AVPU.</i>	J'évalue l'état de conscience avec l'échelle AVPU.	italiano_urgenza bloc2 giorno32
+la scala di Glasgow	le score de Glasgow	<i>Glasgow tredici: apre gli occhi allo stimolo verbale.</i>	Glasgow treize : il ouvre les yeux à la stimulation verbale.	italiano_urgenza bloc2 giorno32
+vigile	vigile, éveillé	<i>Il paziente è vigile e orientato.</i>	Le patient est vigile et orienté.	italiano_urgenza bloc2 giorno32
+lo stimolo doloroso	le stimulus douloureux	<i>Reagisce solo allo stimolo doloroso.</i>	Il ne réagit qu'au stimulus douloureux.	italiano_urgenza bloc2 giorno32
+non responsivo	non réactif	<i>Il paziente è non responsivo.</i>	Le patient est non réactif.	italiano_urgenza bloc2 giorno32
+le pupille	les pupilles	<i>Pupille isocoriche e reagenti alla luce.</i>	Pupilles isocores et réactives à la lumière.	italiano_urgenza bloc2 giorno32
+isocorico	isocore	<i>Pupille isocoriche, diametro tre millimetri.</i>	Pupilles isocores, diamètre trois millimètres.	italiano_urgenza bloc2 giorno32
+la midriasi	la mydriase	<i>Midriasi bilaterale non reagente.</i>	Mydriase bilatérale aréactive.	italiano_urgenza bloc2 giorno32
+la miosi	le myosis	<i>Miosi serrata, sospetto intossicazione da oppiacei.</i>	Myosis serré, je suspecte une intoxication aux opiacés.	italiano_urgenza bloc2 giorno32
+orientato nel tempo e nello spazio	orienté dans le temps et l'espace	<i>Il paziente è orientato nel tempo e nello spazio.</i>	Le patient est orienté dans le temps et l'espace.	italiano_urgenza bloc2 giorno32
+l'ictus	l'AVC	<i>Sospetto ictus, attiviamo il percorso ictus.</i>	Suspicion d'AVC, nous activons la filière AVC.	italiano_urgenza bloc2 giorno33
+la paresi	la parésie	<i>Paresi del braccio destro da un'ora.</i>	Parésie du bras droit depuis une heure.	italiano_urgenza bloc2 giorno33
+l'emiplegia	l'hémiplégie	<i>Emiplegia sinistra completa.</i>	Hémiplégie gauche complète.	italiano_urgenza bloc2 giorno33
+la bocca storta	la bouche déviée	<i>Ha la bocca storta a sinistra.</i>	Il a la bouche déviée à gauche.	italiano_urgenza bloc2 giorno33
+l'afasia	l'aphasie	<i>Il paziente è afasico, non trova le parole.</i>	Le patient est aphasique, il ne trouve pas ses mots.	italiano_urgenza bloc2 giorno33
+la disartria	la dysarthrie	<i>Parla con disartria evidente.</i>	Il parle avec une dysarthrie évidente.	italiano_urgenza bloc2 giorno33
+l'ora d'esordio	l'heure de début	<i>L'ora d'esordio dei sintomi è le sette e trenta.</i>	L'heure de début des symptômes est sept heures trente.	italiano_urgenza bloc2 giorno33
+la crisi convulsiva	la crise convulsive	<i>Ha avuto una crisi convulsiva generalizzata.</i>	Il a fait une crise convulsive généralisée.	italiano_urgenza bloc2 giorno33
+le convulsioni	les convulsions	<i>Le convulsioni sono durate due minuti.</i>	Les convulsions ont duré deux minutes.	italiano_urgenza bloc2 giorno33
+la fase postcritica	la phase post-critique	<i>È in fase postcritica, confuso e sonnolento.</i>	Il est en phase post-critique, confus et somnolent.	italiano_urgenza bloc2 giorno33
+l'esposizione	l'exposition (déshabillage)	<i>Procedo all'esposizione per valutare le lesioni.</i>	Je procède à l'exposition pour évaluer les lésions.	italiano_urgenza bloc2 giorno34
+la temperatura corporea	la température corporelle	<i>Temperatura corporea trentacinque gradi.</i>	Température corporelle trente-cinq degrés.	italiano_urgenza bloc2 giorno34
+l'ipotermia	l'hypothermie	<i>Sospetto ipotermia moderata.</i>	Je suspecte une hypothermie modérée.	italiano_urgenza bloc2 giorno34
+la febbre	la fièvre	<i>Ha la febbre alta da due giorni.</i>	Il a une forte fièvre depuis deux jours.	italiano_urgenza bloc2 giorno34
+il colpo di calore	le coup de chaleur	<i>Sospetto colpo di calore dopo il lavoro al sole.</i>	Je suspecte un coup de chaleur après le travail au soleil.	italiano_urgenza bloc2 giorno34
+la coperta isotermica	la couverture de survie	<i>Copro il paziente con la coperta isotermica.</i>	Je couvre le patient avec la couverture de survie.	italiano_urgenza bloc2 giorno34
+l'ustione	la brûlure	<i>Ustione di secondo grado all'avambraccio.</i>	Brûlure du deuxième degré à l'avant-bras.	italiano_urgenza bloc2 giorno34
+l'ematoma	l'hématome	<i>Ematoma esteso al fianco sinistro.</i>	Hématome étendu au flanc gauche.	italiano_urgenza bloc2 giorno34
+l'escoriazione	l'écorchure	<i>Escoriazioni diffuse alle ginocchia.</i>	Écorchures diffuses aux genoux.	italiano_urgenza bloc2 giorno34
+la ferita lacerocontusa	la plaie contuse	<i>Ferita lacerocontusa al cuoio capelluto.</i>	Plaie contuse au cuir chevelu.	italiano_urgenza bloc2 giorno34
+i segni	les signes	<i>I segni clinici indicano una crisi asmatica.</i>	Les signes cliniques indiquent une crise d'asthme.	italiano_urgenza bloc2 giorno35
+i sintomi	les symptômes	<i>Da quando ha questi sintomi?</i>	Depuis quand avez-vous ces symptômes ?	italiano_urgenza bloc2 giorno35
+il dolore	la douleur	<i>Dove sente il dolore esattamente?</i>	Où ressentez-vous la douleur exactement ?	italiano_urgenza bloc2 giorno35
+il malore	le malaise	<i>Ha avuto un malore in strada.</i>	Il a eu un malaise dans la rue.	italiano_urgenza bloc2 giorno35
+il disturbo	le trouble, la gêne	<i>Che disturbo sente di preciso?</i>	Quelle gêne ressentez-vous précisément ?	italiano_urgenza bloc2 giorno35
+accusare (un dolore)	se plaindre de	<i>Il paziente accusa dolore retrosternale.</i>	Le patient se plaint d'une douleur rétrosternale.	italiano_urgenza bloc2 giorno35
+presentare	présenter	<i>Presenta nausea e sudorazione fredda.</i>	Il présente des nausées et des sueurs froides.	italiano_urgenza bloc2 giorno35
+riferire	rapporter, indiquer	<i>La paziente riferisce vertigini da ieri.</i>	La patiente rapporte des vertiges depuis hier.	italiano_urgenza bloc2 giorno35
+peggiorare	empirer	<i>I sintomi sono peggiorati nell'ultima ora.</i>	Les symptômes ont empiré durant la dernière heure.	italiano_urgenza bloc2 giorno35
+migliorare	s'améliorer	<i>Il dolore è migliorato dopo la nitroglicerina.</i>	La douleur s'est améliorée après la nitroglycérine.	italiano_urgenza bloc2 giorno35
+l'allergia	l'allergie	<i>Ha allergie note a medicamenti?</i>	Avez-vous des allergies connues à des médicaments ?	italiano_urgenza bloc2 giorno36
+allergico	allergique	<i>È allergico alla penicillina.</i>	Il est allergique à la pénicilline.	italiano_urgenza bloc2 giorno36
+la reazione allergica	la réaction allergique	<i>Presenta una reazione allergica dopo la puntura.</i>	Il présente une réaction allergique après la piqûre.	italiano_urgenza bloc2 giorno36
+l'anafilassi	l'anaphylaxie	<i>Sospetto shock anafilattico.</i>	Je suspecte un choc anaphylactique.	italiano_urgenza bloc2 giorno36
+l'orticaria	l'urticaire	<i>Ha orticaria diffusa al tronco.</i>	Il a de l'urticaire diffuse sur le tronc.	italiano_urgenza bloc2 giorno36
+il prurito	le prurit, les démangeaisons	<i>Riferisce prurito intenso alla gola.</i>	Il rapporte un prurit intense à la gorge.	italiano_urgenza bloc2 giorno36
+il gonfiore	le gonflement	<i>Ha gonfiore alle labbra e alla lingua.</i>	Il a un gonflement des lèvres et de la langue.	italiano_urgenza bloc2 giorno36
+la puntura d'insetto	la piqûre d'insecte	<i>È stato punto da una vespa dieci minuti fa.</i>	Il a été piqué par une guêpe il y a dix minutes.	italiano_urgenza bloc2 giorno36
+l'autoiniettore	l'auto-injecteur	<i>Ha già usato il suo autoiniettore di adrenalina?</i>	Avez-vous déjà utilisé votre auto-injecteur d'adrénaline ?	italiano_urgenza bloc2 giorno36
+l'intolleranza	l'intolérance	<i>È solo un'intolleranza o una vera allergia?</i>	Est-ce seulement une intolérance ou une vraie allergie ?	italiano_urgenza bloc2 giorno36
+il medicamento	le médicament (usage suisse)	<i>Che medicamenti prende regolarmente?</i>	Quels médicaments prenez-vous régulièrement ?	italiano_urgenza bloc2 giorno37
+la terapia abituale	le traitement habituel	<i>Mi porta la lista della terapia abituale?</i>	Pouvez-vous m'apporter la liste du traitement habituel ?	italiano_urgenza bloc2 giorno37
+l'anticoagulante	l'anticoagulant	<i>Prende un anticoagulante, attenzione al sanguinamento.</i>	Il prend un anticoagulant, attention au saignement.	italiano_urgenza bloc2 giorno37
+l'antiaggregante	l'antiagrégant	<i>È in terapia con antiaggreganti.</i>	Il est sous traitement antiagrégant.	italiano_urgenza bloc2 giorno37
+l'antipertensivo	l'antihypertenseur	<i>Prende due antipertensivi la mattina.</i>	Il prend deux antihypertenseurs le matin.	italiano_urgenza bloc2 giorno37
+l'insulina	l'insuline	<i>Si è fatto l'insulina ma non ha mangiato.</i>	Il a fait son insuline mais n'a pas mangé.	italiano_urgenza bloc2 giorno37
+l'antidolorifico	l'antalgique	<i>Ha già preso un antidolorifico stamattina?</i>	Avez-vous déjà pris un antalgique ce matin ?	italiano_urgenza bloc2 giorno37
+il broncodilatatore	le bronchodilatateur	<i>Ha usato il broncodilatatore tre volte.</i>	Il a utilisé le bronchodilatateur trois fois.	italiano_urgenza bloc2 giorno37
+la scatola dei medicamenti	la boîte à médicaments	<i>Portiamo la scatola dei medicamenti in ospedale.</i>	Nous emportons la boîte à médicaments à l'hôpital.	italiano_urgenza bloc2 giorno37
+la posologia	la posologie	<i>Qual è la posologia esatta?</i>	Quelle est la posologie exacte ?	italiano_urgenza bloc2 giorno37
+le patologie pregresse	les antécédents médicaux	<i>Quali patologie pregresse ha il paziente?</i>	Quels antécédents médicaux a le patient ?	italiano_urgenza bloc2 giorno38
+l'anamnesi	l'anamnèse	<i>Raccolgo l'anamnesi dai familiari.</i>	Je recueille l'anamnèse auprès des proches.	italiano_urgenza bloc2 giorno38
+il diabete	le diabète	<i>È diabetico insulinodipendente.</i>	Il est diabétique insulinodépendant.	italiano_urgenza bloc2 giorno38
+l'ipertensione	l'hypertension	<i>Soffre di ipertensione da vent'anni.</i>	Il souffre d'hypertension depuis vingt ans.	italiano_urgenza bloc2 giorno38
+l'infarto	l'infarctus	<i>Ha avuto un infarto due anni fa.</i>	Il a eu un infarctus il y a deux ans.	italiano_urgenza bloc2 giorno38
+l'insufficienza cardiaca	l'insuffisance cardiaque	<i>È seguito per insufficienza cardiaca.</i>	Il est suivi pour insuffisance cardiaque.	italiano_urgenza bloc2 giorno38
+la broncopneumopatia cronica	la BPCO	<i>È portatore di broncopneumopatia cronica con ossigeno a domicilio.</i>	Il est porteur d'une BPCO avec oxygène à domicile.	italiano_urgenza bloc2 giorno38
+l'epilessia	l'épilepsie	<i>È epilettico, l'ultima crisi un mese fa.</i>	Il est épileptique, dernière crise il y a un mois.	italiano_urgenza bloc2 giorno38
+il tumore	la tumeur	<i>È in cura per un tumore al polmone.</i>	Il est traité pour une tumeur au poumon.	italiano_urgenza bloc2 giorno38
+l'intervento chirurgico	l'intervention chirurgicale	<i>Ha subito un intervento chirurgico la settimana scorsa.</i>	Il a subi une intervention chirurgicale la semaine dernière.	italiano_urgenza bloc2 giorno38
+l'ultimo pasto	le dernier repas	<i>Quando ha fatto l'ultimo pasto?</i>	Quand avez-vous pris votre dernier repas ?	italiano_urgenza bloc2 giorno39
+mangiare	manger	<i>Ha mangiato qualcosa stamattina?</i>	Avez-vous mangé quelque chose ce matin ?	italiano_urgenza bloc2 giorno39
+bere	boire	<i>Ha bevuto alcolici oggi?</i>	Avez-vous bu de l'alcool aujourd'hui ?	italiano_urgenza bloc2 giorno39
+il digiuno	le jeûne	<i>È a digiuno dalle otto di ieri sera.</i>	Il est à jeun depuis huit heures hier soir.	italiano_urgenza bloc2 giorno39
+la colazione	le petit-déjeuner	<i>Ha saltato la colazione.</i>	Il a sauté le petit-déjeuner.	italiano_urgenza bloc2 giorno39
+il pranzo	le déjeuner	<i>Ha vomitato subito dopo pranzo.</i>	Il a vomi juste après le déjeuner.	italiano_urgenza bloc2 giorno39
+la cena	le dîner	<i>Non ha cenato ieri sera.</i>	Il n'a pas dîné hier soir.	italiano_urgenza bloc2 giorno39
+l'appetito	l'appétit	<i>Non ha appetito da tre giorni.</i>	Il n'a pas d'appétit depuis trois jours.	italiano_urgenza bloc2 giorno39
+la disidratazione	la déshydratation	<i>Segni di disidratazione: mucose secche.</i>	Signes de déshydratation : muqueuses sèches.	italiano_urgenza bloc2 giorno39
+il vomito	le vomissement	<i>Il vomito contiene tracce di sangue.</i>	Le vomissement contient des traces de sang.	italiano_urgenza bloc2 giorno39
+gli eventi precedenti	les événements précédents	<i>Mi racconti gli eventi precedenti al malore.</i>	Racontez-moi les événements précédant le malaise.	italiano_urgenza bloc2 giorno40
+la dinamica	la cinématique, le déroulement	<i>Qual è la dinamica dell'incidente?</i>	Quelle est la cinématique de l'accident ?	italiano_urgenza bloc2 giorno40
+lo sforzo	l'effort	<i>Il dolore è comparso sotto sforzo.</i>	La douleur est apparue à l'effort.	italiano_urgenza bloc2 giorno40
+il riposo	le repos	<i>Il dolore compare anche a riposo.</i>	La douleur apparaît aussi au repos.	italiano_urgenza bloc2 giorno40
+i fattori di rischio	les facteurs de risque	<i>Quali fattori di rischio cardiovascolare ha?</i>	Quels facteurs de risque cardiovasculaire a-t-il ?	italiano_urgenza bloc2 giorno40
+il fumo	le tabac	<i>Fuma un pacchetto al giorno?</i>	Fumez-vous un paquet par jour ?	italiano_urgenza bloc2 giorno40
+l'alcol	l'alcool	<i>Ha bevuto alcol prima dell'incidente?</i>	Avez-vous bu de l'alcool avant l'accident ?	italiano_urgenza bloc2 giorno40
+le sostanze stupefacenti	les stupéfiants	<i>Ha assunto sostanze stupefacenti?</i>	Avez-vous consommé des stupéfiants ?	italiano_urgenza bloc2 giorno40
+la familiarità	les antécédents familiaux	<i>C'è familiarità per infarto?</i>	Y a-t-il des antécédents familiaux d'infarctus ?	italiano_urgenza bloc2 giorno40
+la gravidanza	la grossesse	<i>C'è possibilità di una gravidanza in corso?</i>	Y a-t-il une possibilité de grossesse en cours ?	italiano_urgenza bloc2 giorno40
+l'insorgenza	le début, la survenue	<i>Qual è stata l'insorgenza del dolore?</i>	Comment la douleur est-elle survenue ?	italiano_urgenza bloc2 giorno41
+provocare	provoquer	<i>Che cosa provoca il dolore?</i>	Qu'est-ce qui provoque la douleur ?	italiano_urgenza bloc2 giorno41
+alleviare	soulager	<i>Che cosa allevia il dolore?</i>	Qu'est-ce qui soulage la douleur ?	italiano_urgenza bloc2 giorno41
+la qualità del dolore	la qualité de la douleur	<i>Mi descriva la qualità del dolore.</i>	Décrivez-moi la qualité de la douleur.	italiano_urgenza bloc2 giorno41
+oppressivo	oppressant	<i>Il dolore è oppressivo, come un peso.</i>	La douleur est oppressante, comme un poids.	italiano_urgenza bloc2 giorno41
+trafittivo	en coup de poignard	<i>Il dolore è trafittivo e localizzato.</i>	La douleur est en coup de poignard et localisée.	italiano_urgenza bloc2 giorno41
+crampiforme	à type de crampe	<i>Ha un dolore crampiforme all'addome.</i>	Il a une douleur à type de crampe à l'abdomen.	italiano_urgenza bloc2 giorno41
+l'irradiazione	l'irradiation	<i>Il dolore si irradia al braccio sinistro.</i>	La douleur irradie vers le bras gauche.	italiano_urgenza bloc2 giorno41
+la scala del dolore	l'échelle de la douleur	<i>Da zero a dieci, quanto è forte il dolore?</i>	De zéro à dix, quelle est l'intensité de la douleur ?	italiano_urgenza bloc2 giorno41
+continuo o intermittente	continu ou intermittent	<i>Il dolore è continuo o intermittente?</i>	La douleur est-elle continue ou intermittente ?	italiano_urgenza bloc2 giorno41
+il capo, la testa	la tête	<i>Ha ricevuto un trauma al capo.</i>	Il a reçu un traumatisme crânien.	italiano_urgenza bloc2 giorno42
+il cuoio capelluto	le cuir chevelu	<i>Ferita al cuoio capelluto che sanguina.</i>	Plaie du cuir chevelu qui saigne.	italiano_urgenza bloc2 giorno42
+la fronte	le front	<i>Ematoma sulla fronte.</i>	Hématome sur le front.	italiano_urgenza bloc2 giorno42
+l'occhio	l'œil	<i>Non apre l'occhio destro.</i>	Il n'ouvre pas l'œil droit.	italiano_urgenza bloc2 giorno42
+l'orecchio	l'oreille	<i>Perdita di liquido dall'orecchio.</i>	Écoulement de liquide par l'oreille.	italiano_urgenza bloc2 giorno42
+il naso	le nez	<i>Sangue dal naso dopo il colpo.</i>	Saignement de nez après le coup.	italiano_urgenza bloc2 giorno42
+la bocca	la bouche	<i>Mi apra la bocca, per favore.</i>	Ouvrez la bouche, s'il vous plaît.	italiano_urgenza bloc2 giorno42
+la lingua	la langue	<i>Si è morso la lingua durante la crisi.</i>	Il s'est mordu la langue pendant la crise.	italiano_urgenza bloc2 giorno42
+il collo	le cou	<i>Sente dolore al collo?</i>	Ressentez-vous une douleur au cou ?	italiano_urgenza bloc2 giorno42
+la nuca	la nuque	<i>Dolore alla nuca alla palpazione.</i>	Douleur à la nuque à la palpation.	italiano_urgenza bloc2 giorno42
+il torace	le thorax	<i>Torace stabile, senza deformità.</i>	Thorax stable, sans déformation.	italiano_urgenza bloc2 giorno43
+lo sterno	le sternum	<i>Dolore retrosternale da mezz'ora.</i>	Douleur rétrosternale depuis une demi-heure.	italiano_urgenza bloc2 giorno43
+le costole	les côtes	<i>Sospetta frattura di due costole.</i>	Fracture suspectée de deux côtes.	italiano_urgenza bloc2 giorno43
+la clavicola	la clavicule	<i>Deformità della clavicola destra.</i>	Déformation de la clavicule droite.	italiano_urgenza bloc2 giorno43
+l'addome	l'abdomen	<i>Addome dolente alla palpazione profonda.</i>	Abdomen douloureux à la palpation profonde.	italiano_urgenza bloc2 giorno43
+il quadrante	le quadrant	<i>Dolore al quadrante inferiore destro.</i>	Douleur au quadrant inférieur droit.	italiano_urgenza bloc2 giorno43
+l'epigastrio	l'épigastre	<i>Bruciore in epigastrio da ieri.</i>	Brûlure épigastrique depuis hier.	italiano_urgenza bloc2 giorno43
+il fianco	le flanc	<i>Colpo violento al fianco sinistro.</i>	Coup violent au flanc gauche.	italiano_urgenza bloc2 giorno43
+il bacino	le bassin	<i>Bacino instabile, non mobilizzare.</i>	Bassin instable, ne pas mobiliser.	italiano_urgenza bloc2 giorno43
+la schiena	le dos	<i>Dolore alla schiena dopo la caduta.</i>	Douleur au dos après la chute.	italiano_urgenza bloc2 giorno43
+la spalla	l'épaule	<i>Sospetta lussazione di spalla.</i>	Luxation d'épaule suspectée.	italiano_urgenza bloc2 giorno44
+il braccio	le bras	<i>Non riesce a sollevare il braccio.</i>	Il n'arrive pas à lever le bras.	italiano_urgenza bloc2 giorno44
+il gomito	le coude	<i>Il gomito è gonfio e deformato.</i>	Le coude est enflé et déformé.	italiano_urgenza bloc2 giorno44
+il polso (articolazione)	le poignet	<i>Frattura di polso dopo caduta sulla mano.</i>	Fracture du poignet après chute sur la main.	italiano_urgenza bloc2 giorno44
+la mano	la main	<i>Mi stringa la mano.</i>	Serrez-moi la main.	italiano_urgenza bloc2 giorno44
+l'anca	la hanche	<i>Sospetta frattura di femore, gamba extraruotata.</i>	Fracture du fémur suspectée, jambe en rotation externe.	italiano_urgenza bloc2 giorno44
+la coscia	la cuisse	<i>Ferita profonda alla coscia.</i>	Plaie profonde à la cuisse.	italiano_urgenza bloc2 giorno44
+il ginocchio	le genou	<i>Il ginocchio è bloccato in flessione.</i>	Le genou est bloqué en flexion.	italiano_urgenza bloc2 giorno44
+la caviglia	la cheville	<i>La caviglia è gonfia e dolente.</i>	La cheville est enflée et douloureuse.	italiano_urgenza bloc2 giorno44
+il piede	le pied	<i>Muove le dita del piede normalmente.</i>	Il bouge les orteils normalement.	italiano_urgenza bloc2 giorno44
+la nausea	la nausée	<i>Riferisce nausea da un'ora.</i>	Il rapporte des nausées depuis une heure.	italiano_urgenza bloc2 giorno45
+le vertigini	les vertiges	<i>Ha le vertigini quando si alza.</i>	Il a des vertiges quand il se lève.	italiano_urgenza bloc2 giorno45
+la stanchezza	la fatigue	<i>Stanchezza intensa da tre giorni.</i>	Fatigue intense depuis trois jours.	italiano_urgenza bloc2 giorno45
+la debolezza	la faiblesse	<i>Debolezza generalizzata agli arti.</i>	Faiblesse généralisée des membres.	italiano_urgenza bloc2 giorno45
+i brividi	les frissons	<i>Ha brividi e febbre alta.</i>	Il a des frissons et une forte fièvre.	italiano_urgenza bloc2 giorno45
+la sudorazione	la transpiration	<i>Sudorazione profusa e cute fredda.</i>	Transpiration profuse et peau froide.	italiano_urgenza bloc2 giorno45
+il capogiro	l'étourdissement	<i>Ha avuto un capogiro salendo le scale.</i>	Il a eu un étourdissement en montant les escaliers.	italiano_urgenza bloc2 giorno45
+la sete	la soif	<i>Ha molta sete da stamattina.</i>	Il a très soif depuis ce matin.	italiano_urgenza bloc2 giorno45
+il formicolio	les fourmillements	<i>Formicolio alla mano sinistra.</i>	Fourmillements à la main gauche.	italiano_urgenza bloc2 giorno45
+il tremore	le tremblement	<i>Tremore diffuso agli arti superiori.</i>	Tremblement diffus des membres supérieurs.	italiano_urgenza bloc2 giorno45
+il dolore toracico	la douleur thoracique	<i>Dolore toracico tipico da venti minuti.</i>	Douleur thoracique typique depuis vingt minutes.	italiano_urgenza bloc2 giorno46
+il cardiopalmo	les palpitations	<i>Riferisce cardiopalmo improvviso.</i>	Il rapporte des palpitations soudaines.	italiano_urgenza bloc2 giorno46
+l'aritmia	l'arythmie	<i>Il monitor mostra un'aritmia.</i>	Le moniteur montre une arythmie.	italiano_urgenza bloc2 giorno46
+la fibrillazione atriale	la fibrillation auriculaire	<i>È noto per fibrillazione atriale.</i>	Il est connu pour une fibrillation auriculaire.	italiano_urgenza bloc2 giorno46
+l'edema	l'œdème	<i>Edemi importanti alle caviglie.</i>	Œdèmes importants aux chevilles.	italiano_urgenza bloc2 giorno46
+l'ortopnea	l'orthopnée	<i>Dorme con tre cuscini per l'ortopnea.</i>	Il dort avec trois oreillers à cause de l'orthopnée.	italiano_urgenza bloc2 giorno46
+la tosse	la toux	<i>Tosse produttiva da una settimana.</i>	Toux productive depuis une semaine.	italiano_urgenza bloc2 giorno46
+l'espettorato	l'expectoration	<i>Espettorato schiumoso e rosato.</i>	Expectoration mousseuse et rosée.	italiano_urgenza bloc2 giorno46
+l'emottisi	l'hémoptysie	<i>Presenta emottisi da stamattina.</i>	Il présente une hémoptysie depuis ce matin.	italiano_urgenza bloc2 giorno46
+l'arresto cardiaco	l'arrêt cardiaque	<i>Arresto cardiaco testimoniato, iniziamo la rianimazione.</i>	Arrêt cardiaque témoigné, nous débutons la réanimation.	italiano_urgenza bloc2 giorno46
+il mal di testa	le mal de tête	<i>Mal di testa improvviso e violentissimo.</i>	Mal de tête soudain et très violent.	italiano_urgenza bloc2 giorno47
+la cefalea	la céphalée	<i>Cefalea a esordio esplosivo.</i>	Céphalée à début brutal.	italiano_urgenza bloc2 giorno47
+la fotofobia	la photophobie	<i>Riferisce fotofobia e rigidità nucale.</i>	Il rapporte une photophobie et une raideur de nuque.	italiano_urgenza bloc2 giorno47
+la perdita di coscienza	la perte de connaissance	<i>Perdita di coscienza di breve durata.</i>	Perte de connaissance de brève durée.	italiano_urgenza bloc2 giorno47
+la sincope	la syncope	<i>Sincope da ortostatismo.</i>	Syncope orthostatique.	italiano_urgenza bloc2 giorno47
+l'agitazione psicomotoria	l'agitation psychomotrice	<i>Il paziente è in agitazione psicomotoria.</i>	Le patient est en agitation psychomotrice.	italiano_urgenza bloc2 giorno47
+l'ansia	l'anxiété	<i>Crisi d'ansia con iperventilazione.</i>	Crise d'angoisse avec hyperventilation.	italiano_urgenza bloc2 giorno47
+l'allucinazione	l'hallucination	<i>Riferisce allucinazioni visive.</i>	Il rapporte des hallucinations visuelles.	italiano_urgenza bloc2 giorno47
+i pensieri suicidari	les idées suicidaires	<i>Ha pensieri suicidari in questo momento?</i>	Avez-vous des idées suicidaires en ce moment ?	italiano_urgenza bloc2 giorno47
+il ricovero a scopo di assistenza	le placement à des fins d'assistance	<i>Valutiamo un ricovero a scopo di assistenza.</i>	Nous évaluons un placement à des fins d'assistance.	italiano_urgenza bloc2 giorno47
+la gravidanza	la grossesse	<i>È alla trentaduesima settimana di gravidanza.</i>	Elle est à la trente-deuxième semaine de grossesse.	italiano_urgenza bloc2 giorno48
+le contrazioni	les contractions	<i>Le contrazioni sono ogni tre minuti.</i>	Les contractions sont toutes les trois minutes.	italiano_urgenza bloc2 giorno48
+il parto	l'accouchement	<i>Il parto è imminente, prepariamo il kit.</i>	L'accouchement est imminent, préparons le kit.	italiano_urgenza bloc2 giorno48
+le acque rotte	la perte des eaux	<i>Ha rotto le acque un'ora fa.</i>	Elle a perdu les eaux il y a une heure.	italiano_urgenza bloc2 giorno48
+il neonato	le nouveau-né	<i>Il neonato piange e ha un buon tono.</i>	Le nouveau-né pleure et a un bon tonus.	italiano_urgenza bloc2 giorno48
+il lattante	le nourrisson	<i>Il lattante ha tre mesi e la febbre alta.</i>	Le nourrisson a trois mois et une forte fièvre.	italiano_urgenza bloc2 giorno48
+il bambino	l'enfant	<i>Il bambino ha battuto la testa cadendo dall'altalena.</i>	L'enfant s'est cogné la tête en tombant de la balançoire.	italiano_urgenza bloc2 giorno48
+la convulsione febbrile	la convulsion fébrile	<i>Convulsione febbrile in bambino di due anni.</i>	Convulsion fébrile chez un enfant de deux ans.	italiano_urgenza bloc2 giorno48
+il pianto	les pleurs	<i>Il pianto è vigoroso e consolabile.</i>	Les pleurs sont vigoureux et consolables.	italiano_urgenza bloc2 giorno48
+il pediatra	le pédiatre	<i>Avvisiamo il pediatra di guardia.</i>	Nous prévenons le pédiatre de garde.	italiano_urgenza bloc2 giorno48
+il trauma cranico	le traumatisme crânien	<i>Trauma cranico con perdita di coscienza.</i>	Traumatisme crânien avec perte de connaissance.	italiano_urgenza bloc2 giorno49
+la frattura esposta	la fracture ouverte	<i>Frattura esposta di tibia.</i>	Fracture ouverte du tibia.	italiano_urgenza bloc2 giorno49
+la lussazione	la luxation	<i>Lussazione di spalla anteriore.</i>	Luxation antérieure de l'épaule.	italiano_urgenza bloc2 giorno49
+la distorsione	l'entorse	<i>Distorsione di caviglia in inversione.</i>	Entorse de cheville en inversion.	italiano_urgenza bloc2 giorno49
+la contusione	la contusion	<i>Contusione toracica senza dispnea.</i>	Contusion thoracique sans dyspnée.	italiano_urgenza bloc2 giorno49
+lo scontro frontale	le choc frontal	<i>Scontro frontale a settanta chilometri orari.</i>	Choc frontal à soixante-dix kilomètres à l'heure.	italiano_urgenza bloc2 giorno49
+il ribaltamento	le tonneau	<i>Il veicolo ha fatto un ribaltamento.</i>	Le véhicule a fait un tonneau.	italiano_urgenza bloc2 giorno49
+l'incarceramento	l'incarcération	<i>Paziente incarcerato, richiediamo i pompieri.</i>	Patient incarcéré, nous demandons les pompiers.	italiano_urgenza bloc2 giorno49
+la caduta dall'alto	la chute de hauteur	<i>Caduta dall'alto da quattro metri.</i>	Chute de hauteur de quatre mètres.	italiano_urgenza bloc2 giorno49
+la cintura di sicurezza	la ceinture de sécurité	<i>Indossava la cintura di sicurezza.</i>	Il portait la ceinture de sécurité.	italiano_urgenza bloc2 giorno49
+Come si chiama?	Comment vous appelez-vous ?	<i>Come si chiama e che giorno è oggi?</i>	Comment vous appelez-vous et quel jour sommes-nous ?	italiano_urgenza bloc2 giorno50
+Sa dov'è?	Savez-vous où vous êtes ?	<i>Sa dov'è in questo momento?</i>	Savez-vous où vous êtes en ce moment ?	italiano_urgenza bloc2 giorno50
+Che cosa è successo?	Que s'est-il passé ?	<i>Mi racconti che cosa è successo.</i>	Racontez-moi ce qui s'est passé.	italiano_urgenza bloc2 giorno50
+Le fa male qui?	Avez-vous mal ici ?	<i>Le fa male qui quando premo?</i>	Avez-vous mal ici quand j'appuie ?	italiano_urgenza bloc2 giorno50
+Mi sente?	Vous m'entendez ?	<i>Signore, mi sente? Apra gli occhi.</i>	Monsieur, vous m'entendez ? Ouvrez les yeux.	italiano_urgenza bloc2 giorno50
+Riesce a muoversi?	Arrivez-vous à bouger ?	<i>Riesce a muovere le gambe?</i>	Arrivez-vous à bouger les jambes ?	italiano_urgenza bloc2 giorno50
+Ha battuto la testa?	Vous êtes-vous cogné la tête ?	<i>Ha battuto la testa nella caduta?</i>	Vous êtes-vous cogné la tête dans la chute ?	italiano_urgenza bloc2 giorno50
+Prende medicamenti?	Prenez-vous des médicaments ?	<i>Prende medicamenti tutti i giorni?</i>	Prenez-vous des médicaments tous les jours ?	italiano_urgenza bloc2 giorno50
+Le è già successo?	Cela vous est-il déjà arrivé ?	<i>Le è già successo un episodio simile?</i>	Un épisode similaire vous est-il déjà arrivé ?	italiano_urgenza bloc2 giorno50
+Vuole venire con noi?	Voulez-vous venir avec nous ?	<i>Vuole venire con noi in ospedale?</i>	Voulez-vous venir avec nous à l'hôpital ?	italiano_urgenza bloc2 giorno50
+l'autoambulanza	l'ambulance (terme officiel suisse)	<i>L'autoambulanza è posteggiata davanti allo stabile.</i>	L'ambulance est garée devant l'immeuble.	italiano_urgenza bloc3 giorno51
+il vano sanitario	la cellule sanitaire	<i>Il materiale è nel vano sanitario.</i>	Le matériel est dans la cellule sanitaire.	italiano_urgenza bloc3 giorno51
+la cabina di guida	la cabine de conduite	<i>Il capo intervento sale in cabina di guida.</i>	Le chef d'intervention monte en cabine de conduite.	italiano_urgenza bloc3 giorno51
+il portellone posteriore	le hayon arrière	<i>Apri il portellone posteriore.</i>	Ouvre le hayon arrière.	italiano_urgenza bloc3 giorno51
+i lampeggianti	les gyrophares	<i>Accendo i lampeggianti e la sirena.</i>	J'allume les gyrophares et la sirène.	italiano_urgenza bloc3 giorno51
+la sirena	la sirène	<i>Spegni la sirena vicino all'ospedale.</i>	Éteins la sirène à proximité de l'hôpital.	italiano_urgenza bloc3 giorno51
+la corsa urgente	la course urgente	<i>Partiamo in corsa urgente verso Lugano.</i>	Nous partons en course urgente vers Lugano.	italiano_urgenza bloc3 giorno51
+il segnale prioritario	les feux prioritaires	<i>Usiamo il segnale prioritario solo se necessario.</i>	Nous utilisons les feux prioritaires seulement si nécessaire.	italiano_urgenza bloc3 giorno51
+il gradino	le marchepied	<i>Faccia attenzione al gradino.</i>	Attention au marchepied.	italiano_urgenza bloc3 giorno51
+la rampa	la rampe	<i>Estraiamo la rampa per caricare la sedia.</i>	Nous sortons la rampe pour charger la chaise.	italiano_urgenza bloc3 giorno51
+il sollevatore elettrico	le hayon élévateur	<i>La barella sale con il sollevatore elettrico.</i>	Le brancard monte avec le hayon élévateur.	italiano_urgenza bloc3 giorno51
+l'armadietto	l'armoire de rangement	<i>Le garze sono nell'armadietto superiore.</i>	Les compresses sont dans l'armoire du haut.	italiano_urgenza bloc3 giorno51
+il controllo del turno	le contrôle de début de service	<i>Facciamo il controllo del turno prima di partire.</i>	Nous faisons le contrôle de service avant de partir.	italiano_urgenza bloc3 giorno51
+il rifornimento	le réapprovisionnement	<i>Dopo l'intervento facciamo rifornimento di materiale.</i>	Après l'intervention nous réapprovisionnons le matériel.	italiano_urgenza bloc3 giorno51
+la disinfezione	la désinfection	<i>Procediamo alla disinfezione del vano sanitario.</i>	Nous procédons à la désinfection de la cellule sanitaire.	italiano_urgenza bloc3 giorno51
+la barella	le brancard	<i>Carichiamo la barella con le cinghie chiuse.</i>	Nous chargeons le brancard avec les sangles fermées.	italiano_urgenza bloc3 giorno52
+la barella a cucchiaio	le brancard cuillère	<i>Usiamo la barella a cucchiaio per il sospetto trauma.</i>	Nous utilisons le brancard cuillère pour le traumatisme suspecté.	italiano_urgenza bloc3 giorno52
+la sedia portantina	la chaise de transport	<i>Scendiamo dal terzo piano con la sedia portantina.</i>	Nous descendons du troisième étage avec la chaise de transport.	italiano_urgenza bloc3 giorno52
+il telo portaferiti	le portoir souple	<i>Spostiamo il paziente con il telo portaferiti.</i>	Nous déplaçons le patient avec le portoir souple.	italiano_urgenza bloc3 giorno52
+il materassino a depressione	le matelas coquille	<i>Immobilizzo con il materassino a depressione.</i>	J'immobilise avec le matelas coquille.	italiano_urgenza bloc3 giorno52
+l'asse spinale	le plan dur	<i>Posizioniamo il paziente sull'asse spinale.</i>	Nous positionnons le patient sur le plan dur.	italiano_urgenza bloc3 giorno52
+il collare cervicale	le collier cervical	<i>Metto un collare cervicale misura media.</i>	Je pose un collier cervical taille moyenne.	italiano_urgenza bloc3 giorno52
+i fermacapo	les cales-tête	<i>Fisso i fermacapo e le cinghie frontali.</i>	Je fixe les cales-tête et les sangles frontales.	italiano_urgenza bloc3 giorno52
+il corsetto estricatore	le corset d'extraction (KED)	<i>Applichiamo il corsetto estricatore prima dell'estrazione.</i>	Nous appliquons le corset d'extraction avant la désincarcération.	italiano_urgenza bloc3 giorno52
+la stecca	l'attelle	<i>Immobilizzo l'avambraccio con una stecca.</i>	J'immobilise l'avant-bras avec une attelle.	italiano_urgenza bloc3 giorno52
+la steccobenda a depressione	l'attelle à dépression	<i>Uso una steccobenda a depressione per la gamba.</i>	J'utilise une attelle à dépression pour la jambe.	italiano_urgenza bloc3 giorno52
+le cinghie	les sangles	<i>Controlla che tutte le cinghie siano chiuse.</i>	Vérifie que toutes les sangles sont fermées.	italiano_urgenza bloc3 giorno52
+la trazione	la traction	<i>Applico una trazione delicata sull'arto.</i>	J'applique une traction douce sur le membre.	italiano_urgenza bloc3 giorno52
+la rotazione in blocco	la bascule latérale (log roll)	<i>Facciamo una rotazione in blocco al mio comando.</i>	Nous faisons une bascule latérale à mon commandement.	italiano_urgenza bloc3 giorno52
+il sollevamento in blocco	le relevage en bloc	<i>Sollevamento in blocco al tre: uno, due, tre.</i>	Relevage en bloc à trois : un, deux, trois.	italiano_urgenza bloc3 giorno52
+la bombola di ossigeno	la bouteille d'oxygène	<i>Controlla la pressione della bombola di ossigeno.</i>	Contrôle la pression de la bouteille d'oxygène.	italiano_urgenza bloc3 giorno53
+il riduttore di pressione	le détendeur	<i>Il riduttore di pressione perde, cambialo.</i>	Le détendeur fuit, change-le.	italiano_urgenza bloc3 giorno53
+il flussometro	le débitmètre	<i>Regola il flussometro a quindici litri.</i>	Règle le débitmètre à quinze litres.	italiano_urgenza bloc3 giorno53
+la maschera facciale	le masque facial	<i>Applico una maschera facciale con reservoir.</i>	J'applique un masque facial à réserve.	italiano_urgenza bloc3 giorno53
+il pallone autoespandibile	le ballon auto-remplisseur	<i>Ventilo con il pallone autoespandibile.</i>	Je ventile avec le ballon auto-remplisseur.	italiano_urgenza bloc3 giorno53
+la cannula di Guedel	la canule de Guedel	<i>Inserisco una cannula di Guedel numero quattro.</i>	J'insère une canule de Guedel numéro quatre.	italiano_urgenza bloc3 giorno53
+il presidio sovraglottico	le dispositif supraglottique	<i>Posizioniamo un presidio sovraglottico.</i>	Nous posons un dispositif supraglottique.	italiano_urgenza bloc3 giorno53
+il tubo endotracheale	la sonde d'intubation	<i>Il medico prepara il tubo endotracheale.</i>	Le médecin prépare la sonde d'intubation.	italiano_urgenza bloc3 giorno53
+il laringoscopio	le laryngoscope	<i>Passami il laringoscopio con lama tre.</i>	Passe-moi le laryngoscope avec lame trois.	italiano_urgenza bloc3 giorno53
+il capnografo	le capnographe	<i>Colleghiamo il capnografo dopo l'intubazione.</i>	Nous branchons le capnographe après l'intubation.	italiano_urgenza bloc3 giorno53
+il pulsossimetro	l'oxymètre de pouls	<i>Metto il pulsossimetro al dito indice.</i>	Je place l'oxymètre sur l'index.	italiano_urgenza bloc3 giorno53
+l'aerosol	l'aérosol, la nébulisation	<i>Prepariamo un aerosol con broncodilatatore.</i>	Nous préparons un aérosol avec bronchodilatateur.	italiano_urgenza bloc3 giorno53
+il distanziatore	la chambre d'inhalation	<i>Somministriamo lo spray con il distanziatore.</i>	Nous administrons le spray avec la chambre d'inhalation.	italiano_urgenza bloc3 giorno53
+la CPAP	la CPAP	<i>Iniziamo la CPAP per l'edema polmonare.</i>	Nous débutons la CPAP pour l'œdème pulmonaire.	italiano_urgenza bloc3 giorno53
+il sondino di aspirazione	la sonde d'aspiration	<i>Passami un sondino di aspirazione rigido.</i>	Passe-moi une sonde d'aspiration rigide.	italiano_urgenza bloc3 giorno53
+il monitor multiparametrico	le moniteur multiparamétrique	<i>Collego il paziente al monitor multiparametrico.</i>	Je branche le patient au moniteur multiparamétrique.	italiano_urgenza bloc3 giorno54
+il defibrillatore	le défibrillateur	<i>Il defibrillatore è carico, allontanatevi.</i>	Le défibrillateur est chargé, écartez-vous.	italiano_urgenza bloc3 giorno54
+il DAE	le DAE (défibrillateur automatisé externe)	<i>In azienda c'era un DAE già applicato.</i>	Dans l'entreprise, un DAE était déjà posé.	italiano_urgenza bloc3 giorno54
+le placche	les électrodes de défibrillation	<i>Attacco le placche sul torace nudo.</i>	Je colle les électrodes sur le thorax nu.	italiano_urgenza bloc3 giorno54
+gli elettrodi	les électrodes ECG	<i>Posiziono gli elettrodi per l'ECG.</i>	Je positionne les électrodes pour l'ECG.	italiano_urgenza bloc3 giorno54
+l'ECG a dodici derivazioni	l'ECG douze dérivations	<i>Eseguo un ECG a dodici derivazioni.</i>	Je réalise un ECG douze dérivations.	italiano_urgenza bloc3 giorno54
+lo sfigmomanometro	le tensiomètre	<i>Misuro la pressione con lo sfigmomanometro.</i>	Je prends la tension avec le tensiomètre.	italiano_urgenza bloc3 giorno54
+il bracciale	le brassard	<i>Metto il bracciale al braccio destro.</i>	Je mets le brassard au bras droit.	italiano_urgenza bloc3 giorno54
+il fonendoscopio	le stéthoscope	<i>Ausculto con il fonendoscopio.</i>	J'ausculte avec le stéthoscope.	italiano_urgenza bloc3 giorno54
+l'agocannula	le cathéter veineux	<i>Metto un'agocannula rosa al dorso della mano.</i>	Je pose un cathéter rose au dos de la main.	italiano_urgenza bloc3 giorno54
+la via venosa periferica	la voie veineuse périphérique	<i>Assicuro una via venosa periferica.</i>	Je sécurise une voie veineuse périphérique.	italiano_urgenza bloc3 giorno54
+il deflussore	la tubulure de perfusion	<i>Prepara il deflussore e la fisiologica.</i>	Prépare la tubulure et le sérum physiologique.	italiano_urgenza bloc3 giorno54
+la fisiologica	le sérum physiologique	<i>Infondo cinquecento millilitri di fisiologica.</i>	Je perfuse cinq cents millilitres de sérum physiologique.	italiano_urgenza bloc3 giorno54
+il glucometro	le lecteur de glycémie	<i>Con il glucometro misuro tre virgola due.</i>	Au lecteur de glycémie je mesure trois virgule deux.	italiano_urgenza bloc3 giorno54
+il laccio	le garrot de pose	<i>Stringi il laccio, cerco una vena.</i>	Serre le garrot, je cherche une veine.	italiano_urgenza bloc3 giorno54
+somministrare	administrer	<i>Somministro ossigeno e nitrati.</i>	J'administre de l'oxygène et des dérivés nitrés.	italiano_urgenza bloc3 giorno55
+la via endovenosa	la voie intraveineuse	<i>Somministrazione per via endovenosa lenta.</i>	Administration par voie intraveineuse lente.	italiano_urgenza bloc3 giorno55
+la via intramuscolare	la voie intramusculaire	<i>Adrenalina per via intramuscolare nella coscia.</i>	Adrénaline par voie intramusculaire dans la cuisse.	italiano_urgenza bloc3 giorno55
+la via sublinguale	la voie sublinguale	<i>Nitroglicerina per via sublinguale.</i>	Nitroglycérine par voie sublinguale.	italiano_urgenza bloc3 giorno55
+la via intranasale	la voie intranasale	<i>Naloxone per via intranasale.</i>	Naloxone par voie intranasale.	italiano_urgenza bloc3 giorno55
+la via intraossea	la voie intraosseuse	<i>Se non troviamo vene, andiamo in via intraossea.</i>	Si nous ne trouvons pas de veine, nous passons en intraosseuse.	italiano_urgenza bloc3 giorno55
+la dose	la dose	<i>La dose è di mezzo milligrammo.</i>	La dose est d'un demi-milligramme.	italiano_urgenza bloc3 giorno55
+la fiala	l'ampoule	<i>Preparo una fiala di adrenalina.</i>	Je prépare une ampoule d'adrénaline.	italiano_urgenza bloc3 giorno55
+la siringa	la seringue	<i>Passami una siringa da dieci millilitri.</i>	Passe-moi une seringue de dix millilitres.	italiano_urgenza bloc3 giorno55
+l'ago	l'aiguille	<i>Elimino l'ago nel contenitore rigido.</i>	J'élimine l'aiguille dans le conteneur rigide.	italiano_urgenza bloc3 giorno55
+l'adrenalina	l'adrénaline	<i>Adrenalina un milligrammo endovena.</i>	Adrénaline un milligramme en intraveineuse.	italiano_urgenza bloc3 giorno55
+il glucosio	le glucose	<i>Somministro glucosio per l'ipoglicemia.</i>	J'administre du glucose pour l'hypoglycémie.	italiano_urgenza bloc3 giorno55
+la morfina	la morphine	<i>Titolazione di morfina per il dolore.</i>	Titration de morphine pour la douleur.	italiano_urgenza bloc3 giorno55
+l'algoritmo	l'algorithme, le protocole	<i>Seguo l'algoritmo cantonale per il dolore toracico.</i>	Je suis l'algorithme cantonal pour la douleur thoracique.	italiano_urgenza bloc3 giorno55
+la prescrizione medica	la prescription médicale	<i>Chiedo la prescrizione medica alla centrale.</i>	Je demande la prescription médicale à la centrale.	italiano_urgenza bloc3 giorno55
+la centrale operativa	la centrale d'engagement	<i>Centrale operativa, qui autoambulanza Lugano uno.</i>	Centrale d'engagement, ici ambulance Lugano un.	italiano_urgenza bloc3 giorno56
+Ticino Soccorso 144	Ticino Soccorso 144	<i>Ticino Soccorso 144 ci ha allertati alle nove e dieci.</i>	Ticino Soccorso 144 nous a alertés à neuf heures dix.	italiano_urgenza bloc3 giorno56
+l'allarme	l'alarme, l'alerte	<i>L'allarme è arrivato tramite il numero 144.</i>	L'alarme est arrivée par le numéro 144.	italiano_urgenza bloc3 giorno56
+l'ingaggio	l'engagement, la mission	<i>Confermiamo l'ingaggio per un malore in strada.</i>	Nous confirmons l'engagement pour un malaise sur la voie publique.	italiano_urgenza bloc3 giorno56
+Ricevuto	Bien reçu	<i>Ricevuto centrale, siamo in partenza.</i>	Bien reçu centrale, nous partons.	italiano_urgenza bloc3 giorno56
+Passo	À vous	<i>Confermate l'indirizzo, passo.</i>	Confirmez l'adresse, à vous.	italiano_urgenza bloc3 giorno56
+Chiudo	Terminé	<i>Grazie centrale, chiudo.</i>	Merci centrale, terminé.	italiano_urgenza bloc3 giorno56
+In ascolto	À l'écoute	<i>Autoambulanza due in ascolto.</i>	Ambulance deux à l'écoute.	italiano_urgenza bloc3 giorno56
+Ripeta per favore	Répétez s'il vous plaît	<i>Non ho capito, ripeta per favore.</i>	Je n'ai pas compris, répétez s'il vous plaît.	italiano_urgenza bloc3 giorno56
+Forte e chiaro	Cinq sur cinq	<i>Vi ricevo forte e chiaro.</i>	Je vous reçois cinq sur cinq.	italiano_urgenza bloc3 giorno56
+la copertura radio	la couverture radio	<i>Qui la copertura radio è scarsa.</i>	Ici la couverture radio est mauvaise.	italiano_urgenza bloc3 giorno56
+il canale	le canal	<i>Passiamo sul canale di intervento.</i>	Nous passons sur le canal d'intervention.	italiano_urgenza bloc3 giorno56
+Polycom	Polycom (réseau radio suisse de sécurité)	<i>Comunichiamo via Polycom con i pompieri.</i>	Nous communiquons par Polycom avec les pompiers.	italiano_urgenza bloc3 giorno56
+l'alfabeto fonetico	l'alphabet phonétique	<i>Le detto il nome con l'alfabeto fonetico.</i>	Je vous dicte le nom avec l'alphabet phonétique.	italiano_urgenza bloc3 giorno56
+fare lo spelling	épeler	<i>Le faccio lo spelling: Alfa, Novembre, Delta.</i>	Je vous l'épelle : Alfa, November, Delta.	italiano_urgenza bloc3 giorno56
+lo stato del mezzo	le statut du véhicule	<i>Aggiorno lo stato del mezzo sul terminale.</i>	Je mets à jour le statut du véhicule sur le terminal.	italiano_urgenza bloc3 giorno57
+in partenza	en route, au départ	<i>Autoambulanza uno in partenza.</i>	Ambulance un en route.	italiano_urgenza bloc3 giorno57
+sul posto	sur place	<i>Siamo sul posto, iniziamo la valutazione.</i>	Nous sommes sur place, nous débutons l'évaluation.	italiano_urgenza bloc3 giorno57
+al paziente	auprès du patient	<i>Siamo al paziente, ora vi aggiorno.</i>	Nous sommes auprès du patient, je vous informe.	italiano_urgenza bloc3 giorno57
+in trasporto	en transport	<i>In trasporto verso l'Ospedale Civico.</i>	En transport vers l'Ospedale Civico.	italiano_urgenza bloc3 giorno57
+all'ospedale	à l'hôpital	<i>Arrivati all'ospedale, consegna in corso.</i>	Arrivés à l'hôpital, transmission en cours.	italiano_urgenza bloc3 giorno57
+libero	disponible, libre	<i>Mezzo libero e rientrante in sede.</i>	Véhicule disponible et rentrant à la base.	italiano_urgenza bloc3 giorno57
+occupato	occupé	<i>Siamo occupati su un altro intervento.</i>	Nous sommes occupés sur une autre intervention.	italiano_urgenza bloc3 giorno57
+il codice di rientro	le degré d'urgence du retour	<i>Rientriamo in codice due.</i>	Nous rentrons en code deux.	italiano_urgenza bloc3 giorno57
+l'urgenza vitale	l'urgence vitale	<i>Si tratta di un'urgenza vitale, chiedo rinforzi.</i>	Il s'agit d'une urgence vitale, je demande des renforts.	italiano_urgenza bloc3 giorno57
+il rinforzo	le renfort	<i>Richiedo il rinforzo di un secondo mezzo.</i>	Je demande le renfort d'un deuxième véhicule.	italiano_urgenza bloc3 giorno57
+il medico d'urgenza	le médecin d'urgence	<i>Chiedo l'invio del medico d'urgenza.</i>	Je demande l'envoi du médecin d'urgence.	italiano_urgenza bloc3 giorno57
+l'elisoccorso	l'hélicoptère de secours	<i>Attivate l'elisoccorso della Rega.</i>	Activez l'hélicoptère de secours de la Rega.	italiano_urgenza bloc3 giorno57
+il punto d'incontro	le point de rendez-vous	<i>Fissiamo un punto d'incontro con i pompieri.</i>	Nous fixons un point de rendez-vous avec les pompiers.	italiano_urgenza bloc3 giorno57
+l'annuncio	l'annonce, le préavis	<i>Faccio l'annuncio al Pronto Soccorso.</i>	Je fais l'annonce aux urgences.	italiano_urgenza bloc3 giorno57
+la consegna	la transmission, la passation	<i>Faccio la consegna all'infermiere del triage.</i>	Je fais la transmission à l'infirmier du triage.	italiano_urgenza bloc3 giorno58
+il preavviso	le préavis	<i>Diamo il preavviso di arrivo tra dieci minuti.</i>	Nous donnons le préavis d'arrivée dans dix minutes.	italiano_urgenza bloc3 giorno58
+il rapporto d'intervento	le rapport d'intervention	<i>Compilo il rapporto d'intervento.</i>	Je remplis le rapport d'intervention.	italiano_urgenza bloc3 giorno58
+il protocollo	le protocole	<i>Firmo il protocollo e lo lascio in reparto.</i>	Je signe le protocole et le laisse dans le service.	italiano_urgenza bloc3 giorno58
+Vi porto...	Je vous amène...	<i>Vi porto un paziente di settantadue anni.</i>	Je vous amène un patient de soixante-douze ans.	italiano_urgenza bloc3 giorno58
+l'anamnesi in breve	l'anamnèse en bref	<i>In breve: cardiopatico, diabetico, iperteso.</i>	En bref : cardiaque, diabétique, hypertendu.	italiano_urgenza bloc3 giorno58
+i parametri vitali	les paramètres vitaux	<i>Parametri vitali all'arrivo: pressione centoquaranta su ottanta.</i>	Paramètres vitaux à l'arrivée : tension cent quarante sur quatre-vingts.	italiano_urgenza bloc3 giorno58
+l'evoluzione	l'évolution	<i>L'evoluzione durante il trasporto è stata stabile.</i>	L'évolution pendant le transport a été stable.	italiano_urgenza bloc3 giorno58
+il trattamento eseguito	le traitement effectué	<i>Trattamento eseguito: ossigeno e nitrati.</i>	Traitement effectué : oxygène et dérivés nitrés.	italiano_urgenza bloc3 giorno58
+stabile	stable	<i>Il paziente è rimasto stabile.</i>	Le patient est resté stable.	italiano_urgenza bloc3 giorno58
+peggiorato	aggravé	<i>È peggiorato durante il trasporto.</i>	Il s'est aggravé pendant le transport.	italiano_urgenza bloc3 giorno58
+l'ipotesi diagnostica	l'hypothèse diagnostique	<i>La nostra ipotesi diagnostica è una sindrome coronarica.</i>	Notre hypothèse diagnostique est un syndrome coronarien.	italiano_urgenza bloc3 giorno58
+il triage	le triage	<i>L'infermiere di triage assegna il codice.</i>	L'infirmier de triage attribue le code.	italiano_urgenza bloc3 giorno58
+il letto d'osservazione	le lit d'observation	<i>Lo portiamo nel letto d'osservazione due.</i>	Nous l'installons au lit d'observation deux.	italiano_urgenza bloc3 giorno58
+gli effetti personali	les effets personnels	<i>Consegno gli effetti personali e i documenti.</i>	Je remets les effets personnels et les documents.	italiano_urgenza bloc3 giorno58
+il Pronto Soccorso	les urgences hospitalières	<i>Trasportiamo al Pronto Soccorso di Lugano.</i>	Nous transportons aux urgences de Lugano.	italiano_urgenza bloc3 giorno59
+la FCTSA	la FCTSA (fédération cantonale des services d'ambulance)	<i>La FCTSA coordina i servizi autoambulanza del Cantone.</i>	La FCTSA coordonne les services d'ambulance du canton.	italiano_urgenza bloc3 giorno59
+l'EOC	l'EOC (hôpitaux publics cantonaux)	<i>L'EOC gestisce gli ospedali pubblici del Ticino.</i>	L'EOC gère les hôpitaux publics du Tessin.	italiano_urgenza bloc3 giorno59
+la Croce Verde	la Croce Verde (service d'ambulance)	<i>La Croce Verde di Lugano invia un secondo mezzo.</i>	La Croce Verde de Lugano envoie un deuxième véhicule.	italiano_urgenza bloc3 giorno59
+la Rega	la Rega (garde aérienne suisse)	<i>La Rega arriva tra otto minuti.</i>	La Rega arrive dans huit minutes.	italiano_urgenza bloc3 giorno59
+il soccorritore diplomato	l'ambulancier diplômé	<i>Sono soccorritore diplomato SSS.</i>	Je suis ambulancier diplômé ES.	italiano_urgenza bloc3 giorno59
+l'autista soccorritore	le chauffeur-secouriste	<i>L'autista soccorritore guida in corsa urgente.</i>	Le chauffeur-secouriste conduit en course urgente.	italiano_urgenza bloc3 giorno59
+il capo intervento	le chef d'intervention	<i>Il capo intervento coordina sul posto.</i>	Le chef d'intervention coordonne sur place.	italiano_urgenza bloc3 giorno59
+il servizio di picchetto	le service de piquet	<i>Questa notte sono di picchetto.</i>	Cette nuit je suis de piquet.	italiano_urgenza bloc3 giorno59
+la cassa malati	la caisse maladie	<i>Mi dice qual è la sua cassa malati?</i>	Pouvez-vous me dire quelle est votre caisse maladie ?	italiano_urgenza bloc3 giorno59
+la tessera d'assicurato	la carte d'assuré	<i>Cerchiamo la tessera d'assicurato nel portafoglio.</i>	Nous cherchons la carte d'assuré dans le portefeuille.	italiano_urgenza bloc3 giorno59
+il medico di guardia	le médecin de garde	<i>Chiamiamo il medico di guardia della regione.</i>	Nous appelons le médecin de garde de la région.	italiano_urgenza bloc3 giorno59
+la casa per anziani	l'EMS	<i>Veniamo chiamati da una casa per anziani.</i>	Nous sommes appelés par un EMS.	italiano_urgenza bloc3 giorno59
+il servizio di cure a domicilio	les soins à domicile	<i>Il servizio di cure a domicilio passa due volte al giorno.</i>	Les soins à domicile passent deux fois par jour.	italiano_urgenza bloc3 giorno59
+la polizia cantonale	la police cantonale	<i>La polizia cantonale è già sul posto.</i>	La police cantonale est déjà sur place.	italiano_urgenza bloc3 giorno59
+il 144	le 144 (numéro sanitaire suisse)	<i>In Svizzera si chiama il 144 per le emergenze sanitarie.</i>	En Suisse on appelle le 144 pour les urgences sanitaires.	italiano_urgenza bloc3 giorno60
+il 117	le 117 (police)	<i>Per la polizia si compone il 117.</i>	Pour la police on compose le 117.	italiano_urgenza bloc3 giorno60
+il 118	le 118 (pompiers)	<i>I pompieri si allertano con il 118.</i>	Les pompiers s'alertent avec le 118.	italiano_urgenza bloc3 giorno60
+il 1414	le 1414 (Rega)	<i>La Rega si allerta al 1414.</i>	La Rega s'alerte au 1414.	italiano_urgenza bloc3 giorno60
+l'ACR	l'ACR (arrêt cardio-respiratoire)	<i>Intervento per ACR in luogo pubblico.</i>	Intervention pour ACR sur la voie publique.	italiano_urgenza bloc3 giorno60
+la RCP	la RCP (réanimation cardio-pulmonaire)	<i>Iniziamo subito la RCP.</i>	Nous débutons immédiatement la RCP.	italiano_urgenza bloc3 giorno60
+il BLS-DAE	le BLS-AED	<i>I presenti hanno eseguito il BLS-DAE prima del nostro arrivo.</i>	Les témoins ont effectué le BLS-AED avant notre arrivée.	italiano_urgenza bloc3 giorno60
+l'ALS	l'ALS (soins avancés)	<i>Il medico prosegue con misure ALS.</i>	Le médecin poursuit avec des mesures ALS.	italiano_urgenza bloc3 giorno60
+il posteggio	la place de parc (helvétisme)	<i>Trova un posteggio vicino all'entrata.</i>	Trouve une place de parc près de l'entrée.	italiano_urgenza bloc3 giorno60
+il formulario	le formulaire (helvétisme)	<i>Firmi il formulario di rifiuto.</i>	Signez le formulaire de refus.	italiano_urgenza bloc3 giorno60
+l'annuncio d'evento	l'annonce d'événement	<i>Compilo l'annuncio d'evento per la centrale.</i>	Je remplis l'annonce d'événement pour la centrale.	italiano_urgenza bloc3 giorno60
+il comparto	le secteur, la zone d'intervention	<i>Il nostro comparto d'intervento è il Luganese.</i>	Notre secteur d'intervention est le Luganese.	italiano_urgenza bloc3 giorno60
+la sede	la base, le local	<i>Rientriamo in sede dopo la disinfezione.</i>	Nous rentrons à la base après la désinfection.	italiano_urgenza bloc3 giorno60
+il turno	le service, la garde	<i>Il turno di notte inizia alle diciannove.</i>	Le service de nuit commence à dix-neuf heures.	italiano_urgenza bloc3 giorno60
+il debriefing	le débriefing	<i>Facciamo un debriefing dopo l'intervento pesante.</i>	Nous faisons un débriefing après l'intervention difficile.	italiano_urgenza bloc3 giorno60
